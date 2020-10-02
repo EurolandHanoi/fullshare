@@ -1,0 +1,34 @@
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
+
+name: Build and deploy Jekyll app to Azure Web App - fullshare(staging)
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: 'ubuntu-latest'
+
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+      with:
+        ruby-version: 2.6
+        
+    - name: Install dependencies
+      run: bundle install
+      
+    - name: Jekyll build
+      run: bundle exec jekyll build
+      
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: 'fullshare'
+        slot-name: 'staging'
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ed5e434292e94691ac53274ec0eb480f }}
+        package: ./_site/
