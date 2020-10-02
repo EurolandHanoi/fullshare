@@ -1,0 +1,39 @@
+# pages to appear in navivation
+en:
+  - title: IR Home
+    path: /pages/ir
+
+  - title: Finacial Report
+    path: /pages/ir_reports
+
+  - title: Fact Sheet
+    path: /pages/ir_factsheet
+
+  - title: Interactive Analysis
+    path: /pages/ir_interactive
+
+tc:
+  - title: 投資者關係主頁
+    path: /pages_zh-hk/ir_tc
+
+  - title: 財務報告
+    path: /pages_zh-hk/ir_reports_tc
+
+  - title: 公司一覽表
+    path: /pages_zh-hk/ir_factsheet_tc
+
+  - title: 互動分析
+    path: /pages_zh-hk/ir_interactive_tc
+
+sc:
+  - title: 投资者关系主页
+    path: /pages_zh-cn/ir_sc
+
+  - title: 财务报告
+    path: /pages_zh-cn/ir_reports_sc
+
+  - title: 公司一览表
+    path: /pages_zh-cn/ir_factsheet_sc
+
+  - title: 互动分析
+    path: /pages_zh-cn/ir_interactive_sc

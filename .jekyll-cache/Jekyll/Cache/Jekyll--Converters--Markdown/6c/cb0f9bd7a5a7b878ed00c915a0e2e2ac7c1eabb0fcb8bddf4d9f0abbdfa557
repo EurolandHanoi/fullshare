@@ -1,0 +1,85 @@
+I"<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">教育醫療</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#sparrow_soccer_school" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#sparrow_soccer_school" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/education/sparrow_early_learning/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty invert orient-left content-align-right image-position-left onscroll-image-fade-in" id="sparrow_early_learning">
+  <div class="content">
+    <h2>Sparrow兒童教育集團</h2>
+    <p><p>本集團旗下Sparrow兒童教育集團總部位於澳洲布里斯班市，目前在澳洲的昆士蘭州和維多利亞州管理運營約30個兒童託管中心，為0-6歲兒童提供日間託管及教育服務。Sparrow在澳洲當地擁有良好的聲譽及豐富經驗的管理團隊。</p>
+
+<p><a href="http://www.sparrowearlylearning.com.au" class="button">前往網站</a></p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/education/sparrow_early_learning/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-center onscroll-image-fade-in" id="hin_feng">
+  <div class="content">
+    <h2>衍豐</h2>
+    <p><p>為拓展婦嬰保健市場， 本集團已與衍生集團（國際）控股有限公司（股份代號：6893.HK）成立合營企業衍豐投資（南京）有限公司，以拓展婦嬰中醫保健以及診斷及治療服務業務，藉以把握此快速增長之市場。衍生兒童中醫健康中心已於2017年6月25日於香港沙田石門正式開業。主要提供按摩、脊椎護理、眼睛護理及針灸等兒童成長的健康服務。</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/education/hin_feng/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

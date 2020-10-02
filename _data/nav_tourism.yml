@@ -1,0 +1,39 @@
+# pages to appear in navivation
+en: 
+  - title: Our Business
+    path: /home#businesses
+
+  - title: Sheraton
+    path: /pages/tourism#sheraton
+
+  - title: Laguna
+    path: /pages/tourism#laguna
+
+  - title: Orto Park
+    path: /pages/tourism#ortopark
+
+tc:
+  - title: 我們的業務
+    path: /home#businesses
+
+  - title: 喜來登
+    path: /pages_zh-hk/tourism_tc#sheraton
+
+  - title: 亞拉古拉
+    path: /pages_zh-hk/tourism_tc#laguna
+
+  - title: Orto Park
+    path: /pages_zh-hk/tourism_tc#ortopark
+
+sc:
+  - title: 我们的业务
+    path: /home_sc#businesses
+
+  - title: 喜来登
+    path: /pages_zh-cn/tourism_sc#sheraton
+
+  - title: 亚拉古拉
+    path: /pages_zh-cn/tourism_sc#laguna
+
+  - title: Orto Park
+    path: /pages_zh-cn/tourism_sc#ortopark

@@ -1,0 +1,21 @@
+# pages to appear in navivation
+en:
+  - title: Our Business
+    path: /home#businesses
+
+  - title: CHS
+    path: /pages/renewable#chs
+
+tc:
+  - title: 我們的業務
+    path: /home_tc#businesses
+
+  - title: 中國高速傳動設備集團有限公司
+    path: /pages_zh-hk/renewable#chs
+
+sc:
+  - title: 我们的业务
+    path: /home_sc#businesses
+
+  - title: 中国高速传动设备集团有限公司
+    path: /pages_zh-cn/renewable#chs

@@ -1,0 +1,25 @@
+---
+layout: page
+title: Two Spotlights Example
+spotlight1:
+  title: This is a Spotlight One
+  content: 'This is a <strong>Spotlight</strong> element, and it''s generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).'
+  button:
+    show: true
+    url: "#second"
+    text: Spotlight 2
+  image_url: '../images/spotlight01.jpg'
+
+spotlight2:
+  title: This is a Spotlight Two
+  content: 'This is a <strong>Spotlight</strong> element, and it''s generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).'
+  button:
+    show: true
+    url: "#first"
+    text: Spotlight 1
+  image_url: '../images/spotlight01.jpg'
+---
+
+{% include _spotlight.html key='spotlight1' style='style5' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='center' id='first' %}
+
+{% include _spotlight.html key='spotlight2' style='style5' orient='left' scheme='' color='' size='fullscreen' content_align='left' img_pos='center' id='second' %}

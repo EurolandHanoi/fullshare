@@ -1,0 +1,403 @@
+I"�'<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">公司戰略</h2>
+    <h3></h3>
+    <p><ul>
+  <li>以健康產業為戰略發展方向</li>
+  <li>同時打造核心運營平臺及服務內容品牌</li>
+  <li>並購優質品牌，聯接中國與海外市場，並同時進行產業鏈整合</li>
+  <li>重資產專案與輕資產業務並進</li>
+</ul>
+</p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#team" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#team" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/background.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Management Team -->
+<!-- Wrapper -->
+<section class="wrapper style2 align-center">
+    <div class="inner medium">
+      <h2>管理團隊</h2>
+
+      <section class="align-left" id="team">
+        <h3 class="align-center">執行董事</h3>
+        
+
+
+  <h4><b>季昌群先生</b></h4>
+  <h4>董事會主席、執行董事、首席執行官</h4>
+  
+  <p>[expand]</p>
+  <ul>
+  <li>負責本集團戰略管控及組織發展</li>
+  <li>中國東南大學修讀研究生課程，主修管理科學與工程</li>
+  <li>澳門科技大學頒授工商管理碩士學位</li>
+  <li>中國高級工程師及高級經濟師</li>
+  <li>江蘇省安徽商會會長</li>
+  <li>澳大利亞南京總商會會長</li>
+  <li>新加坡中醫學院名譽董事主席</li>
+  <li>武漢大學校董</li>
+  <li>武漢大學藥學院中藥與天然藥物研究所名譽所長</li>
+  <li>南京中醫藥大學董事會名譽董事長</li>
+  <li>南京中醫藥大學豐盛健康學院院長</li>
+</ul>
+
+
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>杜瑋女士</b></h4>
+  <h4>執行董事</h4>
+  
+  <p>[expand]</p>
+  <ul>
+<li>負責本集團之人力資源策略規劃、建立組織體系、建設企業文化、薪酬激勵、績效管理、執行評估及發展、本集團香港辦公室管理運營及主持本公司股東大會和董事會會議</li>
+<li>中國南京師範大學工商管理碩士學位</li>
+<li>中國南京師範大學旅遊管理學士學位</li>
+<li>豐盛控股（新加坡）服務管理有限公司總經理</li>
+</ul>
+
+
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>沈晨先生</b></h4>
+  <h4>執行董事及財務總監</h4>
+  
+  <p>[expand]</p>
+  <ul>
+<li>負責本集團資本、融資、資金、財務報告、財務管理及參與投資決策</li>
+<li>中國南京財經大學經濟管理學士學位</li>
+<li>中國高級會計師</li>
+</ul>
+
+    
+  <p>[/expand]</p>
+  
+
+
+      </section>
+
+      <section class="align-left">
+        <h3 class="align-center">獨立非執行董事</h3>
+        
+
+
+  <h4><b>劉智強先生</b></h4>
+  <h4>獨立非執行董事</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>獲香港政府頒授「太平紳士」榮銜</li>
+      
+        <li>獲香港政府頒授「榮譽勳章」</li>
+      
+        <li>香港理工大學頒授高級文憑，主修測量╱建築技術</li>
+      
+        <li>香港測量師學會紀律委員會成員</li>
+      
+        <li>政府總部轄下發展局（規劃地政科）上訴審裁團成員</li>
+      
+        <li>實力建業（港交所股份代號519）獨立非執行董事</li>
+      
+        <li>曾經擔任恆基中國地產有限公司董事</li>
+      
+        <li>曾經擔任恆基兆業發展有限公司董事</li>
+      
+        <li>前建造業訓練局成員，行政上訴委員會成員</li>
+      
+        <li>前香港測量師學會及英國皇家特許測量師學會資深會員</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>鄒小磊先生</b></h4>
+  <h4>獨立非執行董事</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>香港理工大學會計學專業文憑</li>
+      
+        <li>曾經擔任香港特許秘書公會投資策略工作組主席</li>
+      
+        <li>英國特許公認會計師公會資深會員</li>
+      
+        <li>英國特許公司治理公會及香港特許秘書公會資深會員</li>
+      
+        <li>香港會計師公會資深會員</li>
+      
+        <li>鼎珮投資集團（香港）有限公司合夥人</li>
+      
+        <li>曾經任職於畢馬威香港會計師事務所並為其合夥人</li>
+      
+        <li>曾經擔任香港會計師公會內地發展策略顧問小組主席</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>曾細忠先生</b></h4>
+  <h4>獨立非執行董事</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>香港大學法律深造文憑課程</li>
+      
+        <li>香港大學文學士學位</li>
+      
+        <li>曾經出任盈科大衍地產發展有限公司（港交所股份代號00432）法律總監及公司秘書</li>
+      
+        <li>曾經出任莎莎國際控股有限公司（港交所股份代號00178）法律總顧問及公司秘書</li>
+      
+        <li>曾經出任香港建設（控股）有限公司（港交所股份代號00190）執行董事，法律總顧問及公司秘書</li>
+      
+        <li>曾經任職於貝克·麥堅時律師事務所律師</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+
+      </section>
+
+      <section class="align-left">
+        <h3 class="align-center">高級管理層</h3>
+        
+
+
+  <h4><b>施智強先生</b></h4>
+  <h4>副總裁</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>協助本公司首席執行官負責本公司的投資回報管理、職能管理及組織發展</li>
+      
+        <li>中國會計師及國際註冊內部審計師</li>
+      
+        <li>曾經出任江蘇中大通信實業有限公司財務總監</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>王波先生</b></h4>
+  <h4>副總裁</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>負責本集團教育板塊的投資、運營和管控，以及其它指定專項工作</li>
+      
+        <li>美國杜克大學職業法律博士學位</li>
+      
+        <li>中國南京大學法學碩士學位</li>
+      
+        <li>南京經濟學院法學學士學位</li>
+      
+        <li>香港博愛醫院董事局當年顧問</li>
+      
+        <li>曾經擔任香港博愛醫院董事局總理</li>
+      
+        <li>曾經擔任實力建業集團（港交所股份代號519）董事會主席</li>
+      
+        <li>曾經任職金杜律師事務所資深律師</li>
+      
+        <li>曾經任職星展銀行（中國）法務部經理</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>陸劍先生</b></h4>
+  <h4>副總裁</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>協助本公司首席執行官負責本集團地產板塊的運營管理</li>
+      
+        <li>上海財經大學經濟學碩士學位</li>
+      
+        <li>上海交通大學精密儀器學士學位</li>
+      
+        <li>曾經出任新地集團有限公司總裁</li>
+      
+        <li>曾經出任雨潤控股集團有限公司副總裁</li>
+      
+        <li>曾經出任戴德梁行房地產諮詢上海有限公司董事</li>
+      
+        <li>曾經出任上海蘭豹置業總經理</li>
+      
+        <li>曾經出任利達行（上海）房地產代理有限公司高級經理</li>
+      
+        <li>曾經出任馬鋼（集團）控股有限公司工程師</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>周飛先生</b></h4>
+  <h4>總裁助理兼首席風控官</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>負責本公司上市合規、風險管理及分管法務合規</li>
+      
+        <li>美國康涅狄格大學法學院法學碩士學位</li>
+      
+        <li>東南大學法學院法學學士學位</li>
+      
+        <li>美國紐約州合資格律師</li>
+      
+        <li>擁有中國法律職業資格</li>
+      
+        <li>曾任貝克·麥堅時國際律師事務所上海代表處資本市場業務部律師</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+  <h4><b>司徒瑩女士</b></h4>
+  <h4>公司秘書</h4>
+  
+  <p>[expand]</p>
+  
+
+    
+      <ul>
+      
+        <li>負責本集團的信息披露管理、投資者關係及公司秘書職能</li>
+      
+        <li>香港中文大學工商管理（會計）學士學位</li>
+      
+        <li>英國特許公認會計師公會資深會員</li>
+      
+        <li>香港會計師公會會員</li>
+      
+        <li>香港特許秘書公會會員</li>
+      
+        <li>英國特許公司治理公會會員</li>
+      
+        <li>曾經任職於一家國際會計師事務所</li>
+      
+      </ul>
+    
+  <p>[/expand]</p>
+  
+
+
+      </section>
+
+    <ul class="actions vertical">
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    </div>
+    <!--
+    <div class="image">
+      <img src="../images/spotlight01.jpg" alt="" />
+    </div>
+    -->
+</section>
+
+<!-- Global Office -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style2 fullscreen invert orient-left content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in" id="office">
+  <div class="content">
+    <h2 class="motto">全球辦公室</h2>
+    <h3></h3>
+    <p><ul>
+  <li>香港</li>
+  <li>新加坡</li>
+  <li>南京</li>
+  <li>重慶</li>
+  <li>廣州</li>
+  <li>深圳</li>
+  <li>布里斯班</li>
+  <li>墨爾本</li>
+</ul>
+</p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+      <!--
+      <li><a href="#" class="button big wide special smooth-scroll-middle"></a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/office_map.png" alt="" />
+  </div>
+</section>
+
+:ET

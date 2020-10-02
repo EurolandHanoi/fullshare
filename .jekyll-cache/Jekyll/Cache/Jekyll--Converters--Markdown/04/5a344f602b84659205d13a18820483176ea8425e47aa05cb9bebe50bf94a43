@@ -1,0 +1,91 @@
+I"$<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">健康地产</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#wonder_city" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#wonder_city" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-left image-position-left onscroll-image-fade-in" id="wonder_city">
+  <div class="content">
+    <h2>虹悦城</h2>
+    <p><p><b>虹悦城</b></p>
+
+<p>虹悦城大型购物中心位于中国江苏省南京市 。虹悦城拥有多个优质租户。商场日均人流量约5.5万人次；总建筑面积为10万平方米，可供出售面积6.3万平方米。为了吸引人流，商场每年都会举辨8-10个推广活动。每一层楼，都会根据客户需求提供服务。例如以儿童为对象的楼层，有小火车让小客人乘坐游历商场，还有儿童拍照、BB游泳等特色玩意。为了让母亲等候方便，为母亲提供的服务也是设在同一楼层。</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-left onscroll-image-fade-in" id="yuhua_salon">
+  <div class="content">
+    <h2>雨花客厅</h2>
+    <p><p><b>雨花客厅</b></p>
+
+<p>雨花客厅位于中国（南京）软件谷之核心位置，乃南京首个集双地铁站，低碳绿色，人性化等优势于一体之总部式商用地产项目，总建筑面积达50万平方米，为整个软件谷提供管理中心，办公室大楼，商用物业，酒店及服务式公寓等全方位商业配套设施。作为国家级软件产业基地之核心配套地产物业，雨花客厅将低碳节能科技元素，首次应用到商用物业中，由丰盛控股自主研发的地源热泵系统，能够确保物业室内四季恒温、恒湿、恒氧，利用回圈的地下水源控温控湿，既能将办公环境维持在人体最舒适的条件中，并能成功降低30%能源消耗，达到低碳节能的目标。</p>
+
+<p>雨花客厅已获得多个大牌入驻，包括沃尔玛山姆会员店、运动品牌迪卡侬、英皇体验具乐部、洛克公园等。</p>
+
+<p>中国（南京）软件谷位于南京市的西南部， 规划总面积73平方公里，是中国最大的资讯科技软件产业研发基地，综合实力已跻身中国同类软件园区之首三名位置，同时亦是中国资讯科技服务外包示范基地，国家现代资讯科技软件产业基地，以及国家数码出版基地。中国（南京）软件谷内已汇集不同类型软件企业超过660家，仅软件从业人员超过15万人。</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/yuhua_salon/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

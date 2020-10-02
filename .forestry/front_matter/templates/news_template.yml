@@ -1,0 +1,131 @@
+---
+label: news_template
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: boolean
+  name: comments
+  label: comments
+  hidden: true
+- type: text
+  name: button
+  label: button
+  hidden: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: layout
+  label: layout
+  default: post
+  config:
+    required: true
+  description: don't change the default unless you know what you are doing
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: categories
+  label: categories
+- type: file
+  name: image
+  label: image
+  default: "/files/forestry_uploads/03.jpg"
+- name: lang-ref
+  type: text
+  config:
+    required: false
+  label: lang-ref
+  description: something unique & descriptive but not too long. lang-ref is the key
+    that ties multi-lingual posts together
+- name: lang
+  type: select
+  default: en
+  config:
+    required: true
+    options:
+    - en
+    - tc
+    - sc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: lang
+  description: en = English, tc = traditional chinese, sc = simplified chinese
+- name: nav_
+  type: text
+  config:
+    required: false
+  label: nav_name
+  hidden: true
+  default: nav_news
+pages:
+- _posts/lang_tc/豐盛控股正式以總代價人民幣-3-339-億收購江蘇省物業項目.md
+- _posts/lang_tc/豐盛控股斥資-1-4-億港元以支持健康投資業務的發展.md
+- _posts/lang_tc/豐盛控股投資健康生活產品及服務直銷平台.md
+- _posts/lang_tc/豐盛控股注資人民幣-9-億元成立合營公司-發展文化-旅遊及養老地產業務.md
+- _posts/lang_tc/豐盛控股公佈-2016-年中期業績.md
+- _posts/fullshare-proposes-acquiring-more-than-90-of-china-high-speed-transmission-equipment-group-in-line-with-business-direction-of-providing-green-healthy-living-environment.md
+- _posts/豐盛控股建議收購中國高速傳動設備集團九成以上股權.md
+- _posts/lang_tc/豐盛控股藉投資密迪斯肌支持集團醫療保健業務發展.md
+- _posts/lang_tc/超過-68-中國高速傳動之股東接納豐盛之全資附屬公司所提出之股份交換要約以收購中國高速-傳動之全部已發行股份.md
+- _posts/lang_tc/豐盛控股成功收購中國高速傳動設備集團.md
+- _posts/lang_tc/豐盛控股收購澳洲兒童保育公司-sparrow-early-learning.md
+- _posts/lang_tc/豐盛控股擬斥資-1-06-億港元收購中國賽特-9-09-股權.md
+- _posts/lang_tc/豐盛控股擬斥資合共-2-3-億港元入股兩家上市公司.md
+- _posts/fullshare-holdings-entered-into-the-formal-agreement-to-acquire-property-projects-in-jiangsu-province-with-a-total-consideration-of-rmb333-9-million.md
+- _posts/fullshare-holdings-limited-invests-hk-140-million-to-support-the-development-of-healthcare-finance-business.md
+- _posts/fullshare-holdings-invests-in-platform-for-direct-sales-of-healthcare-products-and-services.md
+- _posts/fullshare-holdings-contributes-rmb900-million-to-set-up-joint-venture-to-develop-and-operate-properties-for-cultural-tourism-and-elderly-care.md
+- _posts/fullshare-announces-2016-interim-results.md
+- _posts/fullshare-holdings-supports-the-development-of-healthcare-businesses-by-investing-in-medicskin.md
+- _posts/over-68-of-china-high-speed-transmissions-shareholders-accepted-the-share-exchange-offer-by-the-wholly-owned-subsidiary-of-fullshare-holdings-in-relation-to-the-acquisition-all-of-the-issued-shares-of-china-high-speed-transmission.md
+- _posts/fullshare-holdings-successful-acquisition-of-china-high-speed-transmission-equipment-group-allows-it-to-springboard-into-markets-for-environmental-equipment-and-renewable-energy.md
+- _posts/fullshare-holdings-to-acquire-australian-childcare-provider-sparrow-early-learning.md
+- _posts/fullshare-holdings-to-acquire-9-09-of-china-saite-group-for-hk-106-million.md
+- _posts/fullshare-holdings-to-buy-into-two-listed-companies-for-hk-230-million-including-the-acquisition-of-4-8-of-nanjing-sinolife-united-company-for-hk-73-million.md
+- _posts/lang_tc/豐盛控股擬斥資-3-7-億新加坡元-收購新加坡-gsh-plaza-商業及辦公室開發項目.md
+- _posts/lang_tc/2017-02-09-豐盛控股投資約-6-千萬美金成立地產基金.md
+- _posts/lang_tc/2017-03-29-豐盛控股與碳云系訂立戰略合作協議-携手開拓大健康市場.md
+- _posts/lang_tc/2017-04-28-豐盛控股最終控股股東計劃增持公司股份-展示對集團發展之信心.md
+- _posts/lang_tc/豐盛控股最終控股股東及執行董事增持公司股份-展示對集團發展之信心.md
+- _posts/lang_tc/2017-05-26-豐盛控股擬以約-8-千萬澳元買入五項澳洲土地物業-冀擴張旅遊度假業務.md
+- _posts/lang_tc/豐盛控股公佈-2016-年度業績.md
+- _posts/lang_tc/豐盛控股發布澄清公告.md
+- _posts/lang_tc/2017-07-31-fullshare-holdings-completes-acquisition-of-gsh-plaza-英文版.md
+- _posts/lang_tc/豐盛控股繼續拓展兒童保育及教育業務.md
+- _posts/lang_tc/2017-08-24-豐盛控股以優化股東利益為前提-正式終止收購澳大利亞的土地物業.md
+- _posts/lang_tc/間接子公司南京傳動與交通銀行訂立五年合作協議-獲人民幣-50-億元融資額度.md
+- _posts/lang_tc/2017-09-27-豐盛控股與上海景域文化傳播訂立戰略合作協議-携手開拓文化旅遊度假市場.md
+- _posts/2017-08-24-terminate-the-acquisition-of-land-parcels-in-australia-with-an-aim-to-optimize-shareholder-s-value.md
+- _posts/2017-02-06-fullshare-holdings-intends-to-acquire-singapore-commercial-and-office-development-project-gsh-plaza-for-s-365-5-million.md
+- _posts/2017-02-09-fullshare-holdings-establishes-a-real-estate-fund-by-investing-approximatly-us-60-million-to-capture-global-real-estate-related-investment-opportunities.md
+- _posts/2017-03-29-fullshare-entered-into-a-mou-with-icx-to-co-develop-the-healthcare-market.md
+- _posts/2017-03-31-fullshare-announced-2016-annual-results-gradual-formation-of-the-5-major-business-segments-net-profit-rocketed-by-155-to-rmb3-1-billion.md
+- _posts/2017-04-28-controlling-shareholder-mr-ji-aims-to-increase-shareholding-demonstrating-his-support-on-fullshare-s-future-development.md
+- _posts/2017-05-02-fullshare-issued-clarification-announcement.md
+- _posts/2017-05-05-controlling-shareholder-and-executive-directors-increased-shareholding-demonstrating-strong-confidence-in-the-group-s-future-development.md
+- _posts/2017-05-26-fullshare-holdings-acquired-five-land-properties-at-a-consideration-of-au-80-million-to-expand-the-integrated-leisure-tourism-business.md
+- _posts/2017-06-19-fullshare-holdings-completed-the-first-tranche-payment-of-s-109-million-regarding-the-purchase-of-singapore-commercial-and-office-project-gsh-plaza.md
+- _posts/2017-07-31-fullshare-holdings-completes-acquisition-of-gsh-plaza.md
+- _posts/2017-08-15-fullshare-holdings-continues-to-expand-the-childcare-business.md
+- _posts/2017-09-26-indirect-subsidiary-nanjing-drive-entered-into-a-5-year-agreement-with-bank-of-communications-gained-a-credit-lines-of-rmb5-billion.md
+- _posts/2017-09-27-fullshare-established-strategic-cooperation-with-shanghai-joyu-culture-communication-to-co-develop-the-tourism-market.md
+- _posts/lang_sc/2018-03-28-丰盛控股成为-国泰航空-汇丰香港国际七人榄球赛2018-官方旅游业赞助伙伴.md
+- _posts/lang_sc/2018-05-20-fullshare-has-been-named-official-education-partner-of-f-c-internazionale-milano-s-p-a-英文版.md
+- _posts/lang_sc/2018-04-09-丰盛控股于-国泰航空-汇丰香港国际七人榄球赛2018-招待圣公会圣基道儿童院.md
+- _posts/lang_tc/2018-04-09-豐盛控股於-國泰航空-匯豐香港國際七人欖球賽2018-招待聖公會聖基道兒童院.md
+- _posts/lang_tc/2018-05-20-fullshare-has-been-named-official-education-partner-of-f-c-internazionale-milano-s-p-a-英文版.md
+- _posts/lang_sc/2018-06-14-国米足球俱乐部官方合作伙伴丰盛控股及sparrow儿童教育集团与国米足球俱乐部共同携手.md
+- _posts/lang_tc/2018-06-27-國米足球俱樂部官方合作夥伴豐盛控股及sparrow兒童教育集團與國米足球俱樂部共同攜手.md

@@ -1,0 +1,15 @@
+# pages to appear in navivation
+en:
+  - title: Company News
+    path: /pages/company_news
+
+
+tc:
+  - title: 公司新聞
+    path: /pages_zh-hk/company_news_tc
+
+
+
+sc:
+  - title: 公司新闻
+    path: /pages_zh-cn/company_news_sc

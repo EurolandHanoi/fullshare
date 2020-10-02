@@ -1,0 +1,61 @@
+I"?<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">再生能源</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#chs" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#chs" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/renewable/chs/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-left onscroll-image-fade-in" id="chs">
+  <div class="content">
+    <h2>中国高速传动设备集团有限公司</h2>
+    <p><p>本集团旗下之中国高速传动设备集团有限公司（股票代号：658.HK）是一家以专业生产高速重载传动设备为主的大型企业集团。公司成立于1969年，2007年在香港联交所上市，迄今已走过近五十个年头，公司持续发展，已成为涵盖风力发电、工业装备、轨道交通、机床等业务领域的全球传动领域的领导者。</p>
+
+<p><a href="http://www.chste.com/zh/home.html" target="_blank" class="button">前往网站</a></p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/renewable/chs/2.jpg" alt="" />
+  </div>
+</section>
+
+:ET

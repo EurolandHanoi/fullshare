@@ -1,0 +1,48 @@
+# pages to appear in navivation
+en:
+  - title: Our Business
+    path: /home#businesses
+
+  - title: Wonder City
+    path: /pages/property#wonder_city
+
+  - title: Yuhua Salon
+    path: /pages/property#yuhua_salon
+
+  # - title: GSH Plaza
+  #   path: /pages/property#gsh_plaza
+
+  - title: Residental Property
+    path: /pages/property#residential
+
+tc:
+  - title: 我們的業務
+    path: /home_tc#businesses
+
+  - title: 虹悅城
+    path: /pages_zh-hk/property_tc#wonder_city
+
+  - title: 雨花客廳
+    path: /pages_zh-hk/property_tc#yuhua_salon
+
+  # - title: GSH Plaza
+  #   path: /pages_zh-hk/property_tc#gsh_plaza
+
+  - title: 住宅地產
+    path: /pages_zh-hk/property_tc#residential
+
+sc:
+  - title: 我们的业务
+    path: /home_sc#businesses
+
+  - title: 虹悦城
+    path: /pages_zh-cn/property_sc#wonder_city
+
+  - title: 雨花客厅
+    path: /pages_zh-cn/property_sc#yuhua_salon
+
+  # - title: GSH Plaza
+  #   path: /pages_zh-cn/property_sc#gsh_plaza
+
+  - title: 住宅地产
+    path: /pages_zh-cn/property_sc#residential

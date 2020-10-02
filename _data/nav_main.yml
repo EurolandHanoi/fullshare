@@ -1,0 +1,211 @@
+# pages to appear in navivation
+en:
+  - title: About Us
+    path: /home#aboutus
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages/about#team">Management Team</a></li>
+            <li><a href="/pages/about#office">Global Office</a></li>            
+        </ul>
+
+  - title: Our Business
+    path: /home#businesses
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages/tourism">Tourism</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages/tourism#sheraton">Sheraton</a></li>
+                    <li><a href="/pages/tourism#laguna">Laguna</a></li>
+                    <li><a href="/pages/tourism#ortopark">Orto Park</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages/education">Education & Healthcare</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages/education#sparrow_early_learning">Sparrow Early Learning</a></li>                    
+                </ul>
+            </li>            
+            <li><a href="/pages/renewable">Renewable Energy</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages/renewable#chs">CHS</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages/property">Property</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages/property#wonder_city">Wonder City</a></li>
+                    <li><a href="/pages/property#yuhua_salon">Yuhua Salon</a></li>                    
+                </ul>
+            </li>
+        </ul>
+    
+
+  - title: Corporate Governance
+    path: /home#governance
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages/governance#task">Task</a></li>
+            <li><a href="/pages/governance#risk_management">Risk Management</a></li>
+            <li><a href="/pages/governance#org_chart">Organizational Chart</a></li>
+        </ul>
+
+  - title: News
+    path: /home#news
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages/company_news">Company News</a></li>
+        </ul>
+
+  - title: Investor Relations
+    path: /home#ir
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages/ir">Share Information</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages/ir#share_graph">Share Graph</a></li>
+                    <li><a href="/pages/ir#announcements">Announcements and Circulars</a></li>
+                    <li><a href="/pages/ir#Subscription">Subscription Centre</a></li>                    
+                </ul>
+            </li>
+            <li><a href="/pages/ir_reports">Financial Reports</a></li>
+            <li><a href="/pages/ir_factsheet">Fact Sheet</a></li>
+            <li><a href="/pages/ir_interactive">Interactive Analysis</a></li>
+        </ul>
+
+tc:
+  - title: 關於我們
+    path: /home_tc#aboutus
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-hk/about_tc#team">管理團隊</a></li>
+            <li><a href="/pages_zh-hk/about_tc#office">全球辦公室</a></li>            
+        </ul>
+
+  - title: 我們的業務
+    path: /home_tc#businesses
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-hk/tourism_tc">旅遊度假</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages_zh-hk/tourism_tc#sheraton">喜來登</a></li>
+                    <li><a href="/pages_zh-hk/tourism_tc#laguna">亞拉古拉</a></li>
+                    <li><a href="/pages_zh-hk/tourism_tc#ortopark">Orto Park</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages_zh-hk/education_tc">教育醫療</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages_zh-hk/education_tc#sparrow_early_learning">Sparrow兒童教育集團</a></li>                    
+                </ul>
+            </li>            
+            <li><a href="/pages_zh-hk/renewable_tc">再生能源</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages_zh-hk/renewable_tc#chs">中國高速傳動設備集團有限公司</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages_zh-hk/property_tc">健康地產</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages_zh-hk/property_tc#wonder_city">虹悅城</a></li>
+                    <li><a href="/pages_zh-hk/property_tc#yuhua_salon">雨花客廳</a></li>                    
+                </ul>
+            </li>
+        </ul>
+
+  - title: 企業管治
+    path: /home_tc#governance
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-hk/governance_tc#task">任務</a></li>
+            <li><a href="/pages_zh-hk/governance_tc#risk_management">風險管理</a></li>
+            <li><a href="/pages_zh-hk/governance_tc#org_chart">企業管治</a></li>
+        </ul>
+
+  - title: 公司新聞
+    path: /home_tc#news
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-hk/company_news_tc">公司新聞</a></li>
+        </ul>
+
+  - title: 投資者關係
+    path: /home_tc#ir
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-hk/ir_tc">股價資訊</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages_zh-hk/ir_tc#share_graph">股價圖示</a></li>
+                    <li><a href="/pages_zh-hk/ir_tc#announcements">公告與通函</a></li>
+                    <li><a href="/pages_zh-hk/ir_tc#Subscription">電郵訂閱中心</a></li>                    
+                </ul>
+            </li>
+            <li><a href="/pages_zh-hk/ir_reports_tc">財務報告</a></li>
+            <li><a href="/pages_zh-hk/ir_factsheet_tc">公司一覽表</a></li>
+            <li><a href="/pages_zh-hk/ir_interactive_tc">互動財務分析</a></li>
+        </ul>
+
+sc:
+  - title: 关于我们
+    path: /home_sc#aboutus
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-cn/about_sc#team">管理团队</a></li>
+            <li><a href="/pages_zh-cn/about_sc#office">全球办公室</a></li>            
+        </ul>
+
+  - title: 我们的业务
+    path: /home_sc#businesses
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-cn/tourism_sc">旅游度假</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages_zh-cn/tourism_sc#sheraton">喜来登</a></li>
+                    <li><a href="/pages_zh-cn/tourism_sc#laguna">亚拉古拉</a></li>
+                    <li><a href="/pages_zh-cn/tourism_sc#ortopark">Orto Park</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages_zh-cn/education_sc">教育医疗</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages_zh-cn/education_sc#sparrow_early_learning">Sparrow儿童教育集团</a></li>                    
+                </ul>
+            </li>            
+            <li><a href="/pages_zh-cn/renewable_sc">再生能源</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages_zh-cn/renewable_sc#chs">中国高速传动设备集团有限公司</a></li>
+                </ul>
+            </li>
+            <li><a href="/pages_zh-cn/property_sc">健康地产</a>
+                <ul class="sub-memu child">                    
+                    <li><a href="/pages_zh-cn/property_sc#wonder_city">虹悦城</a></li>
+                    <li><a href="/pages_zh-cn/property_sc#yuhua_salon">雨花客厅</a></li>                    
+                </ul>
+            </li>
+        </ul>
+
+  - title: 企业管治
+    path: /home_sc#governance
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-cn/governance_sc#task">任务</a></li>
+            <li><a href="/pages_zh-cn/governance_sc#risk_management">风险管理</a></li>
+            <li><a href="/pages_zh-cn/governance_sc#org_chart">企业管治</a></li>
+        </ul>
+
+  - title: 公司新闻
+    path: /home_sc#news
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-cn/company_news_sc">公司新闻</a></li>
+        </ul>
+
+  - title: 投资者关系
+    path: /home_sc#ir
+    detail: |
+        <ul class="sub-memu">
+            <li><a href="/pages_zh-cn/ir_sc">股价资讯</a>
+                <ul class="sub-memu child">
+                    <li><a href="/pages_zh-cn/ir_sc#share_graph">股价图示</a></li>
+                    <li><a href="/pages_zh-cn/ir_sc#announcements">公告与通函</a></li>
+                    <li><a href="/pages_zh-cn/ir_sc#Subscription">电邮订阅中心</a></li>                    
+                </ul>
+            </li>            
+            <li><a href="/pages_zh-cn/ir_reports_sc">财务报告</a></li>
+            <li><a href="/pages_zh-cn/ir_factsheet_sc">公司一览表</a></li>
+            <li><a href="/pages_zh-cn/ir_interactive_sc">互动财务分析</a></li>
+        </ul>

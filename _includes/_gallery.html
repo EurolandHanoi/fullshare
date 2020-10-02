@@ -1,0 +1,64 @@
+{% comment %}
+*
+*   This include lets you easily display a Gallery.
+*
+*   usage: {% include _gallery.html key='' style='style1' lightbox=true size='medium' %}
+*
+*   The content for the gallery is retrived from the calling page's front matter; for example:
+*   gallery:
+*     title: This is a Gallery Example, which is a H2 Heading
+*     content: 'This is a p tag. You can write HTML here as well.'
+*     articles:
+*       - title: 1st Title
+*         content: text for first article
+*         img_url: /image1
+*         url: /link1
+*         button: Try Me First
+*       - title: 2nd title
+*         content: text for second article
+*         img_url: /image2
+*         url: /link2
+*         button: Try Me
+*
+*   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
+*
+{% endcomment %}
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+{% assign _style = include.style %}
+{% if _style %}{% else %}{% assign _style = 'style2' %}{% endif %}
+
+{% assign _size = include.size %}
+{% if _size %}{% else %}{% assign _size = 'medium' %}{% endif %}
+
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.gallery %}{% endif %}
+
+<!-- Gallery -->
+<section class="wrapper style1 align-center invert">
+  <div class="inner">
+    <h2>{{ _data.title }}</h2>
+    <p>{{ _data.content }}</p>
+  </div>
+
+  <!-- Gallery -->
+    <div class="gallery {{ _style }} {{ _size }} {% if include.lightbox %}lightbox{% endif %} onscroll-fade-in">
+      {% for article in _data.articles %}
+      <article>
+        <a href="{{ article.url }}" class="image">
+          <img src="{{ article.img_url }}" alt="" />
+        </a>
+        <div class="caption">
+          <h3>{{ article.title }}</h3>
+          <p>{{ article.content }}</p>
+          {% if article.button %}
+          <ul class="actions">
+            <li><span class="button small">{{ article.button }}</span></li>
+          </ul>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+</section>

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\assets\\_sass",
+    "\\assets\\_sass\\components",
+    "\\pages",
+    "\\pages_zh-cn",
+    "\\pages_zh-hk",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts"
+  ],
+  "PreviewInSolutionExplorer": false
+}

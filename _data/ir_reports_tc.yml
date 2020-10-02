@@ -1,0 +1,13 @@
+title: 財務報告
+content:
+file_dir: ../files/reports/tc/
+articles:
+  - title: Example
+    content: Financial Report
+    img_url: ../files/reports/en/2019 interim report.pdf
+    url: ../files/reports/ltn20190927245.pdf
+    button: Download
+  - title: 2019
+    content: Interim Report
+    url: 2019 interim report.pdf
+    button: Download

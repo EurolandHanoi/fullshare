@@ -1,0 +1,126 @@
+I"C<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">Tourism</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#sheraton" class="button smooth-scroll-middle">Continue</a></li>
+      <!--
+      <li><a href="#sheraton" class="button big wide special smooth-scroll-middle">Continue</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/tourism/laguna/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-left onscroll-image-fade-in" id="sheraton">
+  <div class="content">
+    <h2>Sheraton</h2>
+    <p><p><b>Sheraton Mirage Hotel</b></p>
+<p>[expand]</p>
+<p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
+
+<p>Featured by the globally renowned tourist destination Great Barrier Reef and Daintree Rainforest, as well as the unique cultural landscape of Port Douglas, it has successfully contributed “Mirage” to become one of the high-end tourist resort brands around the world. Fullshare Holdings Limited has introduced the brand “Mirage” to the high-end tourist and vacation markets in China and other countries.</p>
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/tourism/sheraton/4.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty invert orient-left content-align-right image-position-left onscroll-image-fade-in" id="laguna">
+  <div class="content">
+    <h2>Laguna</h2>
+    <p><p><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
+<p>[expand]</p>
+<p>Around 25 kilometers from the south of Proserpine Airport, Laguna Whitsundays covering approximately 2,800 square kilometers located in the Whitsunday Islands which is consisted by 74 scenic islands and adjacent to the World Heritage Great Barrier Reef. With the beautiful and pleasant scenery, it will definitely become the world-wide tourist resort landmarks in the twenty-first century.</p>
+
+<p>The target of the project is to develop Laguna Whitsundays as one of the top world-class destination resorts and high-end quality residential housing projects with the capacity to serve 15,000 people. It will include an international airport, five world-class hotels, a casino and entertainment center, two 18-hole and one 27-hole golf courses, and 860 berth marina, a tourism related organic farm, a shopping and retail area, a conference center, a cruise terminal, a retirement &amp; vacation village and other real estate residential developments.</p>
+
+<p>The project mainly targets to the ever-increasing Asian tourist market, while to provide comprehensive community facilities to the neighboring mining towns. It will definitely become the star of Queensland for its tourism, resources, construction and agriculture development.</p>
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/tourism/laguna/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-center onscroll-image-fade-in" id="ortopark">
+  <div class="content">
+    <h2>Orto Park</h2>
+    <p><p><b>ORTO Park Singapore</b></p>
+<p>[expand]</p>
+<p>Differentiated from the high-end tourist resort brand “Mirage”, ORTO Park emphasizes on suburbanized family vacation style with natural and original mission.</p>
+
+<p>ORTO Park, one of the largest private leisure parks, located in the northern part of Singapore, is constructed, managed and operated by the Group. It covers about 51,500 square meters with beautiful natural environment and it is a popular recreation park for local residents and tourists.</p>
+
+<p>ORTO Park is situated near the metro network with convenient access. With the simple and elegant scenery, as well as tranquil lake views, the park has all kinds of activity facilities such as shrimp &amp; fishing pools, children playgrounds, etc. The outdoor lakeside cottages and lake avenue are suitable to organize all types of schools events, family gatherings and weddings, etc. The restaurants and cafes situated along the scenic lakeside offer delicious culinary experience to the visitors.</p>
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/tourism/orto_park/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

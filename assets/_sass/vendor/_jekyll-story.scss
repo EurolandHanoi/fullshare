@@ -1,0 +1,52 @@
+/*
+ *
+ * Jekyll-Story
+ *
+ */
+@import 'shared';
+
+// mixin to extend jekyll-story filter
+// @mixin jekyll-story
+// @param $filters... {filter} - Zero to many css filters to be added
+// @example
+//   img {
+//     @include jekyll-story;
+//   }
+//   or
+//   img {
+//     @include jekyll-story(blur(2px));
+//   }
+//   or
+//   img {
+//     @include jekyll-story(blur(2px)) {
+//       /*...*/
+//     };
+//   }
+
+$background: _palette(bg);
+$gradient1: _palette(accent);
+$gradient2: _palette(color4);
+
+
+@mixin jekyll-story($filters...) {
+  @include filter-base;
+  filter: none $filters;
+  background-color: $background;
+
+  img {
+    filter:grayscale(1);
+  }
+
+  &::after {
+    background: linear-gradient(45deg, $gradient1, $gradient2);
+    mix-blend-mode: overlay;
+  }
+
+  @content;
+}
+
+// jekyll-story Instagram filter
+%jekyll-story,
+.jekyll-story {
+  @include jekyll-story;
+}

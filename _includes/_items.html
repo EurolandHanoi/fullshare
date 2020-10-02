@@ -1,0 +1,48 @@
+{% comment %}
+*
+*   This include lets you easily display a Gallery.
+*
+*   usage: {% include _items.html key = '' style='style2' size='medium' id='' %}
+*
+*   The content for items is retrived from the calling page's front matter; for example:
+*   items:
+*     title: This is a Item Example, which is a H2 Heading
+*     content: 'This is a p tag. You can write HTML here as well.'
+*     articles:
+*       - title: 1st Title
+*         content: text for first item
+*         fa_class: "far fa-gem"
+*       - title: 2nd title
+*         content: text for second item
+*         fa_class: "far fa-save"
+*
+*   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
+*
+{% endcomment %}
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+{% assign _style = include.style %}
+{% if _style %}{% else %}{% assign _style = 'style2' %}{% endif %}
+
+{% assign _size = include.size %}
+{% if _size %}{% else %}{% assign _size = 'medium' %}{% endif %}
+
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.items %}{% endif %}
+
+<!-- Items -->
+  <section class="wrapper style1 align-center" {% if include.id %} id="{{ include.id }}"{% endif %}>
+    <div class="inner">
+      <h2>{{ _data.title }}</h2>
+      <p>{{ _data.content }}</p>
+      <div class="items {{ _style }} {{ _size }} onscroll-fade-in">
+        {% for item in _data.list %}
+        <section>
+          <span class="icon style2 major {{ item.fa_class }}"></span>
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.content }}</p>
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+  </section>

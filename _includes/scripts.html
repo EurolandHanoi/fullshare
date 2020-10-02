@@ -1,0 +1,59 @@
+<script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery.scrollex.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery.scrolly.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/skel.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/util.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/swiper.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+
+<!-- PDF functions -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.2.228/pdf.js"></script>
+<script src="{{ "/assets/js/pdfThumbnails.js" | prepend: site.baseurl }}"></script>
+
+{% if site.demo_script %}
+<!--  if jekyll.environment != 'production' -->
+<script src="{{ "/assets/js/demo.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
+{% include text-expand.html %}
+
+<!-- On Page Scripts -->
+<script>
+$(document).ready(function () {
+
+  //initialize swiper when document ready
+  var mySwiper = new Swiper ('.swiper-container', {
+    // Optional parameters
+    loop: true,
+    speed: 1000,
+    effect: 'fade',
+    fadeEffect: {
+          crossFade: true
+    },
+    autoplay: {
+        delay: 1500
+      }
+  })
+
+
+});
+</script>
+<script>
+(function($) {
+$(function() {
+$('.swoop').scrollex({
+top:		'30vh',
+bottom:		'30vh',
+initialize:	function() {
+  $(this).addClass('is-inactive');
+},
+enter: function() {
+  $(this).removeClass('is-inactive');
+}
+})
+});
+})(jQuery);
+
+</script>
+
+{% include euroland_plugins.html %}

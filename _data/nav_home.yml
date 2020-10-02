@@ -1,0 +1,48 @@
+# pages to appear in navivation
+en:
+  - title: About Us
+    path: /home#aboutus
+
+  - title: Our Business
+    path: /home#businesses
+
+  - title: Corporate Governance
+    path: /home#governance
+
+  - title: News
+    path: /home#news
+
+  - title: Investor Relations
+    path: /home#ir
+
+tc:
+  - title: 關於我們
+    path: /home_tc#aboutus
+
+  - title: 我們的業務
+    path: /home_tc#businesses
+
+  - title: 企業管治
+    path: /home_tc#governance
+
+  - title: 公司新聞
+    path: /home_tc#news
+
+  - title: 投資者關係
+    path: /home_tc#ir
+
+sc:
+  - title: 关于我们
+    path: /home_sc#aboutus
+
+  - title: 我们的业务
+    path: /home_sc#businesses
+
+  - title: 企业管治
+    path: /home_sc#governance
+
+  - title: 公司新闻
+    path: /home_sc#news
+
+  - title: 投资者关系
+    path: /home_sc#ir

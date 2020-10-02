@@ -1,0 +1,51 @@
+{% comment %}
+*   Nav Menu for small device
+*
+*   This include lets you easily display a mobile menu.
+*
+*   usage: {% include _menu.html fname='nav' %}
+{% endcomment %}
+
+<nav id="menu">
+  <ul>
+    {% if page.lang %}
+      {% for item in site.data[ include.fname ][page.lang] %}
+      <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for item in site.data[ include.fname ] %}
+      <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+      {% endfor %}
+    {% endif %}
+
+    <!-- We will Always load _data.nav.yml (Global Links) -->
+    {% if page.lang %}
+      {% for item in site.data[ "nav" ][page.lang] %}
+      <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+      {% endfor %}
+    {% else %}
+      {% for item in site.data[ "nav" ] %}
+      <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+      {% endfor %}
+    {% endif %}
+
+    <!--
+    Language Support
+      Currently only for Page
+    -->
+    {% if page.layout == 'page' or page.layout == 'index' %}
+      {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+          {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+          {% for post in posts reversed %}
+            {% if post.lang != page.lang %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button smooth-scroll-middle">{{ site.data.lang[post.lang].button }}</a></li>
+            {% endif %}
+          {% endfor %}
+      {% endif %}
+    {% endif %}
+    <!-- end of Language Support -->
+  </ul>
+</nav>

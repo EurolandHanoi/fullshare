@@ -1,0 +1,7 @@
+<ul class="icons">
+{% for link in site.data.social_links %}
+  {% if link.url %}
+    <li><a class="icon style2 {{link.fa_class}}" href="{{link.url}}"><span class="label">{{ item.title }}</span></a></li>
+  {% endif %}
+{% endfor %}
+</ul>

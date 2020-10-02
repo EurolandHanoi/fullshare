@@ -1,0 +1,35 @@
+---
+layout: page
+title: Gallery Example
+gallery:
+  title: This is a Gallery Example
+  content: 'This is a <strong>Gallery</strong> element (in a <strong>Wrapper</strong> element). It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).'
+  articles:
+    - title: 1st Title
+      content: text for first article
+      img_url: ../images/gallery/thumbs/01.jpg
+      url: "https://unsplash.com"
+      button:
+    - title: 2nd Title
+      content: text for second article
+      img_url: ../images/gallery/thumbs/02.jpg
+      url: "https://creativedirections.work"
+      button: Creative Directions
+    - title: 3rd Title
+      content: text for first article
+      img_url: ../images/gallery/thumbs/03.jpg
+      url: "https://google.com"
+      button: Go to Google
+    - title: 4th Title
+      content: This goes to Crossfit
+      img_url: ../images/gallery/thumbs/04.jpg
+      url: "https://crossfit.com"
+      button: Crossfit
+    - title: 5th Title
+      content: This goes to Soundcloud
+      img_url: ../images/gallery/thumbs/05.jpg
+      url: "https://soundcloud.com"
+      button: soundcloud
+---
+
+{% include _gallery.html style='style2' lightbox=true size='medium' %}

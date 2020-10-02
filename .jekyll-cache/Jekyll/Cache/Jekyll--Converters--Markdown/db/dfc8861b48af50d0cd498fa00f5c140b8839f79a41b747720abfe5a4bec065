@@ -1,0 +1,61 @@
+I"?<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">再生能源</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#chs" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#chs" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/renewable/chs/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-left onscroll-image-fade-in" id="chs">
+  <div class="content">
+    <h2>中國高速傳動設備集團有限公司</h2>
+    <p><p>本集團旗下之中國高速傳動設備集團有限公司（股票代號：658.HK）是一家以專業生產高速重載傳動設備為主的大型企業集團。公司成立於1969年，2007年在香港聯交所上市，迄今已走過近五十個年頭，公司持續發展，已成為涵蓋風力發電、工業裝備、軌道交通、機床等業務領域的全球傳動領域的領導者。</p>
+
+<p><a href="http://www.chste.com/zh/home.html" target="_blank" class="button">前往網站</a></p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/renewable/chs/2.jpg" alt="" />
+  </div>
+</section>
+
+:ET

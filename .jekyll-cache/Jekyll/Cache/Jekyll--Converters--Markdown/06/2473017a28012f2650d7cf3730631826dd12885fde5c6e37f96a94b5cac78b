@@ -1,0 +1,92 @@
+I"W<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">Property</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#wonder_city" class="button smooth-scroll-middle">Continue</a></li>
+      <!--
+      <li><a href="#wonder_city" class="button big wide special smooth-scroll-middle">Continue</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-left image-position-left onscroll-image-fade-in" id="wonder_city">
+  <div class="content">
+    <h2>Wonder City</h2>
+    <p><p><b>Wonder City</b></p>
+
+<p>Wonder City is a large scale shopping mall center, located in Nanjing, Jiangsu Province, the PRC. It has introduced high-quality tenants. Wonder City received approximately 55 thousand shoppers per day. Its total gross floor area is approximately 100 thousand sq.m. while the area available for sale reaches approximately 63 thousand sq.m. To attract shoppers’ eyeballs, the shopping mall holds 8-10 promotion activities per year and customizes its service of each floor based on its different target groups. For instance, for the floor targeted to children, a small train to take children to see around the whole floor, photo studio for kids and baby swimming pool, and other interesting service are provided. For mothers’ convenience, the service offered to mom is also on the same floor.</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-left onscroll-image-fade-in" id="yuhua_salon">
+  <div class="content">
+    <h2>Yuhua Salon</h2>
+    <p><p><b>Yuhua Salon</b></p>
+
+<p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties. The geothermal heat pump system developed by the Group can keep constant temperature, humidity, and oxygen content within the property. Using loop groundwater source controlling temperature and humidity, it can well maintain the office environment at the most comfortable conditions for human being. In addition, it can reduce energy consumption by 30% to achieve low-carbon energy targets.</p>
+<p>[expand]</p>
+<p>Yuhua Salon has introduced many well-known brands, including Wal-Mart Sam’s Club, Decathlon, a sports brand originated from Europe, Royal Sport Club, Rucker Park, etc.</p>
+
+<p>China (Nanjing) Software Valley is located in the southwest of Nanjing, with total planning area reaches 73 square kilometers. It is the largest R&amp;D base of information technology &amp; software industry in China that its comprehensive strength has been ranked as one of the top three software parks in China. It is also well known as the information technology services outsourcing demonstration base, the national information technology and software industry base, as well as the national digital publishing base. There were over 660 software companies operating and more than 150 thousand software practitioners working in the Valley.</p>
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/yuhua_salon/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

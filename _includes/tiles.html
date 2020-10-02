@@ -1,0 +1,17 @@
+<section class="tiles invert">
+
+{% for post in site.posts limit:site.front-page-posts %}
+	<article class="style{% cycle '1', '2', '3', '4', '5', '6' %}">
+		<span class="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+		</span>
+		<a href="{{ site.baseurl }}{{ post.url }}">
+			<h3>{{ post.title }}</h3>
+			<div class="content">
+				<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+			</div>
+		</a>
+	</article>
+{% endfor %}
+
+</section>

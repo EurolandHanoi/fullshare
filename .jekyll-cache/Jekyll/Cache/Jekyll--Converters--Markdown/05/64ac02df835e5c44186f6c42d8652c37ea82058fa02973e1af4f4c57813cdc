@@ -1,0 +1,220 @@
+I"<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">丰盛 Fullshare</h2>
+    <h3></h3>
+    <p>丰盛控股有限公司（丰盛）（股份代号：607.HK）为一家跨国性综合型企业和投资公司。集团创立于2002年，在中国南京设立总部，更先后在香港、新加坡及澳洲设立办公室。 2013年12月，成功于香港联合交易所上市。
+</p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#aboutus" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#aboutus" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="images/background.jpg" alt="" />
+  </div>
+</section>
+
+<!-- About Us -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-left image-position-left onscroll-image-fade-in" id="aboutus">
+  <div class="content">
+    <h2>关于我们</h2>
+    <p><p>丰盛控股有限公司（股份代号：607.HK）于2013年底于香港交易所上市。</p>
+<p>[expand]</p>
+<p>作为一家中国的综合性企业，丰盛控股有限公司致力成为全球领先的大健康生活服务商。本集团业务聚焦于旅游度假、教育医疗、健康地产、再生能源四大产业板块，业务及项目遍及中国大陆、香港、新加坡、澳洲等国家和地区。</p>
+<ul>
+<li>富时全球股票中型股股份指数</li>
+<li>恒生综合大中型股指数成份股，沪港通及深港通合资格股份</li>
+<li>摩根士丹利资本国际MSCI中国指数成份股</li>
+</ul>
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages_zh-cn/about_sc" class="button">了解更多</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/wonder_city/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Our Business -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-left onscroll-image-fade-in" id="businesses">
+  <div class="content">
+    <h2>我们的业务</h2>
+    <p><!--
+<ul class="alt">
+<li><a href="pages_zh-cn/tourism_sc" class="button">旅游度假</a></li>
+<li><a href="pages_zh-cn/education_sc" class="button">教育医疗</a></li>
+<li><a href="pages_zh-cn/renewable_sc" class="button">再生能源</a></li>
+<li><a href="pages_zh-cn/property_sc" class="button">健康地产</a></li>
+</ul>
+-->
+<p>
+<a href="pages_zh-cn/tourism_sc" class="button">旅游度假</a>
+<a href="pages_zh-cn/education_sc" class="button">教育医疗</a>
+<a href="pages_zh-cn/renewable_sc" class="button">再生能源</a>
+<a href="pages_zh-cn/property_sc" class="button">健康地产</a>
+</p>
+</p>
+
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/yuhua_salon/3.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Corporate Goverance -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-Center image-position-center onscroll-image-fade-in" id="governance">
+  <div class="content">
+    <h2>企业管治</h2>
+    <p></p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages_zh-cn/governance_sc" class="button">了解更多</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/tourism/sheraton/4.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Company News -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-center onscroll-image-fade-in" id="news">
+  <div class="content">
+    <h2>公司新闻</h2>
+    <p></p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages_zh-cn/company_news_sc" class="button">了解更多</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="/images/business/tourism/laguna/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Investor Relations -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-Center image-position-center onscroll-image-fade-in" id="ir">
+  <div class="content">
+    <h2>投资者关系</h2>
+    <p><!--
+<ul class="alt">
+<li><a href="pages/ir" class="button">Share Information</a></li>
+<li><a href="pages/ir_factsheet" class="button">Fact Sheet</a></li>
+<li><a href="pages/ir_interactive" class="button">Interactive Analysis</a></li>
+</ul>
+-->
+<p>
+<a href="pages_zh-cn/ir_sc" class="button">股价资讯</a>
+<a href="pages_zh-cn/ir_reports_sc" class="button">财务报告</a>
+<a href="pages_zh-cn/ir_factsheet_sc" class="button">公司一览表</a>
+<a href="pages_zh-cn/ir_interactive_sc" class="button">互动分析</a>
+</p>
+</p>
+
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/residential/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Contact Us -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Items -->
+<section class="wrapper style1 align-center" id="contact">
+    <div class="inner">
+      <h2>联系我们</h2>
+      <p>媒体及投资者查询</p>
+      <div class="items style3 small onscroll-fade-in">
+        
+        <section>
+          <span class="icon style2 major fas fa-phone"></span>
+          <h3>电话</h3>
+          <p><a href="tel:+852 3618 8462">+852 3618 8462</a></p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major fas fa-fax"></span>
+          <h3>传真</h3>
+          <p>+852 3460 4237</p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major far fa-envelope"></span>
+          <h3>电邮</h3>
+          <p><a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a></p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major fas fa-map"></span>
+          <h3>公司地址</h3>
+          <p><a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">香港金钟夏悫道18号海富中心1座28楼2805室</a></p>
+        </section>
+        
+      </div>
+    </div>
+  </section>
+
+:ET

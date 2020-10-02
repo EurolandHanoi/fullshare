@@ -1,0 +1,83 @@
+{% comment %}
+*   Menu
+*
+*   This include lets you easily display the navigation menu (including mobile hamburger menu).
+*
+*   usage: {% include _header.html fname='nav' %}
+{% endcomment %}
+
+<header id="header">
+  {% if site.logo %}
+  <span id="logo" class= "image">
+    <a href="{{ site.baseurl }}/home">
+    <img src="{{ site.baseurl }}{{ site.logo }}" alt = "Logo of {{ site.title }}" height = "72" style = "padding-top : 10px; padding-left: 10px" />
+    </a>
+  </span>
+  {% else %}
+  <h1 id="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+  {% endif %}
+
+  <!-- Nav -->
+  <nav id="nav">
+    <ul style = "color: #fff;" >    <!-- Font Color -->
+      {% if page.lang %}
+        {% for item in site.data[ include.fname ][page.lang] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}">{{ item.title }}</a>
+            {{ item.detail }}
+            </li>
+        {% endfor %}
+      {% else %}
+        {% for item in site.data[ include.fname ] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% endfor %}
+      {% endif %}
+
+      <!-- We will Always load _data.nav.yml (Global Links) -->
+      {% if page.lang %}
+        {% for item in site.data[ "nav" ][page.lang] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% endfor %}
+      {% else %}
+        {% for item in site.data[ "nav" ] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% endfor %}
+      {% endif %}
+
+      {% comment %}
+      <!-- Make Contact Us regular per Panerai
+      <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
+      -->
+      <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li>
+      {% endcomment %}
+
+      <!--
+      Language Support
+        Currently only for Page & Index & post
+      -->
+      {% if page.layout == 'page' or page.layout == 'index' or page.layout =='post' %}
+        {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
+        {% if posts.size == 0 %}
+            {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+        {% endif %}
+        {% if posts.size > 1 %}
+            <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
+            {% for post in posts reversed %}
+              {% if post.lang != page.lang %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit special" title="View in {{ site.data.lang[post.lang].label }}">
+          {{ site.data.lang[post.lang].button }}</a></li>
+              {% endif %}
+            {% endfor %}
+        {% endif %}
+      {% endif %}
+      <!-- end of Language Support -->
+    </ul>
+  </nav>
+  <nav id="nav-small">
+    <ul>
+      <li><a href="#menu">Menu</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- Create Mobile Menu -->
+{% include _menu.html fname = include.fname %}

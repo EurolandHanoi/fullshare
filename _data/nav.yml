@@ -1,0 +1,12 @@
+# pages to appear in navivation
+en:
+  - title: Contact Us
+    path: /home#contact
+
+tc:
+  - title: 聯繫我們
+    path: /home_tc#contact
+
+sc:
+  - title: 联系我们
+    path: /home_sc#contact

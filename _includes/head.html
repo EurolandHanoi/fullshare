@@ -1,0 +1,67 @@
+<head>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="author" content="{{ site.admin }}">
+
+    <!-- JSON-LD -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "name": "{{ site.admin }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": "{{ site.admin_city }}",
+        "addressRegion": "{{ site.admin_state }}",
+        "postalCode": ""
+      },
+      "telephone": ""
+    }
+    </script>
+
+    <!-- Search Engine -->
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="image" content="{% if page.share-image %}{{ page.share-image | prepend: site.url }}{% else %}{{ site.share-image | prepend: site.url }}{% endif %}">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="{{ site.title }}">
+    <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 150 }}{% else %}{{ site.description }}{% endif %}">
+    <meta itemprop="image" content="{% if page.share-image %}{{ page.share-image | prepend: site.url }}{% else %}{{ site.share-image | prepend: site.url }}{% endif %}">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:url" content="{% if page.permalink %}{{ page.permalink | prepend: site.url }}{% else %}{{ site.url }}{% endif %}">
+    <meta property="og:image" content="{% if page.share-image %}{{ page.share-image | prepend: site.url }}{% else %}{{ site.share-image | prepend: site.url }}{% endif %}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ site.twitter_username }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.share-image %}{{ page.share-image | prepend: site.url }}{% else %}{{ site.share-image | prepend: site.url }}{% endif %}">
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+    <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+
+    <!-- Language support -->
+    {% if page.layout == 'page' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+        {% for post in posts %}
+        <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.baseurl }}{{ post.url }}" />
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+</head>

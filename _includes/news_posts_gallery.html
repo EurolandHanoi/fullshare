@@ -1,0 +1,59 @@
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.news_post %}{% endif %}
+
+{% assign _lang = include.lang %}
+{% if _lang %}{% else %}{% assign _lang = 'en' %}{% endif %}
+
+<section class="wrapper style1 align-center invert">
+		<div class="inner">
+				<p></p>
+				<p></p>
+				<h2>{{ _data.title }}</h2>
+		</div>
+
+	<!-- news_post -->
+	<div class="gallery style2 medium lightbox onscroll-fade-in">
+			{% for post in site.posts limit:site.front-page-posts %}
+				{% if _lang == 'en' %}
+					{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
+			<article class="style{% cycle '1', '2', '3', '4', '5', '6' %}">
+						{% if post.image %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="image">
+					<img src="{{ post.image}}" alt="" />
+				</a>
+						{% else %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="image">
+					<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/thumbs/01.jpg" alt="" />
+				</a>
+						{% endif %}
+				<div class="caption">
+					<p>{{ post.date }}</p>
+					<h3>{{ post.title }}</h3>
+					<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+				</div>
+			</article>
+				{% endunless %}
+			{% else %}
+				{% assign lang_path = 'lang_' | append: _lang %}
+				{% if post.path contains lang_path %}
+			<article class="style{% cycle '1', '2', '3', '4', '5', '6' %}">
+						{% if post.image %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="image">
+					<img src="{{ post.image}}" alt="" />
+				</a>
+						{% else %}
+				<a href="{{ site.baseurl }}{{ post.url }}" class="image">
+					<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/thumbs/01.jpg" alt="" />
+				</a>
+						{% endif %}
+				<div class="caption">
+					<p>{{ post.date }}</p>
+					<h3>{{ post.title }}</h3>
+					<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+				</div>
+			</article>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	</div>
+</section>

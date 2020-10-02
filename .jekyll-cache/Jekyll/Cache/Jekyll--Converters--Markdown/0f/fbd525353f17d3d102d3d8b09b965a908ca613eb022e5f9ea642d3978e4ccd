@@ -1,0 +1,22 @@
+I"2
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- center -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-center image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto"></h2>
+    <h3></h3>
+    <p><a href="home" style="text-decoration:none; border:none;"><img src="images/home_logo.png" class="fit" width="95%" /></a>
+</p>
+    
+  </div>
+  <div class="image">
+    <img src="images/background.jpg" alt="" />
+  </div>
+</section>
+
+:ET

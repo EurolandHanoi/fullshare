@@ -1,0 +1,266 @@
+///
+/// Phantom by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Header */
+
+#header {
+    background-color: transparent !important;
+    cursor: default;
+    height: 3.5em;
+    left: 0;
+    line-height: 3.5em;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+
+    h1 {
+        font-size: 1em;
+        height: inherit;
+        left: 1.25em;
+        line-height: inherit;
+        margin: 0;
+        top: 0;
+        position: absolute;
+    }
+
+
+    .invert {
+        background-color: transparent !important;
+    }
+
+
+    .logo {
+        display: block;
+        border-bottom: 0;
+        color: inherit;
+        font-weight: _font(weight-bold);
+        letter-spacing: _font(letter-spacing);
+        margin: 0 0 (_size(element-margin) * 1.25) 0;
+        text-decoration: none;
+        text-transform: uppercase;
+        display: inline-block;
+
+        > * {
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .symbol {
+            margin-right: 0.65em;
+
+            img {
+                display: block;
+                width: 2em;
+                height: 2em;
+            }
+        }
+    }
+
+    #nav-small {
+        display: none;
+    }
+
+    nav {
+        position: absolute;
+        right: 1em;
+        top: 0;
+
+        ul {
+            margin: 0;
+
+            li {
+                display: inline-block;
+                margin-left: 1em;
+
+
+                a, span {
+                    border: 0;
+                    color: inherit;
+                    display: inline-block;
+                    height: inherit;
+                    line-height: inherit;
+                    outline: 0;
+                    text-decoration: none;
+                    letter-spacing: 2px;
+                    text-transform: uppercase;
+                    font-size: 0.65rem;
+
+                    &:hover {
+                        color: _palette(accent);
+                    }
+
+
+                    &.button {
+                        height: 2em;
+                        line-height: 2em;
+                        padding: 0 1.25em;
+                        vertical-align: middle;
+                        font-size: 0.75rem;
+                    }
+
+                    &:not(.button):before {
+                        margin-right: 0.5em;
+                    }
+                }
+
+                a[href="#menu"] {
+                    -webkit-tap-highlight-color: transparent;
+                    width: 4em;
+                    text-indent: 4em;
+                    font-size: 1em;
+                    overflow: hidden;
+                    padding: 0;
+                    white-space: nowrap;
+
+                    &:before, &:after {
+                        @include vendor('transition', 'opacity #{_duration(transition)} ease');
+                        content: '';
+                        display: block;
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        background-position: center;
+                        background-repeat: no-repeat;
+                        background-size: 2em 2em;
+                    }
+
+                    &:before {
+                        background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(accent1)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
+                        opacity: 0;
+                    }
+
+                    &:after {
+                        background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(bg)}; }</style><line x1="0" y1="25" x2="100" y2="25" /><line x1="0" y1="50" x2="100" y2="50" /><line x1="0" y1="75" x2="100" y2="75" /></svg>');
+                        opacity: 1;
+                    }
+
+                    &:hover {
+                        &:before {
+                            opacity: 1;
+                        }
+
+                        &:after {
+                            opacity: 0;
+                        }
+                    }
+                }
+
+                &.active {
+                    > a, > span {
+                        color: _palette(accent1);
+                    }
+                }
+
+                > ul {
+                    display: none;
+                }
+            }
+        }
+    }
+
+
+    @include breakpoint(small) {
+
+        #nav {
+            display: none !important;
+        }
+
+        #nav-small {
+            display: block !important;
+        }
+
+        nav {
+            right: -0.5em;
+            top: -.75em;
+
+            ul {
+                li {
+                    a[href="#menu"] {
+                        &:before, &:after {
+                            background-size: 1.5em 1.5em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+#header nav ul li > ul {
+    display: block;
+}
+
+nav ul li:hover > ul {
+    visibility: visible;
+    opacity: 1;
+    z-index: 5;
+    transform: translateY(0);
+    transition-delay: 0s,0s,0.3s;
+}
+
+.sub-memu {
+    min-width: 160px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-10px);
+    z-index: -1;
+    transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s, z-index 0s linear 0.01s;
+    font-size: 16px;
+    background: #0a2232;
+    color: #fff;
+    *border-top: 5px solid #e66202;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    width: auto;
+    max-width: 260px;
+
+    li {
+        padding-left: 0;
+
+        a {
+            padding: 0 10px;
+            white-space: nowrap;
+        }
+    }
+
+    &.child {
+        left: 100%;
+        top: 0;
+        min-width: 185px; //we give more width for the child dropdown
+        @media screen and (min-width: 1681px) {
+            min-width: 235px;
+        }
+
+        li {
+            a {
+                padding: 0 8px;
+                white-space: inherit;
+            }
+        }
+    }
+}
+
+#header nav ul li {
+    line-height: 3.5em;
+    position: relative;
+}
+
+#header nav ul li > ul {
+    padding-left: 0;
+
+    li {
+        margin-left: 0;
+        display: block;
+    }
+}

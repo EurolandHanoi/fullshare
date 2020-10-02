@@ -1,0 +1,30 @@
+# pages to appear in navivation
+en:
+  - title: Task
+    path: /pages/governance#task
+
+  - title: Risk Management
+    path: /pages/governance#risk_management
+
+  - title: Organizational Chart
+    path: /pages/governance#org_chart
+
+tc:
+  - title: 任務
+    path: /pages_zh-hk/governance_tc#task
+
+  - title: 風險管理
+    path: /pages_zh-hk/governance_tc#risk_management
+
+  - title: 企業管治
+    path: /pages_zh-hk/governance_tc#org_chart
+
+sc:
+  - title: 任务
+    path: /pages_zh-cn/governance_sc#task
+
+  - title: 风险管理
+    path: /pages_zh-cn/governance_sc#risk_management
+
+  - title: 企业管治
+    path: /pages_zh-cn/governance_sc#org_chart

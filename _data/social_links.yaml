@@ -1,0 +1,47 @@
+# Social Links to appear in site's footer
+- title: Github
+  fa_class: fab fa-github
+  url:
+- title: BitBucket
+  fa_class: fab fa-bitbucket
+  url:
+- title: Stackoverflow
+  fa_class: fab fa-stack-overflow
+  url:
+- title: RSS Feed
+  fa_class: fa fa-rss
+  url: #../fullshare/feed.xml     # not referencing properly
+- title: Twitter
+  fa_class: fab fa-twitter
+  url:
+- title: Skype
+  fa_class: fab fa-skype
+  url:
+- title: Steam
+  fa_class: fab fa-steam-square
+  url:
+- title: Email
+  fa_class: far fa-envelope
+  url: mailto:fullshare@intelligentjoy.com
+- title: Phone
+  fa_class: fas fa-phone
+  url: tel:+852 3618 8462
+- title: Facebook
+  fa_class: fab fa-facebook
+  url:
+- title: Instagram
+  fa_class: fab fa-instagram
+  url:
+- title: LinkedIn
+  fa_class: fab fa-linkedin
+  url:
+- title: Medium
+  fa_class: fab fa-medium
+  url:
+# Payments/ donation: might need to create a separate data file and _include
+- title: Bitcoin
+  fa_class: fab fa-bitcoin
+  url:
+- title: Paypal
+  fa_class: fab fa-paypal
+  url:

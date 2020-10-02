@@ -1,0 +1,60 @@
+{% comment %}
+*
+*   This include lets you easily display a the Banner.
+*
+*   usage: {% include _banner.html key='' style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' id='' %}
+*
+*   The content for the banner is retrived from the calling page's front matter; for example:
+*   banner:
+*     title: This is a Banner Example, which is a H2 Heading
+*     desc: 'This is a H3 Heading.'
+*     content: 'This is a p tag. You can write HTML here as well.'
+*     button:
+*       show: true
+*       url: "/#"
+*       text: Get Started
+*       custom_class: button smooth-scroll-middle
+*     image_url: '../images/banner.jpg'
+*
+*   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
+*
+{% endcomment %}
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+{% assign _style = include.style %}
+{% if _style %}{% else %}{% assign _style = 'style5' %}{% endif %}
+
+{% assign _content_align = include.content_align %}
+<!-- {{ _content_align | default: 'left' }} -->
+{% if _content_align %}{% else %}{% assign _content_align = 'left' %}{% endif %}
+
+{% assign _img_pos = include.img_pos %}
+<!-- {{ _img_pos | default: 'left' }} -->
+{% if _img_pos %}{% else %}{% assign _img_pos = 'left' %}{% endif %}
+
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.banner %}{% endif %}
+
+<!-- Banner -->
+<section class="banner {{ _style }} {{ include.size }} {{ include.scheme }} {{ include.color }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onload-image-fade-in-slow onload-content-fade-in" {% if include.id %} id = "{{ include.id }}" {% endif %}>
+  <div class="content">
+    <h2 class="motto">{{ _data.title }}</h2>
+    <h3>{{ _data.desc }}</h3>
+    <p>{{ _data.content }}</p>
+    {% if _data.button.show %}
+    <ul class="actions vertical">
+      {% assign button_url = _data.button.url %}
+
+      {% assign button_class = _data.button.custom_class %}
+      {% if button_class %}{% else %}{% assign button_class = 'button smooth-scroll-middle' %}{% endif %}
+      <li><a href="{{ button_url }}" class="{{ button_class }}">{{ _data.button.text }}</a></li>
+      <!--
+      <li><a href="{{ button_url }}" class="button big wide special smooth-scroll-middle">{{ _data.button.text }}</a></li>
+      -->
+    </ul>
+    {% endif %}
+  </div>
+  <div class="image">
+    <img src="{{ _data.image_url }}" alt="" />
+  </div>
+</section>

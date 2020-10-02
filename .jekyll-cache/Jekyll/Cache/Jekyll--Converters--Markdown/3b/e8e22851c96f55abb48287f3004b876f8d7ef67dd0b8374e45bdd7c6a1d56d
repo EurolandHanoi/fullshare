@@ -1,0 +1,68 @@
+I"�<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 6 invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto"><br />投资者关系</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#share_graph" class="button smooth-scroll-middle">股价资讯</a></li>
+      <!--
+      <li><a href="#share_graph" class="button big wide special smooth-scroll-middle">股价资讯</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/property/residential/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Share Graph -->
+<section class="wrapper style2 align-center" id="share_graph">
+    <div class="inner fullscreen">
+      <h2>股价图</h2>
+      <iframe class="EurolandTool" style="" src="//asia.tools.euroland.com/tools/sharegraph/?s=1362&amp;companycode=hk-607&amp;lang=zh-cn" width="100%" height="750"></iframe>
+
+      <ul class="actions vertical">
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+      </ul>
+    </div>
+</section>
+
+<!-- Announcements -->
+<section class="wrapper style1 align-center" id="announcements">
+    <div class="inner fullscreen">
+      <h2>公告与通函</h2>
+      <iframe class="EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&amp;lang=zh-cn" width="100%" height="300"></iframe>
+
+      <ul class="actions vertical">
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+      </ul>
+    </div>
+</section>
+
+<!-- Subscription Centre -->
+<section class="wrapper style2 align-center" id="Subscription">
+  <div class="inner medium">
+      <h2>电邮订阅中心</h2>
+      <iframe class="EurolandTool" style="" src="//asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&amp;lang=zh-cn" width="100%" height="450"></iframe>
+
+      <ul class="actions vertical">
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+      </ul>
+  </div>
+</section>
+:ET

@@ -1,0 +1,85 @@
+I"�<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">Education &amp; Healthcare</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#sparrow_soccer_school" class="button smooth-scroll-middle">Continue</a></li>
+      <!--
+      <li><a href="#sparrow_soccer_school" class="button big wide special smooth-scroll-middle">Continue</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/education/sparrow_early_learning/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty invert orient-left content-align-right image-position-left onscroll-image-fade-in" id="sparrow_early_learning">
+  <div class="content">
+    <h2>Sparrow Early Learning</h2>
+    <p><p>Sparrow Early Learning Pty Ltd. (“Sparrow”; a subsidiary of the Group), headquartered in Brisbane, Australia, is operating approximately 30 childcare centers in Queensland and Victoria, to provide the childcare and education services for the children aged from 0 to 6. Sparrow has experienced management team and has earned a good reputation in Australia.</p>
+
+<p><a href="http://www.sparrowearlylearning.com.au" class="button">Visit the Website</a></p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/education/sparrow_early_learning/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1 fifty  orient-right content-align-left image-position-center onscroll-image-fade-in" id="hin_feng">
+  <div class="content">
+    <h2>Hin Feng</h2>
+    <p><p>In order to expand in the mother-infant healthcare market, the Group has established a joint venture company, Hin Feng Investment (NanJing) Co., Ltd., with Hin Sang Group (International) Holding Co. Ltd. (SEHK: 6893.HK) to expand the business of mother-infant Chinese medical healthcare as well as diagnosis and treatment services to capture this fast-growing market. Hin Feng Herbaby Health Centre was officially opened on 25 June 2017 in Shek Mun, Shatin, Hong Kong, mainly providing the service of massage, spine care, eye care, acupuncture and other health services as a child grows.</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/education/hin_feng/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

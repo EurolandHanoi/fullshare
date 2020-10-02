@@ -1,0 +1,25 @@
+{% comment %}
+*   Create Expandable Text HTML for this theme.
+*
+*   This include requires the text-expand.html
+*
+*   usage: {% include expandable_ppl.html fname='team_exec_dir' %}
+{% endcomment %}
+
+{% for person in site.data[include.fname] %}
+  <h4><b>{{ person.name }}</b></h4>
+  <h4>{{ person.title}}</h4>
+  {% if person.details or person.list %}
+  <p>[expand]</p>
+  {{ person.details }}
+
+    {% if person.list %}
+      <ul>
+      {% for item in person.list %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  <p>[/expand]</p>
+  {% endif %}
+{% endfor %}

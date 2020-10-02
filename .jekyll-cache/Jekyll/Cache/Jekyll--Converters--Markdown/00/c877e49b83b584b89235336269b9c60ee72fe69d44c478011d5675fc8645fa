@@ -1,0 +1,91 @@
+I"$<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">健康地產</h2>
+    <h3></h3>
+    <p></p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#wonder_city" class="button smooth-scroll-middle">了解更多</a></li>
+      <!--
+      <li><a href="#wonder_city" class="button big wide special smooth-scroll-middle">了解更多</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Properties -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-left image-position-left onscroll-image-fade-in" id="wonder_city">
+  <div class="content">
+    <h2>虹悅城</h2>
+    <p><p><b>虹悅城</b></p>
+
+<p>虹悅城大型購物中心位於中國江蘇省南京市 。虹悅城擁有多個優質租戶。商場日均人流量約5.5萬人次；總建築面積為10萬平方米，可供出售面積6.3萬平方米。為了吸引人流，商場每年都會舉辨8-10個推廣活動。每一層樓，都會根據客戶需求提供服務。例如以兒童為對象的樓層，有小火車讓小客人乘坐遊歷商場，還有兒童拍照、BB游泳等特色玩意。為了讓母親等候方便，為母親提供的服務也是設在同一樓層。</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/wonder_city/2.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-left onscroll-image-fade-in" id="yuhua_salon">
+  <div class="content">
+    <h2>雨花客廳</h2>
+    <p><p><b>雨花客廳</b></p>
+
+<p>雨花客廳位於中國（南京）軟件谷之核心位置，乃南京首個集雙地鐵站，低碳綠色，人性化等優勢於一體之總部式商用地產項目，總建築面積達50萬平方米，為整個軟件谷提供管理中心，辦公室大樓，商用物業，酒店及服務式公寓等全方位商業配套設施。作為國家級軟件產業基地之核心配套地產物業，雨花客廳將低碳節能科技元素，首次應用到商用物業中，由豐盛控股自主研發的地源熱泵系統，能夠確保物業室內四季恒溫、恒濕、恒氧，利用回圈的地下水源控溫控濕，既能將辦公環境維持在人體最舒適的條件中，並能成功降低30%能源消耗，達到低碳節能的目標。</p>
+
+<p>雨花客廳已獲得多個大牌入駐，包括沃爾瑪山姆會員店、運動品牌迪卡儂、英皇體驗俱樂部、洛克公園等。</p>
+
+<p>中國（南京）軟件谷位於南京市的西南部， 規劃總面積73平方公里，是中國最大的資訊科技軟件產業研發基地，綜合實力已躋身中國同類軟件園區之首三名位置，同時亦是中國資訊科技服務外包示範基地，國家現代資訊科技軟件產業基地，以及國家數碼出版基地。中國（南京）軟件谷內已匯集不同類型軟件企業超過660家，僅軟件從業人員超過15萬人。</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="../images/business/property/yuhua_salon/1.jpg" alt="" />
+  </div>
+</section>
+
+:ET

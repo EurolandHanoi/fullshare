@@ -1,0 +1,39 @@
+# pages to appear in navivation
+en:
+  - title: Our Business
+    path: /home#businesses
+
+  - title: Sparrow Soccer School
+    path: /pages/education#sparrow_soccer_school
+
+  - title: Sparrow Early Learning
+    path: /pages/education#sparrow_early_learning
+
+  - title: Hin Feng
+    path: /pages/education#hin_feng
+
+tc:
+  - title: 我們的業務
+    path: /home_tc#businesses
+
+  - title: Sparrow足球學校
+    path: /pages_zh-hk/education_tc#sparrow_soccer_school
+
+  - title: Sparrow兒童教育集團
+    path: /pages_zh-hk/education_tc#sparrow_early_learning
+
+  - title: 衍豐
+    path: /pages_zh-hk/education_tc#hin_feng
+
+sc:
+  - title: 我们的业务
+    path: /home_sc#businesses
+
+  - title: Sparrow足球学校
+    path: /pages_zh-cn/education_sc#sparrow_soccer_school
+
+  - title: Sparrow儿童教育集团
+    path: /pages_zh-cn/education_sc#sparrow_early_learning
+
+  - title: 衍丰
+    path: /pages_zh-cn/education_sc#hin_feng

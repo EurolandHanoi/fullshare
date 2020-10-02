@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<!--
+	This is for the Calling Card
+	User should only see this once
+-->
+<html>
+
+	{% include head.html %}
+
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+			{% comment %}
+			<!-- Header; with navigation Menu -->
+			{% include _header.html fname = "nav" %}
+			{% endcomment %}
+
+  		{{ content }}
+
+  		<!-- footer -->
+			{% include footer.html %}
+
+			</div>
+
+  		<!-- scripts -->
+ 			{% include scripts.html %}
+
+	</body>
+
+</html>

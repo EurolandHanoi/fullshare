@@ -1,0 +1,215 @@
+I"9<!-- Welcome Banner -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- left -->
+
+<!-- left -->
+
+<!-- Banner -->
+<section class="banner style5 fullscreen invert  content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">Welcome to Fullshare</h2>
+    <h3></h3>
+    <p>Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational conglomerate and investment company. Founded in 2002 and listed on Hong Kong stock exchange in December 2013, Fullshare is headquartered in Nanjing, China with offices in Hong Kong, Singapore, and Australia.
+</p>
+    
+    <ul class="actions vertical">
+      
+
+      
+      
+      <li><a href="#aboutus" class="button smooth-scroll-middle">Continue</a></li>
+      <!--
+      <li><a href="#aboutus" class="button big wide special smooth-scroll-middle">Continue</a></li>
+      -->
+    </ul>
+    
+  </div>
+  <div class="image">
+    <img src="images/background.jpg" alt="" />
+  </div>
+</section>
+
+<!-- About Us -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-left image-position-left onscroll-image-fade-in" id="aboutus">
+  <div class="content">
+    <h2>About Us</h2>
+    <p><p>Fullshare Holdings Limited (“Group”; SEHK stock code: 00607.HK) has been listed on the Hong Kong Stock Exchange since the end of 2013.</p>
+<p>[expand]</p>
+<p>Fullshare Holdings Limited is a Chinese conglomerate focused on becoming a global leader in healthy living. The Group’s business can be categorized in four segments, namely, tourism, education and healthcare, property, as well as renewable energy. The group’s business and projects have expanded to Mainland China, Hong Kong, Singapore, Australia, etc.</p>    
+<p>[/expand]</p>
+</p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages/about" class="button">Learn More</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/wonder_city/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Our Business -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-left onscroll-image-fade-in" id="businesses">
+  <div class="content">
+    <h2>Our Business</h2>
+    <p><!--
+<ul class="alt">
+<li><a href="pages/tourism" class="button">Tourism</a></li>
+<li><a href="pages/education" class="button">Education & Healthcare</a></li>
+<li><a href="pages/renewable" class="button">Renewable Energy</a></li>
+<li><a href="pages/property" class="button">Property</a></li>
+</ul>
+-->
+<p>
+<a href="pages/tourism" class="button">Tourism</a>
+<a href="pages/education" class="button">Education &amp; Healthcare</a>
+<a href="pages/renewable" class="button">Renewable Energy</a>
+<a href="pages/property" class="button">Property</a>
+</p>
+</p>
+
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/yuhua_salon/3.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Corporate Goverance -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-Center image-position-center onscroll-image-fade-in" id="governance">
+  <div class="content">
+    <h2>Corporate Governance</h2>
+    <p></p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages/governance" class="button">Learn More</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/tourism/sheraton/4.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Company News -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1   orient-left content-align-right image-position-center onscroll-image-fade-in" id="news">
+  <div class="content">
+    <h2>Company News</h2>
+    <p></p>
+
+    
+    <ul class="actions vertical">
+      
+      
+
+      <li><a href="pages/company_news" class="button">Learn More</a></li>
+    </ul>
+    
+
+  </div>
+  <div class="image">
+    <img src="/images/business/tourism/laguna/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Investor Relations -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Spotlight -->
+<section class="spotlight style1  invert orient-right content-align-Center image-position-center onscroll-image-fade-in" id="ir">
+  <div class="content">
+    <h2>Investor Relations</h2>
+    <p><!--
+<ul class="alt">
+<li><a href="pages/ir" class="button">Share Information</a></li>
+<li><a href="pages/ir_factsheet" class="button">Fact Sheet</a></li>
+<li><a href="pages/ir_interactive" class="button">Interactive Analysis</a></li>
+</ul>
+-->
+<p>
+<a href="pages/ir" class="button">Share Information</a>
+<a href="pages/ir_reports" class="button">Financial Reports</a>
+<a href="pages/ir_factsheet" class="button">Fact Sheet</a>
+<a href="pages/ir_interactive" class="button">Interactive Analysis</a>
+</p>
+</p>
+
+    
+
+  </div>
+  <div class="image">
+    <img src="images/business/property/residential/1.jpg" alt="" />
+  </div>
+</section>
+
+<!-- Contact Us -->
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+
+<!-- Items -->
+<section class="wrapper style1 align-center" id="contact">
+    <div class="inner">
+      <h2>Contact Us</h2>
+      <p>Media &amp; Investor Enquiries</p>
+      <div class="items style3 small onscroll-fade-in">
+        
+        <section>
+          <span class="icon style2 major fas fa-phone"></span>
+          <h3>Telephone</h3>
+          <p><a href="tel:+852 3618 8462">+852 3618 8462</a></p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major fas fa-fax"></span>
+          <h3>Fax</h3>
+          <p>+852 3460 4237</p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major far fa-envelope"></span>
+          <h3>Email</h3>
+          <p><a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a></p>
+        </section>
+        
+        <section>
+          <span class="icon style2 major fas fa-map"></span>
+          <h3>Address</h3>
+          <p><a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">Unit 2805, Level 28, Admiralty Centre Tower 1, 18 Harcourt Road, Admiralty, Hong Kong</a></p>
+        </section>
+        
+      </div>
+    </div>
+  </section>
+
+:ET

@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<!--
+	This is for the Home Page
+	leading to the main topics
+-->
+<html>
+
+	{% include head.html %}
+
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- Header; with navigation Menu -->
+				{% include _header.html fname = "nav_home" %}
+
+
+		  	{{ content }}
+
+		  	<!-- footer -->
+				{% include footer.html %}
+
+			</div>
+
+		<!-- scripts -->
+ 		{% include scripts.html %}
+
+	</body>
+
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+	{% include head.html %}
+
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+		<!-- Header; with navigation Menu -->
+		{% include _header.html fname = page.nav_name %}
+
+{% assign author = site.data.authors[page.author] %}
+{% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+
+<!-- header -->
+  <section class="banner style5 invert halfscreen content-align-left image-position-left onload-image-fade-in-slow onload-content-fade-in-stages">
+    <div class="content">
+      <h2>{{ page.title }}</h2>
+      <!-- {% if page.author %}<p class="major">by {{ author.name }}</p>{% endif %} -->
+         <p class="major">{{ page.date | date: site.date_format }}</p>
+        <p>  {% if page.minutes %}
+            {{ page.minutes }} {{ site.text.post.minute_read }}
+          {% else %}
+            {{ minutes }} {{ site.text.post.minute_read }}
+          {% endif %}</p>
+    </div>
+    <div class="image dusk">
+      {% if page.image %}
+      <!--<img src="{{ base }}/images/pages/{{ page.image }}" alt="" />-->
+			<img src="{{ base }}{{ page.image }}" alt="" />
+      {% else %}
+      <img src="{{ base }}/images/gallery/fulls/03.jpg" alt="" />
+      {% endif %}
+  </div>
+  </section>
+
+<section class="wrapper style1 align-center">
+  <div class="inner style1 align-center">
+      <div class="content align-left post">
+          {{ content }}
+      </div>
+  </div>
+</section>
+
+{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}
+
+{% if site.show_post_footers %}
+  {% include post_footer.html %}
+{% endif %}
+
+<!-- footer -->
+{% include footer.html %}
+
+    </div>
+
+<!-- scripts -->
+{% include scripts.html %}
+
+</body>
+
+</html>

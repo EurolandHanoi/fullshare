@@ -1,0 +1,57 @@
+// Some special letter effects
+
+.swoop {
+	@include vendor('transition', (
+		'opacity #{_duration(on-scroll)} ease-in-out',
+		'transform #{_duration(on-scroll)} ease-in-out'
+	));
+	&.is-inactive {
+		opacity:0;
+		&.up {
+		@include vendor('transform', 'translateY(1rem)');
+		}
+		&.down {
+		@include vendor('transform', 'translateY(-1rem)');
+		}
+		&.left {
+		@include vendor('transform', 'translateX(1rem)');
+		}
+		&.right {
+			@include vendor('transform', 'translateX(-1rem)');
+		}
+	}
+}
+
+#logo {
+	font-family: _font(family-alt);
+	font-weight: 200;
+	letter-spacing: 9px;
+	line-height: 1em;
+	text-transform: uppercase;
+
+	a {
+		border-bottom:none;
+	}
+}
+
+.motto {
+	font-family: _font(family-alt);
+	font-weight: 400;
+}
+
+.display {
+	font-family: _font(family-display);
+	font-weight:900;
+	font-style:italic;
+	padding: 0 .25em;
+	color: darken(_palette(accent),10%);
+	opacity: 1;
+	@include text-gradient(10deg, darken(_palette(accent),10%), lighten(_palette(color4),10%));
+	@include vendor('transition', 'opacity #{_duration(on-load)} ease-in-out');
+		span {
+				padding: 0 0.109em;
+				margin: 0 -.109em;
+	@include text-gradient(10deg, darken(_palette(accent),10%), lighten(_palette(color4),10%));
+		}
+
+}
