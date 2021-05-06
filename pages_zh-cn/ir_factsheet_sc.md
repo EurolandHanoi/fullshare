@@ -23,7 +23,7 @@ lang-ref: ir_factsheet.md
 <section class="wrapper style1 align-center" id = "factsheet">
     <div class="inner fullscreen">
       <h2>公司一览表</h2>
-      <iframe class = "EurolandTool" style="" src="https://tools.euroland.com/factsheet/hk-607/factsheethtml.asp?lang=taiwanese" width = "100%" height ="800"></iframe>
+      <iframe class = "EurolandTool" style="" src="https://tools.euroland.com/factsheet/hk-607/factsheethtml.asp?lang=chinese" width = "100%" height ="800"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
