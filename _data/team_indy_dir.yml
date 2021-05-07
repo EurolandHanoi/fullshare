@@ -1,5 +1,4 @@
 # People Details
-comma: ":"
 - name: Mr. Lau Chi Keung
   title: Independent Non-executive Director
   list:
@@ -8,7 +7,7 @@ comma: ":"
     - Higher diploma in surveying/building technology, Hong Kong Technical College (currently known as Hong Kong Polytechnic University)
     - Member of the Disciplinary Panel, Hong Kong Institute of Surveyors
     - Member of the Appeal Tribunal Panel of Planning and Lands Branch, Development Bureau of Government Secretariat, HK
-    - Independent non-executive director, Applied Development Holdings Limited (HKEx stock code{{comma}} 519)
+    - Independent non-executive director, Applied Development Holdings Limited (HKEx stock code%3A519)
     - Former director of Henderson China Development Limited
     - Former director of Henderson Investment Limited
     - Was a member of the Construction Industry Training Authority, HK
