@@ -17,7 +17,7 @@ spotlight-risk_management:
   content: |
     <p><b>Risk Management Working Group</b></p>
 
-    <p>Composed of regular members from the Company’s Finance Department, Legal Department, Human Resources Department and Internal Audit Department.</p>
+    <p>Composed of regular members from the Company’s Finance Department, Legal Department, Human Resources Department, Investment Department and Internal Audit Department.</p>
 
     <p>[expand]</p>
     <ul>
@@ -33,7 +33,7 @@ spotlight-risk_management:
     <p>[expand]</p>
     <ul>
     <li>To assist the Board of Directors in assessing and resolving the characteristics and level of risk they are willing to bear while achieving strategic goals</li>
-    <li>To assist the Board of Directors in the supervision of risk management and the design, implementation and oversight of internal monitoring system</li>
+    <li>To assist the Board of Directors in the supervision of risk management and the design, implementation and oversight of internal control system</li>
     <li>To provide advisory services to the Board of Directors in regard to the Company’s risk-related issues</li>
     <li>To review and assess regularly the adequacy and effectiveness of the Company’s risk management framework, internal control systems and risk management policies, procedures and systems</li>
     </ul>
@@ -137,9 +137,8 @@ lang-ref: governance.md
     <div class="inner medium">
       <h2>Organizational Chart</h2>
 
-      <ul>
-          <li>Most of the members of committees under the board are independent non-executive directors</li>
-          <li>All committees under the board has written terms</li>
+      <ul>          
+          <li>All committees under the board has written terms of reference</li>
           <li>The committees under the board could seek for independent professional advice in appropriate circumstances</li>
       </ul>
 
