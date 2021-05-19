@@ -1,6 +1,6 @@
 title: 财务报告
 content:
-file_dir: ../files/reports/sc/
+file_dir: ../files/reports/tc/
 articles:
   - title: Example
     content: Financial Report
