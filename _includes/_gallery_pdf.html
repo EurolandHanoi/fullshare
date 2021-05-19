@@ -50,7 +50,8 @@
 
       {% for file in site.static_files reversed %}
       {% assign str_file_dir = _data.file_dir | remove: '../' %}
-      {% if file.path contains str_file_dir %}
+      {% assign ext = file.path | split: "." | last %}
+      {% if file.path contains str_file_dir and ext | downcase == "pdf" %}
       <article>
           <a href="{{ file.path }}" class="image">
               <img class="img-responsive" src="{{ file.path | strip | replace: " ", "-" | replace: ".pdf", ".png" }}" alt="" />
