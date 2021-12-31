@@ -196,7 +196,7 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
         </tr>
         <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">黄顺先生</th>
+            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">黄顺先生 </th>
             <td class="align-center"><img src="/images/people_c.png" /></td>
             <td></td>
             <td></td>
