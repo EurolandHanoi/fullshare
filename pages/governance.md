@@ -186,14 +186,7 @@ lang-ref: governance.md
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Mr. Chow Siu Lui</th>
-            <td class="align-center"><img src="/images/people_c.png" /></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>        
+            
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Mr. Tsang Sai Chung</th>
             <td><img src="/images/people_gray.png" /></td>
@@ -202,6 +195,14 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
             <td><img src="/images/people_gray.png" /></td>
         </tr>
+        <tr>
+            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Mr. Huang Shun</th>
+            <td class="align-center"><img src="/images/people_c.png" /></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>    
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Terms of Reference</th>
             <td><a href="../files/2_Terms-of-Reference-of-the-Audit-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
@@ -215,7 +216,7 @@ lang-ref: governance.md
       </div>
 
       <ul class = "alt">
-        <li>List of directors and their roles and functions <br><a href="../files/Attachment-2_EN.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <li>List of directors and their roles and functions <br><a href="../files/ew_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>Memorandum of association & Articles of association <br><a href="../files/6_Memorandum-of-Association-Articles-of-Association.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>Procedures for Proposing a Person for Election as a Director <br><a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>Board Diversity Policy <br><a href="../files/Board-Diversity-Policy-E.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
