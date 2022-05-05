@@ -186,7 +186,15 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
             <td></td>
             <td></td>
-        </tr>        
+        </tr>
+        <tr>
+            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">邹小磊先生</th>
+            <td class="align-center"><img src="/images/people_c.png" /></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">曾细忠先生</th>
             <td><img src="/images/people_gray.png" /></td>
@@ -194,14 +202,6 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
             <td><img src="/images/people_gray.png" /></td>
             <td><img src="/images/people_gray.png" /></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">黄顺先生 </th>
-            <td class="align-center"><img src="/images/people_c.png" /></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">职权范围</th>
@@ -217,7 +217,7 @@ lang-ref: governance.md
 
       <ul class = "alt">
         <li>董事名单与其角色和职能 <br>
-        <a href="../files/cw_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <a href="../files/Attachment-2_CN.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>公司章程细则 <br>
         <a href="../files/6_組織章程大綱及新公司細則.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>股东提名个别人士为本公司董事之程序 <br><a href="../files/7_提名人士參選董事之程序.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
@@ -225,6 +225,8 @@ lang-ref: governance.md
         <a href="../files/Board-Diversity-Policy-C.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
         <li>股息政策 <br>
         <a href="../files/Dividend-Policy-C.pdf" class="icon style1 fas fa-download"> PDF</a></li>
+        <li>股东通讯政策 <br>
+        <a href="../files/股东通讯政策(中文简体)-(website).pdf" class="icon style1 fas fa-download"> PDF</a></li>
       </ul>
 
       <ul class="actions vertical">
