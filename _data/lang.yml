@@ -4,11 +4,20 @@ en:
   label: English
   button: EN
   icon: 🇬🇧
+  annualreport: annual report
+  interimreport: interim report
+  esgreport: ESG report
 tc:
   label: Traditional Chinese - 繁體
   button: 繁
   icon: 🇭🇰
+  annualreport: 年報
+  interimreport: 中報
+  esgreport: 環境社會管治報告
 sc:
   label: Simplified Chinese - 简体
   button: 简
   icon: 🇨🇳
+  annualreport: 年报
+  interimreport: 中报
+  esgreport: 環境社會管治報告
