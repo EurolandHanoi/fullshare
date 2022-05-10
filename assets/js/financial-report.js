@@ -1,34 +1,33 @@
 /**
  * resize image height
  */
- var resizeImageHeight = function(){
-    var images = $(".gallery img.img-responsive");
-    if(images.length > 0){
-        var minheight = 0;// images[0].height;
-        $.each(images, function(index, item){
-			
-			if ( minheight < $( this ).height()) {
-				 minheight = $(this).height();
-				 //console.log(minheight);
-			}
-        
-            //var item = $(item);
-         
-            //if(minheight<item.height()){
-                //minheight = item.height();
-          
-			//}
-        });
-        $.each(images, function(index, value){
-            var item = $(value);
-			if(minheight>0){
-				item.css("max-height", minheight);	
-			}        
-        });
-		
-    }
-};
-$(window).load(function() {
-  resizeImageHeight();
-});
 
+
+var images = $(".gallery img.img-responsive");
+//check if it is image gallery
+if(images.length > 0){
+    var resizeImageHeight = function(){
+    var minheight = 0;
+    //for all images
+    $.each(images, function(index, item){
+        //image loaded
+        $(item).on("load",function() {  
+            var curHeight = $(this).height(); 
+            //setup min height
+            if ( curHeight < minheight || minheight == 0) {
+                minheight = curHeight;
+                //reset min-height
+                $.each($(".gallery img.img-responsive"), function(index, _item){
+                    $(_item).css("max-height", minheight);
+                });	
+            }  
+        });
+    });
+    }
+
+    resizeImageHeight();
+}
+
+$(window).load(function() {
+    resizeImageHeight();
+  });
