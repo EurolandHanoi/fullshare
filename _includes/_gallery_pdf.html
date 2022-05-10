@@ -58,7 +58,7 @@
               <!--<img class="img-responsive" data-pdf-thumbnail-file="{{ file.path }}" alt="" />-->
           </a>
           <div class="caption">
-              <h3>{{ file.basename }}</h3>
+              <h3>{{ file.basename | replace: "-", " "}}</h3>
               <p></p>
               <ul class="actions">
                   <li><span class="button small">View PDF</span></li>
