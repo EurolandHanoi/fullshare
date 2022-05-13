@@ -59,12 +59,15 @@ en:
     detail: |
         <ul class="sub-memu">
             <li><a href="/pages/ir">Share Information</a>
-                <ul class="sub-memu child">
+                <!--<ul class="sub-memu child">
                     <li><a href="/pages/ir#share_graph">Share Graph</a></li>
                     <li><a href="/pages/ir#announcements">Announcements and Circulars</a></li>
                     <li><a href="/pages/ir#Subscription">Subscription Centre</a></li>                    
-                </ul>
+                </ul>-->
             </li>
+            <li><a href="/pages/ir#share_graph">Share Graph</a></li>
+            <li><a href="/pages/ir#announcements">Announcements and Circulars</a></li>
+            <li><a href="/pages/ir#Subscription">Subscription Centre</a></li> 
             <li><a href="/pages/ir_reports">Financial Reports</a></li>
             <li><a href="/pages/ir_factsheet">Fact Sheet</a></li>
             <li><a href="/pages/ir_interactive">Interactive Analysis</a></li>
@@ -129,12 +132,17 @@ tc:
     detail: |
         <ul class="sub-memu">
             <li><a href="/pages_zh-hk/ir_tc">股價資訊</a>
+                <!--
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-hk/ir_tc#share_graph">股價圖示</a></li>
                     <li><a href="/pages_zh-hk/ir_tc#announcements">公告與通函</a></li>
                     <li><a href="/pages_zh-hk/ir_tc#Subscription">電郵訂閱中心</a></li>                    
                 </ul>
+                -->
             </li>
+            <li><a href="/pages_zh-hk/ir_tc#share_graph">股價圖示</a></li>
+            <li><a href="/pages_zh-hk/ir_tc#announcements">公告與通函</a></li>
+            <li><a href="/pages_zh-hk/ir_tc#Subscription">電郵訂閱中心</a></li> 
             <li><a href="/pages_zh-hk/ir_reports_tc">財務報告</a></li>
             <li><a href="/pages_zh-hk/ir_factsheet_tc">公司一覽表</a></li>
             <li><a href="/pages_zh-hk/ir_interactive_tc">互動財務分析</a></li>
@@ -199,12 +207,17 @@ sc:
     detail: |
         <ul class="sub-memu">
             <li><a href="/pages_zh-cn/ir_sc">股价资讯</a>
+                <!--
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-cn/ir_sc#share_graph">股价图示</a></li>
                     <li><a href="/pages_zh-cn/ir_sc#announcements">公告与通函</a></li>
                     <li><a href="/pages_zh-cn/ir_sc#Subscription">电邮订阅中心</a></li>                    
                 </ul>
-            </li>            
+                -->
+            </li>
+            <li><a href="/pages_zh-cn/ir_sc#share_graph">股价图示</a></li>
+            <li><a href="/pages_zh-cn/ir_sc#announcements">公告与通函</a></li>
+            <li><a href="/pages_zh-cn/ir_sc#Subscription">电邮订阅中心</a></li>                 
             <li><a href="/pages_zh-cn/ir_reports_sc">财务报告</a></li>
             <li><a href="/pages_zh-cn/ir_factsheet_sc">公司一览表</a></li>
             <li><a href="/pages_zh-cn/ir_interactive_sc">互动财务分析</a></li>
