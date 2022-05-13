@@ -29,5 +29,7 @@ if(images.length > 0){
 }
 
 $(window).load(function() {
-    resizeImageHeight();
+	if(images.length > 0){
+		resizeImageHeight();
+	}
   });
