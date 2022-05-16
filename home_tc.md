@@ -86,7 +86,7 @@ spotlight-ir:
     <a href="pages_zh-hk/ir_reports_tc" class="button">財務報告</a>
     <a href="pages_zh-hk/ir_factsheet_tc" class="button">公司一覽表</a>
     <a href="pages_zh-hk/ir_interactive_tc" class="button">互動分析</a>
-    <a href="pages_zh-hk/ir_tc#subscription" class="button">電郵訂閱中心</a>	
+    <a href="pages_zh-hk/ir_tc#Subscription" class="button">電郵訂閱中心</a>	
     </p>
   button:
     show: false
