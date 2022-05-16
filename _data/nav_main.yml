@@ -58,7 +58,7 @@ en:
     path: /home#ir
     detail: |
         <ul class="sub-memu">
-            <li><a href="/pages/ir">Share Information</a>
+            <!--<li><a href="/pages/ir">Share Information</a>-->
                 <!--<ul class="sub-memu child">
                     <li><a href="/pages/ir#share_graph">Share Graph</a></li>
                     <li><a href="/pages/ir#announcements">Announcements and Circulars</a></li>
@@ -131,7 +131,7 @@ tc:
     path: /home_tc#ir
     detail: |
         <ul class="sub-memu">
-            <li><a href="/pages_zh-hk/ir_tc">股價資訊</a>
+            <!--<li><a href="/pages_zh-hk/ir_tc">股價資訊</a>-->
                 <!--
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-hk/ir_tc#share_graph">股價圖示</a></li>
@@ -206,7 +206,7 @@ sc:
     path: /home_sc#ir
     detail: |
         <ul class="sub-memu">
-            <li><a href="/pages_zh-cn/ir_sc">股价资讯</a>
+            <!--<li><a href="/pages_zh-cn/ir_sc">股价资讯</a>-->
                 <!--
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-cn/ir_sc#share_graph">股价图示</a></li>
