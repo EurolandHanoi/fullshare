@@ -81,7 +81,9 @@ spotlight-ir:
     </ul>
     -->
     <p>
-    <a href="pages/ir" class="button">Share Information</a>
+    <a href="pages/ir#share_graph" class="button">Share Information</a>
+	<a href="pages/ir#announcements" class="button">Announcements and Circulars</a>
+	<a href="pages/ir#subscription" class="button">Subscription Centre</a>
     <a href="pages/ir_reports" class="button">Financial Reports</a>
     <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
     <a href="pages/ir_interactive" class="button">Interactive Analysis</a>
