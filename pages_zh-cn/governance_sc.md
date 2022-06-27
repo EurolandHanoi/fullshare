@@ -180,6 +180,14 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
         </tr>
         <tr>
+            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">葛金铸先生</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><img src="/images/people_gray.png" /></td>
+            <td></td>
+        </tr>
+        <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">刘智强先生</th>
             <td><img src="/images/people_gray.png" /></td>
             <td><img src="/images/people_c.png" /></td>
@@ -234,4 +242,3 @@ lang-ref: governance.md
       </ul>
     </div>
 </section>
-
