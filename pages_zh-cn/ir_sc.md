@@ -9,7 +9,7 @@ banner:
   button:
     show: true
     url: "#share_graph"
-    text: 股价资讯
+    text: 了解更多
   image_url: '../images/business/property/residential/2.jpg'
 
 lang: sc
