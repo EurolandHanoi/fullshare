@@ -145,7 +145,7 @@ tc:
             <li><a href="/pages_zh-hk/ir_reports_tc">財務報告</a></li>
             <li><a href="/pages_zh-hk/ir_factsheet_tc">公司一覽表</a></li>
             <li><a href="/pages_zh-hk/ir_interactive_tc">互動財務分析</a></li>
-            <li><a href="/pages_zh-hk/ir_tc#subscription">電郵訂閱中心</a></li> 
+            <li><a href="/pages_zh-hk/ir_tc#Subscription">電郵訂閱中心</a></li> 
         </ul>
 
 sc:
@@ -220,5 +220,5 @@ sc:
             <li><a href="/pages_zh-cn/ir_reports_sc">财务报告</a></li>
             <li><a href="/pages_zh-cn/ir_factsheet_sc">公司一览表</a></li>
             <li><a href="/pages_zh-cn/ir_interactive_sc">互动财务分析</a></li>
-            <li><a href="/pages_zh-cn/ir_sc#subscription">电邮订阅中心</a></li>                 
+            <li><a href="/pages_zh-cn/ir_sc#Subscription">电邮订阅中心</a></li>                 
         </ul>
