@@ -9,7 +9,7 @@ banner:
   button:
     show: true
     url: "#share_graph"
-    text: Shares Information
+    text: Continue
   image_url: '../images/business/property/residential/2.jpg'
 
 lang: en
