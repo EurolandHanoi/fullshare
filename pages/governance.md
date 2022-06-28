@@ -167,7 +167,7 @@ lang-ref: governance.md
             <td></td>
             <td><img src="/images/people_gray.png" /></td>
             <td></td>
-            <td><img src="/images/people_gray.png" /></td>
+            <td></td>
             <td><img src="/images/people_c.png" /></td>
         </tr>        
          <tr>
