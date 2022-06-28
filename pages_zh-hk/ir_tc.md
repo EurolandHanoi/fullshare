@@ -10,6 +10,7 @@ banner:
     show: true
     url: "#share_graph"
     text: 了解更多
+    custom_class: button
   image_url: '../images/business/property/residential/2.jpg'
 
 lang: tc
