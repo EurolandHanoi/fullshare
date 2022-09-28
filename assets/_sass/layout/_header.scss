@@ -267,4 +267,11 @@ nav ul li:hover > ul {
 .pdf-banner-space{
 	min-height: 185px;
     padding-top: 6rem;
+	 @media screen and (min-width: 992px) {
+		 h2{
+			 br{
+				 display: none; 
+			 }
+		 }
+        }
 }
