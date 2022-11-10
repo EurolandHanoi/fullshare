@@ -14,6 +14,7 @@ tc:
   annualreport: 年報
   interimreport: 中報
   esgreport: 環境社會管治報告
+  esgreport2: 年度環境、社會及管治報告
 sc:
   label: Simplified Chinese - 简体
   button: 简
@@ -21,3 +22,4 @@ sc:
   annualreport: 年报
   interimreport: 中报
   esgreport: 環境社會管治報告
+  esgreport2: 年度环境、社会及管治报告
