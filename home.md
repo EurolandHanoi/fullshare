@@ -83,7 +83,7 @@ spotlight-ir:
     
     <a href="pages/ir#share_graph" class="button">Share Information</a>
     <a href="pages/ir#announcements" class="button">Announcements and Circulars</a>    
-    <a href="pages/ir_reports" class="button">Financial Reports</a>
+    <a href="pages/ir_reports" class="button">Financial and ESG Reports</a>
     <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
     <a href="pages/ir_interactive" class="button">Interactive Analysis</a>
     <a href="pages/ir#Subscription" class="button">Subscription Centre</a>
