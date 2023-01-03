@@ -213,11 +213,11 @@ lang-ref: governance.md
         </tr>
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">職權範圍</th>
-            <td><a href="../files/2_審核委員會職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/cw_00607Ann-30122022.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/NC-Terms-of-Reference-C.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/5_風險管理委員會之職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download">PDF</a></td>
+            <td><a href="../files/2_審核委員會職權範圍.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/cw_00607Ann-30122022.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/NC-Terms-of-Reference-C.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/5_風險管理委員會之職權範圍.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
         </tr>
     </table>
      <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - 主席&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - 成員</div> 
@@ -226,16 +226,16 @@ lang-ref: governance.md
 
       <ul class = "alt">
         <li>董事名單與其角色和職能 <br>
-        <a href="../files/cw_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <a href="../files/cw_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>公司章程細則 <br>
-        <a href="../files/6_組織章程大綱及新公司細則.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
-        <li>股東提名個別人士為本公司董事之程序 <br><a href="../files/7_提名人士參選董事之程序.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <a href="../files/6_組織章程大綱及新公司細則.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
+        <li>股東提名個別人士為本公司董事之程序 <br><a href="../files/7_提名人士參選董事之程序.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>董事會成員多元化政策 <br>
-        <a href="../files/Board-Diversity-Policy-C.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <a href="../files/Board-Diversity-Policy-C.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>股息政策 <br>
-        <a href="../files/Dividend-Policy-C.pdf" class="icon style1 fas fa-download"> PDF</a></li>
+        <a href="../files/Dividend-Policy-C.pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
 		<li>股東通訊政策 <br>
-        <a href="../files/股東通訊政策(中文繁体)-(website).pdf" class="icon style1 fas fa-download"> PDF</a></li>
+        <a href="../files/股東通訊政策(中文繁体)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
       </ul>
 
       <ul class="actions vertical">

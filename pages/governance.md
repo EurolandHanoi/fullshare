@@ -213,23 +213,23 @@ lang-ref: governance.md
         </tr>    
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Terms of Reference</th>
-            <td><a href="../files/2_Terms-of-Reference-of-the-Audit-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/ew_00607Ann-30122022.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/NC-Terms-of-Reference-E.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/5_Terms-of-Reference-of-the-Risk-Management-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/Attachment-1_EN.pdf" class="button fit small icon fas fa-download">PDF</a></td>
+            <td><a href="../files/2_Terms-of-Reference-of-the-Audit-Committee-1.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/ew_00607Ann-30122022.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/NC-Terms-of-Reference-E.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/5_Terms-of-Reference-of-the-Risk-Management-Committee-1.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
+            <td><a href="../files/Attachment-1_EN.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
         </tr>
     </table>
      <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - Chairperson&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - Member</div> 
       </div>
 
       <ul class = "alt">
-        <li>List of directors and their roles and functions <br><a href="../files/ew_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
-        <li>Memorandum of association & Articles of association <br><a href="../files/6_Memorandum-of-Association-Articles-of-Association.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
-        <li>Procedures for Proposing a Person for Election as a Director <br><a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
-        <li>Board Diversity Policy <br><a href="../files/Board-Diversity-Policy-E.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
-        <li>Dividend Policy <br><a href="../files/Dividend-Policy-E.pdf" class="icon style1 fas fa-download"> PDF</a></li>
-		<li>Shareholders' Communication Policy <br><a href="../files/股東通訊政策(英文)-(website).pdf" class="icon style1 fas fa-download"> PDF</a></li>
+        <li>List of directors and their roles and functions <br><a href="../files/ew_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
+        <li>Memorandum of association & Articles of association <br><a href="../files/6_Memorandum-of-Association-Articles-of-Association.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
+        <li>Procedures for Proposing a Person for Election as a Director <br><a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
+        <li>Board Diversity Policy <br><a href="../files/Board-Diversity-Policy-E.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
+        <li>Dividend Policy <br><a href="../files/Dividend-Policy-E.pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
+		<li>Shareholders' Communication Policy <br><a href="../files/股東通訊政策(英文)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
       </ul>
 
       <ul class="actions vertical">
