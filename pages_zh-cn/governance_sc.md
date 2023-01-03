@@ -214,7 +214,7 @@ lang-ref: governance.md
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">职权范围</th>
             <td><a href="../files/2_審核委員會職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/3_薪酬委員會職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
+            <td><a href="../files/cw_00607Ann-30122022.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/NC-Terms-of-Reference-C.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/5_風險管理委員會之職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download">PDF</a></td>

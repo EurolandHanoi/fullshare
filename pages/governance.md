@@ -214,7 +214,7 @@ lang-ref: governance.md
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Terms of Reference</th>
             <td><a href="../files/2_Terms-of-Reference-of-the-Audit-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
-            <td><a href="../files/3_Term-of-Reference-of-the-Remuneration-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
+            <td><a href="../files/ew_00607Ann-30122022.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/NC-Terms-of-Reference-E.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/5_Terms-of-Reference-of-the-Risk-Management-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
             <td><a href="../files/Attachment-1_EN.pdf" class="button fit small icon fas fa-download">PDF</a></td>
