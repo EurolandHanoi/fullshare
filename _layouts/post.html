@@ -28,7 +28,7 @@
       <h2>{{ page.title }}</h2>
       <!-- {% if page.author %}<p class="major">by {{ author.name }}</p>{% endif %} -->
          <p class="major">{{ page.date | date: site.date_format }}</p>
-        <p>  {% if page.minutes %}
+        <p class="read-time">  {% if page.minutes %}
             {{ page.minutes }} {{ site.text.post.minute_read }}
           {% else %}
             {{ minutes }} {{ site.text.post.minute_read }}
