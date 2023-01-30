@@ -7,7 +7,7 @@
 <section class="wrapper style1 content-align-left">
 	<!-- news_post -->
 	<div class = "inner fullscreen">
-		<div class=" year-section year-{{ post.date | date: "%Y"}}">
+		<div class="aaa year-section year-{{ post.date | date: "%Y"}}">
 			{% for post in site.posts limit:site.front-page-posts %}
 				{% if _lang == 'en' %}
 					{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
