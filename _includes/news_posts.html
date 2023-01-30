@@ -7,28 +7,26 @@
 <section class="wrapper style1 content-align-left">
 	<!-- news_post -->
 	<div class = "inner fullscreen">
-		<div class="aaa year-section year-{{ post.date | date: "%Y"}}">
-			{% for post in site.posts limit:site.front-page-posts %}
-				{% if _lang == 'en' %}
-					{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
-						<header>
-							<h5>{{ post.date | date: "%Y %b %d"}}</h5>
-							<h3><a href ="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-							<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
-						</header>
-				{% endunless %}
-			{% else %}
-				{% assign lang_path = 'lang_' | append: _lang %}
-				{% if post.path contains lang_path %}
-					<header>
+		{% for post in site.posts limit:site.front-page-posts %}
+			{% if _lang == 'en' %}
+				{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
+					<header class="year-section year-{{ post.date | date: "%Y"}}">
 						<h5>{{ post.date | date: "%Y %b %d"}}</h5>
 						<h3><a href ="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 						<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
 					</header>
-				{% endif %}
+			{% endunless %}
+		{% else %}
+			{% assign lang_path = 'lang_' | append: _lang %}
+			{% if post.path contains lang_path %}
+				<header class="year-section year-{{ post.date | date: "%Y"}}">
+					<h5>{{ post.date | date: "%Y %b %d"}}</h5>
+					<h3><a href ="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+					<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+				</header>
 			{% endif %}
-			{% endfor %}
-		</div>
+		{% endif %}
+		{% endfor %}
 
 		<ul class="actions vertical">
 			<li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
