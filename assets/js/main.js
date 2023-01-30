@@ -446,5 +446,7 @@
 		});
 
 	});
+	
+	console.log("aaa");
 
 })(jQuery);
