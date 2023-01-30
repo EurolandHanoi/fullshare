@@ -10,10 +10,10 @@
   }
 }
 
-.inner.fullscreen header.year-2020,
-.inner.fullscreen header.year-2021,
-.inner.fullscreen header.year-2022 {
-  padding-bottom: 20px;
+.inner.fullscreen .year-section.year-2020,
+.inner.fullscreen .year-section.year-2021,
+.inner.fullscreen .year-section.year-2022 {
+  padding-bottom: 30px;
 }
 
 @media (max-width: 600px) {
