@@ -10,7 +10,7 @@
 			{% for post in site.posts limit:site.front-page-posts %}
 				{% if _lang == 'en' %}
 					{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
-				<header>
+				<header class="{{ post.date | date: "%Y"}}">
 					<h5>{{ post.date | date: "%Y %b %d"}}</h5>
 					<h3><a href ="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 					<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
@@ -19,7 +19,7 @@
 			{% else %}
 				{% assign lang_path = 'lang_' | append: _lang %}
 				{% if post.path contains lang_path %}
-				<header>
+				<header class="{{ post.date | date: "%Y"}}">
 					<h5>{{ post.date | date: "%Y %b %d"}}</h5>
 					<h3><a href ="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 					<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
