@@ -447,6 +447,6 @@
 
 	});
 	
-	console.log("aaa");
+	jQuery('.year-section').filter('.year-2022').last().css( "background-color", "red" );
 
 })(jQuery);
