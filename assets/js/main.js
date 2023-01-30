@@ -447,6 +447,8 @@
 
 	});
 	
-	jQuery('.year-section').filter('.year-2022').last().css( "background-color", "red" );
+	jQuery('.year-section').filter('.year-2022').last().addClass('last-item');
+	jQuery('.year-section').filter('.year-2021').last().addClass('last-item');
+	jQuery('.year-section').filter('.year-2020').last().addClass('last-item');
 
 })(jQuery);
