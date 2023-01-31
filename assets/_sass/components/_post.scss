@@ -21,7 +21,12 @@
     align-items: flex-end;
   }
   
+  section.banner .content {
+    margin-bottom: 0;
+  }
+  
   section.banner .content h2 {
+    font-sixe: 18px !important;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
