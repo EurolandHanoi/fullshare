@@ -23,6 +23,7 @@
 @media screen and (max-width: 600px) {
   section.banner {
     align-items: flex-end;
+    min-height: 200px;
   }
   
   section.banner .content {
