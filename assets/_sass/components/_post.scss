@@ -26,13 +26,7 @@
   }
   
   section.banner .content h2 {
-    font-sixe: 18px !important;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    line-clamp: 3;
-    -webkit-box-orient: vertical;
+    font-size: 18px !important;
   }
 
   section.banner p.major {
