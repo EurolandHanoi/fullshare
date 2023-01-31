@@ -16,9 +16,18 @@
   padding-bottom: 50px;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   section.banner {
     align-items: flex-end;
+  }
+  
+  section.banner .content h2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
   }
 
   section.banner p.major {
