@@ -450,5 +450,8 @@
 	jQuery('.year-section').filter('.year-2022').last().addClass('last-item');
 	jQuery('.year-section').filter('.year-2021').last().addClass('last-item');
 	jQuery('.year-section').filter('.year-2020').last().addClass('last-item');
+	jQuery('.year-section').filter('.year-2019').last().addClass('last-item');
+	jQuery('.year-section').filter('.year-2018').last().addClass('last-item');
+	jQuery('.year-section').filter('.year-2017').last().addClass('last-item');
 
 })(jQuery);
