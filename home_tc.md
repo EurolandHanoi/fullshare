@@ -73,7 +73,7 @@ spotlight-news:
     show: true
     url: "pages_zh-hk/company_news_tc"
     text: 了解更多
-  image_url: "/images/business/tourism/laguna/1.jpg"
+  image_url: "../images/business/tourism/laguna/3.jpg"
 
 spotlight-ir:
   title: 投資者關係
