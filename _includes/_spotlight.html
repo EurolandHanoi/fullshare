@@ -37,8 +37,11 @@
 {% assign _data = page[include.key] %}
 {% if _data %}{% else %}{% assign _data = page.spotlight %}{% endif %}
 
+{% assign _has_carousel = include.has_carousel %}
+{% if _has_carousel %}{% else %}{% assign _has_carousel = 'false' %}{% endif %}
+
 <!-- Spotlight -->
-<section class="spotlight {{ _style }} {{ include.size }} {{ include.scheme }} orient-{{ _orient }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onscroll-image-fade-in" {% if include.id %} id="{{ include.id }}" {% endif %}>
+<section class="spotlight {{ _style }} {{ include.size }} {{ include.scheme }} orient-{{ _orient }} content-align-{{ _content_align }} image-position-{{ _img_pos }} has-carousel-{{_has_carousel}} onscroll-image-fade-in" {% if include.id %} id="{{ include.id }}" {% endif %}>
   <div class="content">
     <h2>{{ _data.title }}</h2>
     <p>{{ _data.content}}</p>
@@ -54,6 +57,18 @@
 
   </div>
   <div class="image">
-    <img src="{{ _data.image_url }}" alt="" />
+    {% if _has_carousel == 'true' %}
+      <div class="about-slide-image swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="{{ _data.image_url_slide_1 }}" alt="Image-Slide" /></div>
+          <div class="swiper-slide"><img src="{{ _data.image_url_slide_2 }}" alt="Image-Slide" /></div>
+          <div class="swiper-slide"><img src="{{ _data.image_url_slide_3 }}" alt="Image-Slide" /></div>
+          <div class="swiper-slide"><img src="{{ _data.image_url_slide_4 }}" alt="Image-Slide" /></div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+      {% else %}
+      <img src="{{ _data.image_url }}" alt="" />
+    {% endif %}
   </div>
 </section>
