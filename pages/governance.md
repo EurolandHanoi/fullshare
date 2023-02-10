@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#task"
     text: Continue
-  image_url: '../images/business/education/sparrow_early_learning/6.jpg'
+  image_url: "../images/business/education/sparrow_early_learning/6.jpg"
 
 spotlight-risk_management:
   title: Risk Management
@@ -43,7 +43,7 @@ spotlight-risk_management:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: "../images/business/tourism/sheraton/6.jpg"
 
 table_color:
   bg_row_header: "#428bca"
@@ -55,7 +55,9 @@ link_color: "#0a2232"
 lang: en
 lang-ref: governance.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Task -->
@@ -126,9 +128,11 @@ lang-ref: governance.md
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
+
 </section>
 
 <!-- Risk Management -->
+
 {% include _spotlight.html key='spotlight-risk_management' style='style1' orient='left' scheme='' color='' size='' content_align='left' img_pos='center' id='risk_management' %}
 
 <!-- Organizational Chart -->
@@ -137,7 +141,7 @@ lang-ref: governance.md
     <div class="inner medium">
       <h2>Organizational Chart</h2>
 
-      <ul>          
+      <ul>
           <li>All committees under the board has written terms of reference</li>
           <li>The committees under the board could seek for independent professional advice in appropriate circumstances</li>
       </ul>
@@ -169,7 +173,7 @@ lang-ref: governance.md
             <td></td>
             <td></td>
             <td><img src="/images/people_c.png" /></td>
-        </tr>        
+        </tr>
          <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Mr. Shen Chen</th>
             <td></td>
@@ -194,7 +198,7 @@ lang-ref: governance.md
             <td></td>
             <td></td>
         </tr>
-            
+
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Mr. Tsang Sai Chung</th>
             <td><img src="/images/people_gray.png" /></td>
@@ -210,7 +214,7 @@ lang-ref: governance.md
             <td></td>
             <td></td>
             <td></td>
-        </tr>    
+        </tr>
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">Terms of Reference</th>
             <td><a href="../files/2_Terms-of-Reference-of-the-Audit-Committee-1.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
@@ -220,7 +224,7 @@ lang-ref: governance.md
             <td><a href="../files/Attachment-1_EN.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
         </tr>
     </table>
-     <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - Chairperson&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - Member</div> 
+     <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - Chairperson&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - Member</div>
       </div>
 
       <ul class = "alt">
@@ -229,11 +233,12 @@ lang-ref: governance.md
         <li>Procedures for Proposing a Person for Election as a Director <br><a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>Board Diversity Policy <br><a href="../files/Board-Diversity-Policy-E.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>Dividend Policy <br><a href="../files/Dividend-Policy-E.pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
-		<li>Shareholders' Communication Policy <br><a href="../files/股東通訊政策(英文)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
+    	<li>Shareholders' Communication Policy <br><a href="../files/股東通訊政策(英文)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
       </ul>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
+
 </section>
