@@ -454,4 +454,20 @@
 	jQuery('.year-section').filter('.year-2018').last().addClass('last-item');
 	jQuery('.year-section').filter('.year-2017').last().addClass('last-item');
 
+	var spotlight = $('.spotlight');
+
+	if(spotlight.hasClass('has-carousel-true')) {
+		var swiper = new Swiper(".about-slide-image", {
+			autoplay: {
+				loop: true,
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+			pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+		});
+	}
+
 })(jQuery);
