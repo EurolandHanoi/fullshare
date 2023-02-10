@@ -14,7 +14,7 @@ banner:
     show: true
     url: "#aboutus"
     text: 了解更多
-  image_url: 'images/background.jpg'
+  image_url: "images/background.jpg"
 
 spotlight-about:
   title: 關於我們
@@ -27,10 +27,11 @@ spotlight-about:
     show: true
     url: "pages_zh-hk/about_tc"
     text: 了解更多
-  image_url: 'images/business/property/wonder_city/1.jpg'
+  image_url: "images/business/property/wonder_city/1.jpg"
 
 spotlight-business:
   title: 我們的業務
+  has_carousel: true
   content: |
     <!--
     <ul class="alt">
@@ -50,7 +51,11 @@ spotlight-business:
     show: false
     url: "pages_zh-hk/business_tc"
     text: 了解更多
-  image_url: 'images/business/property/yuhua_salon/3.jpg'
+  image_url: "images/business/property/yuhua_salon/3.jpg"
+  image_url_slide_1: "images/business/property/yuhua_salon/1-slide.jpg"
+  image_url_slide_2: "images/business/property/yuhua_salon/2-slide.jpg"
+  image_url_slide_3: "images/business/property/yuhua_salon/3-slide.jpg"
+  image_url_slide_4: "images/business/property/yuhua_salon/4-slide.jpg"
 
 spotlight-governance:
   title: 企業管治
@@ -59,7 +64,7 @@ spotlight-governance:
     show: true
     url: "pages_zh-hk/governance_tc"
     text: 了解更多
-  image_url: 'images/business/tourism/sheraton/4.jpg'
+  image_url: "images/business/tourism/sheraton/4.jpg"
 
 spotlight-news:
   title: 公司新聞
@@ -68,7 +73,7 @@ spotlight-news:
     show: true
     url: "pages_zh-hk/company_news_tc"
     text: 了解更多
-  image_url: '/images/business/tourism/laguna/1.jpg'
+  image_url: "/images/business/tourism/laguna/1.jpg"
 
 spotlight-ir:
   title: 投資者關係
@@ -92,7 +97,7 @@ spotlight-ir:
     show: false
     url: "pages/business"
     text: Learn More
-  image_url: 'images/business/property/residential/1.jpg'
+  image_url: "images/business/property/residential/1.jpg"
 
 items-contact:
   title: 聯繫我們
@@ -111,29 +116,37 @@ items-contact:
       content: <a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">香港金鐘夏愨道18號海富中心1座28樓2805室</a>
       fa_class: fas fa-map
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- About Us -->
+
 {% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
 
 <!-- Our Business -->
+
 {% comment %}
+
 # finding font icon and formatting the item grid a bit time consumming right now
+
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='businesses' %}
-
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' has_carousel='true' id='businesses' %}
 
 <!-- Corporate Goverance -->
+
 {% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
 <!-- Company News -->
+
 {% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' id='news' %}
 
 <!-- Investor Relations -->
+
 {% include _spotlight.html key='spotlight-ir' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='ir' %}
 
-
 <!-- Contact Us -->
+
 {% include _items.html key='items-contact' style='style3' size='small' id='contact' %}
