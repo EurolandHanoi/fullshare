@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#task"
     text: 了解更多
-  image_url: '../images/business/education/sparrow_early_learning/6.jpg'
+  image_url: "../images/business/education/sparrow_early_learning/6.jpg"
 
 spotlight-risk_management:
   title: 风险管理
@@ -43,7 +43,7 @@ spotlight-risk_management:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: "../images/business/tourism/sheraton/6.jpg"
 
 table_color:
   bg_row_header: "#428bca"
@@ -55,7 +55,9 @@ link_color: "#0a2232"
 lang: sc
 lang-ref: governance.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Task -->
@@ -127,9 +129,11 @@ lang-ref: governance.md
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
+
 </section>
 
 <!-- Risk Management -->
+
 {% include _spotlight.html key='spotlight-risk_management' style='style1' orient='left' scheme='' color='' size='' content_align='left' img_pos='center' id='risk_management' %}
 
 <!-- Organizational Chart -->
@@ -138,7 +142,7 @@ lang-ref: governance.md
     <div class="inner medium">
       <h2>组织架构图</h2>
 
-      <ul>          
+      <ul>
           <li>所有董事会辖下委员会均设有书面职权范围</li>
           <li>董事会辖下委员会可在适当的情况下寻求独立专业意见</li>
       </ul>
@@ -194,7 +198,7 @@ lang-ref: governance.md
             <td><img src="/images/people_gray.png" /></td>
             <td></td>
             <td></td>
-        </tr>        
+        </tr>
         <tr>
             <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">曾细忠先生</th>
             <td><img src="/images/people_gray.png" /></td>
@@ -220,7 +224,7 @@ lang-ref: governance.md
             <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
         </tr>
     </table>
-     <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - 主席&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - 成员</div> 
+     <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - 主席&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - 成员</div>
       </div>
 
       <ul class = "alt">
@@ -233,7 +237,7 @@ lang-ref: governance.md
         <a href="../files/Board-Diversity-Policy-C.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
         <li>股息政策 <br>
         <a href="../files/Dividend-Policy-C.pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
-		<li>股东通讯政策 <br>
+    	<li>股东通讯政策 <br>
         <a href="../files/股东通讯政策(中文简体)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
       </ul>
 
@@ -241,4 +245,5 @@ lang-ref: governance.md
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
+
 </section>
