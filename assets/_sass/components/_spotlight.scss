@@ -377,6 +377,17 @@
 			}
 		}
 
+		&.has-carousel-true {
+			.about-slide-image {
+				overflow: hidden;
+				height: 100%;
+			}
+
+			.swiper-pagination-bullet-active {
+				background: #fff;
+			}
+		}
+
 		// Modifiers.
 
 		// Ratio
