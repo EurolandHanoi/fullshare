@@ -1,249 +1,74 @@
 ---
 layout: page
-title: 企業管治 | 豐盛控股有限公司
+title: 教育醫療 | 豐盛控股有限公司
 nav_fname: nav_main
 banner:
-  title: 企業管治
+  title: 教育醫療
   desc:
   content:
   button:
     show: true
-    url: "#task"
+    url: "#sparrow_early_learning"
     text: 了解更多
-  image_url: "../images/business/education/sparrow_early_learning/6.jpg"
+  image_url: "../images/business/education/sparrow_early_learning/7.jpg"
 
-spotlight-risk_management:
-  title: 風險管理
+spotlight-sparrow_early_learning:
+  title: Sparrow兒童教育集團
   content: |
-    <p><b>風險管理工作組</b></p>
+    <p>本集團旗下Sparrow兒童教育集團總部位於澳洲布里斯班市，目前在澳洲的昆士蘭州和維多利亞州管理運營約30個兒童託管中心，為0-6歲兒童提供日間託管及教育服務。Sparrow在澳洲當地擁有良好的聲譽及豐富經驗的管理團隊。</p>
 
-    <p>風險管理工作組由來自本集團的財務部、法務部、人資部、投資部及內控部的常規成員組成。</p>
+    <p><a href="http://www.sparrowearlylearning.com.au" class="button">前往網站</a></p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/education/sparrow_early_learning/2.jpg"
+
+spotlight-nanjing:
+  title: 南京中醫藥大學豐盛健康學院
+  content: |
+    <p>2010年6月，豐盛攜手南京中醫藥大學，依託南京中醫藥大學最具傳統養生保健特色的針灸推拿•養生康復學院，合作成立“南京中醫藥大學豐盛健康學院” ，捐建豐盛健康樓用於學院教學、人才培養、科研與辦公，並在國家衛生部領導的主持下正式掛牌“南京中醫藥大學豐盛健康學院”。 </p>
 
     <p>[expand]</p>
-    <ul>
-    <li>理順公司的風險管理體系監督和檢查日常運營</li>
-    <li>向風險管理委員會匯報</li>
-    </ul>
-    <p>[/expand]</p>
+    <p>南京中醫藥大學豐盛健康學院是迄今為止中國首家、也是唯一一家以傳統醫學和非藥物保健療法為基礎的人才培養、技術研發、項目孵化、產學研一體的特色健康學院。  </p>
 
-    <p><b>風險管理委員會</b></p>
-
-    <p>由本公司董事會委任的至少3名董事組成。委員會可邀請其他人士（包括董事、高級管理層及外聘顧問）出席委員會的會議。</p>
-
-    <p>[expand]</p>
-    <ul>
-    <li>協助董事會評估和解決風險，控制風險在可承擔水平，同時實現戰略目標</li>
-    <li>協助董事會於風險管理和內部監控系統方面的設計實施和監督</li>
-    <li>向董事會就本公司的風險提供諮詢服務</li>
-    <li>審閱及定期評估本公司之風險管理架構、內部監控系統及風險管理政策、程式及系統</li>
-    </ul>
+    <p>2017年，學院率先開展全國首批中醫養生學本科專業招生，2022年6月，全國首批中醫養生專業本科生正式畢業，成為中國中醫養生保健治未病行業的首批高層次人才“正規軍”。截至目前，學院累計為社會培養了2800名中醫養生專業人才，成為培養一流中醫養生專業人才的校企合作示範基地。 </p>
     <p>[/expand]</p>
   button:
     show: true
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: "../images/business/tourism/sheraton/6.jpg"
+  image_url: "../images/business/education/sparrow_early_learning/8.jpg"
 
-table_color:
-  bg_row_header: "#428bca"
-  bg_col_header_1: "#003366"
-  bg_col_header_2: "#f5b201"
+spotlight-fengsheng:
+  title: 南京中醫藥大學豐盛健康城
+  content: |
+    <p>2014年10月，豐盛攜手南京中醫藥大學成立南京中醫藥大學豐盛健康城，並在漢中門校區正式開業，打造“中醫治未病”健管體系，創新健康產業發展模式，專案致力於引領大眾健康文化，提供優質健康服務，提高人民群眾健康水準。  </p>
 
-link_color: "#0a2232"
+    <p>[expand]</p>
+    <p>南京中醫藥大學豐盛健康城將傳統中醫診療技術運用于健康管理及養生服務領域，目前擁有經絡調理、中醫美容、中醫熱療、小兒推拿、視力防控、健康培訓、健康管理、養生餐飲、養生酒店等各類健康養生項目，涵蓋中醫健康服務各領域；擁有國仁堂、國瑞堂、國粹堂等堂館，康養酒店公寓和非遺養生文化餐飲，實現了“醫養”結合的創新模式。 </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/education/sparrow_early_learning/9.jpg"
 
 lang: tc
-lang-ref: governance.md
+lang-ref: education.md
 ---
 
 <!-- Welcome Banner -->
 
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
-<!-- Task -->
-<!-- Wrapper -->
-<section class="wrapper style2 align-center" id = "task">
-    <div class="inner medium">
-      <h2>任務</h2>
-      <!-- <span><img src="../images/corp_gov_tc.png" /></span> -->
+<!-- Properties -->
 
-      <div class="table-wrapper align-left">
-        <table>
-          <thead>
-            <tr>
-              <th><h3>高水準之企業管治</h3></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>《上市規則附錄十四》</td>
-            </tr>
-            <tr>
-              <td>《標準守則》</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
 
-      <div class="table-wrapper align-left">
-        <table>
-          <thead>
-            <tr>
-              <th><h3>入職及持續專業發展</h3></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>提供迎新介紹</td>
-            </tr>
-            <tr>
-              <td>持續專業發展</td>
-            </tr>
-            <tr>
-              <td>專業單位培訓</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+{% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='spotlight-nanjing' %}
 
-      <div class="table-wrapper align-left">
-        <table>
-          <thead>
-            <tr>
-              <th><h3>內部監控及風險管理</h3></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>確保維持穩健及有效的內部監控</td>
-            </tr>
-            <tr>
-              <td>對風險作出適當反應，以保障資產免遭不當使用或免受損失</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <ul class="actions vertical">
-        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
-      </ul>
-    </div>
-
-</section>
-
-<!-- Risk Management -->
-
-{% include _spotlight.html key='spotlight-risk_management' style='style1' orient='left' scheme='' color='' size='' content_align='left' img_pos='center' id='risk_management' %}
-
-<!-- Organizational Chart -->
-<!-- We need to make an include to generate a table here -->
-<section class="wrapper style2 align-left" id = "org_chart">
-    <div class="inner medium">
-      <h2>組織架構圖</h2>
-
-      <ul>
-          <li>所有董事會轄下委員會均設有書面職權範圍</li>
-          <li>董事會轄下委員會可在適當的情況下尋求獨立專業意見</li>
-      </ul>
-
-      <div class="table-wrapper align-center">
-      <table>
-        <thead>
-            <tr>
-                <td></td>
-                <th bgcolor="{{ page.table_color.bg_col_header_1 }}" style="vertical-align : bottom;" class="align-center"><font color="white">審核委員會</font></th>
-                <th bgcolor="{{ page.table_color.bg_col_header_1 }}" style="vertical-align : bottom;" class="align-center"><font color="white">薪酬委員會</font></th>
-                <th bgcolor="{{ page.table_color.bg_col_header_1 }}" style="vertical-align : bottom;" class="align-center"><font color="white">提名委員會</font></th>
-                <th bgcolor="{{ page.table_color.bg_col_header_1 }}" style="vertical-align : bottom;" class="align-center"><font color="white">風險管理委員會</font></th>
-                <th bgcolor="{{ page.table_color.bg_col_header_1 }}" style="vertical-align : bottom;" class="align-center"><font color="white">環境、社會及管治委員會</font></th>
-            </tr>
-        </thead>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">季昌群先生</th>
-            <td></td>
-            <td></td>
-            <td><img src="/images/people_c.png" /></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">杜瑋女士</th>
-            <td></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td></td>
-            <td></td>
-            <td><img src="/images/people_c.png" /></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">沈晨先生</th>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><img src="/images/people_c.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">葛金鑄先生</th>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">劉智強先生</th>
-            <td><img src="/images/people_gray.png" /></td>
-            <td><img src="/images/people_c.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">曾細忠先生</th>
-            <td><img src="/images/people_gray.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-            <td><img src="/images/people_gray.png" /></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">黃順先生</th>
-            <td class="align-center"><img src="/images/people_c.png" /></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <th scope="row" bgcolor="{{ page.table_color.bg_row_header }}">職權範圍</th>
-            <td><a href="../files/2_審核委員會職權範圍.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
-            <td><a href="../files/cw_00607Ann-30122022.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
-            <td><a href="../files/NC-Terms-of-Reference-C.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
-            <td><a href="../files/5_風險管理委員會之職權範圍.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
-            <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download" target="_blank">PDF</a></td>
-        </tr>
-    </table>
-     <div class="indication" style ="text-align: left; padding-top: 10px;"><img src="/images/people_c.png" /> - 主席&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/people_gray.png" /> - 成員</div>
-
-      </div>
-
-      <ul class = "alt">
-        <li>董事名單與其角色和職能 <br>
-        <a href="../files/cw_List-of-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
-        <li>公司章程細則 <br>
-        <a href="../files/6_組織章程大綱及新公司細則.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
-        <li>股東提名個別人士為本公司董事之程序 <br><a href="../files/7_提名人士參選董事之程序.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
-        <li>董事會成員多元化政策 <br>
-        <a href="../files/Board-Diversity-Policy-C.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};" target="_blank"> PDF</a></li>
-        <li>股息政策 <br>
-        <a href="../files/Dividend-Policy-C.pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
-    	<li>股東通訊政策 <br>
-        <a href="../files/股東通訊政策(中文繁体)-(website).pdf" class="icon style1 fas fa-download" target="_blank"> PDF</a></li>
-      </ul>
-
-      <ul class="actions vertical">
-        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
-      </ul>
-    </div>
-
-</section>
+{% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='spotlight-fengsheng' %}
