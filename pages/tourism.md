@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#sheraton"
     text: Continue
-  image_url: '../images/business/tourism/laguna/1.jpg'
+  image_url: '../images/business/tourism/laguna/4.jpg'
 
 spotlight-sheraton:
   title: Sheraton
