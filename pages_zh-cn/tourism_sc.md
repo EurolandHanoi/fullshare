@@ -114,6 +114,6 @@ lang-ref: tourism.md
 
 {% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
 
-{% include _spotlight.html key='spotlight-sections' style='style1' orient='left' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='sections' %}
+{% include _spotlight.html key='spotlight-sections' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='center' id='sections' %}
 
 {% include _spotlight.html key='spotlight-yunnan' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='yunnan' %}
