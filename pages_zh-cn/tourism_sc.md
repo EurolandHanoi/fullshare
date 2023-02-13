@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#sheraton"
     text: 了解更多
-  image_url: '../images/business/tourism/laguna/1.jpg'
+  image_url: '../images/business/tourism/laguna/4.jpg'
 
 spotlight-sheraton:
   title: 喜来登
