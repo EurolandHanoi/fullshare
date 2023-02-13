@@ -57,6 +57,20 @@ spotlight-fengsheng:
     custom_class: icon style2 fas fa-chevron-up
   image_url: "../images/business/education/sparrow_early_learning/9.jpg"
 
+spotlight-medicine:
+  title: 南京中医药大学国医堂
+  content: |
+    <p>南京中醫藥大學國醫堂成立於1985年，是南京中醫藥大學重要的醫療、臨床教學及科研基地，同時也是學校弘揚中醫傳統文化、科普健康養生文化的重要視窗。  </p>
+    <p>[expand]</p>
+    <p>國醫堂名醫薈萃，既有國醫大師、中醫泰斗和全國知名老專家，也有一大批博學勤奮、術業專攻的中青年中醫傳人。“望聞問切凝精神，神聖工巧拯眾生”，由上百名中醫專家組成的專家團隊齊聚國醫堂，守望百姓健康，贏得了國內外廣大患者的讚譽和尊敬。國醫堂開設中醫特色婦科、男科、兒科、皮膚科、耳鼻喉科、針灸推拿科等科室，尤其在中醫腫瘤、疑難雜症、慢性病調理等方面獨有建樹。 </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/education/sparrow_early_learning/10.jpg"
+
 lang: tc
 lang-ref: education.md
 ---
@@ -72,3 +86,5 @@ lang-ref: education.md
 {% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='spotlight-nanjing' %}
 
 {% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='spotlight-fengsheng' %}
+
+{% include _spotlight.html key='spotlight-medicine' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='spotlight-medicine' %}
