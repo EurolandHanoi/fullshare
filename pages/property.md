@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#wonder_city"
     text: Continue
-  image_url: '../images/business/property/wonder_city/1.jpg'
+  image_url: "../images/business/property/wonder_city/6.jpg"
 
 spotlight-wonder_city:
   title: Wonder City
@@ -23,7 +23,7 @@ spotlight-wonder_city:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/wonder_city/2.jpg'
+  image_url: "../images/business/property/wonder_city/9.jpg"
 
 spotlight-yuhua_salon:
   title: Yuhua Salon
@@ -41,7 +41,7 @@ spotlight-yuhua_salon:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/yuhua_salon/1.jpg'
+  image_url: "../images/business/property/wonder_city/7.jpg"
 
 spotlight-gsh_plaza:
   title: GSH Plaza
@@ -54,15 +54,18 @@ spotlight-gsh_plaza:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/gsh_plaza/1.jpg'
+  image_url: "../images/business/property/gsh_plaza/1.jpg"
 
 lang: en
 lang-ref: property.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
-{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='left' id='wonder_city' %}
 
-{% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='yuhua_salon' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='wonder_city' %}
+
+{% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
