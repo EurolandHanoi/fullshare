@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#wonder_city"
     text: 了解更多
-  image_url: '../images/business/property/wonder_city/1.jpg'
+  image_url: "../images/business/property/wonder_city/6.jpg"
 
 spotlight-wonder_city:
   title: 虹悅城
@@ -23,24 +23,72 @@ spotlight-wonder_city:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/wonder_city/2.jpg'
+  image_url: "../images/business/property/wonder_city/8.jpg"
 
 spotlight-yuhua_salon:
   title: 雨花客廳
   content: |
     <p><b>雨花客廳</b></p>
 
-    <p>雨花客廳位於中國（南京）軟件谷之核心位置，乃南京首個集雙地鐵站，低碳綠色，人性化等優勢於一體之總部式商用地產項目，總建築面積達50萬平方米，為整個軟件谷提供管理中心，辦公室大樓，商用物業，酒店及服務式公寓等全方位商業配套設施。作為國家級軟件產業基地之核心配套地產物業，雨花客廳將低碳節能科技元素，首次應用到商用物業中，由豐盛控股自主研發的地源熱泵系統，能夠確保物業室內四季恒溫、恒濕、恒氧，利用回圈的地下水源控溫控濕，既能將辦公環境維持在人體最舒適的條件中，並能成功降低30%能源消耗，達到低碳節能的目標。</p>
+    <p>雨花客廳位於中國（南京）軟體谷核心區，是南京首個集雙地鐵站交通、低碳綠色環保消費環境、都市田園購物體驗等優勢於一體的總部式園區項目，也是豐盛控股探索中醫健康生活方式、實施中醫藥人才培養、中醫健康技術及專案孵化的重要載體。</p>
 
-    <p>雨花客廳已獲得多個大牌入駐，包括沃爾瑪山姆會員店、運動品牌迪卡儂、英皇體驗俱樂部、洛克公園等。</p>
+    <p>[expand]</p>
 
-    <p>中國（南京）軟件谷位於南京市的西南部， 規劃總面積73平方公里，是中國最大的資訊科技軟件產業研發基地，綜合實力已躋身中國同類軟件園區之首三名位置，同時亦是中國資訊科技服務外包示範基地，國家現代資訊科技軟件產業基地，以及國家數碼出版基地。中國（南京）軟件谷內已匯集不同類型軟件企業超過660家，僅軟件從業人員超過15萬人。</p>
+    <p>項目總建築面積達50萬平方米，涵蓋辦公、商業、酒店、酒店式公寓等全商業業態綜合片區。雨花客廳區域建築設計及施工運行採用了地源熱泵、置換新風、PM2.5空氣淨化等多項低碳節能技術，確保室內四季恒溫、恒濕、恒氧，實現了辦公環境的人體最舒適範圍控制，同時可有效減少30%的能耗，大幅降低碳排放。</p>
+
+    <p>雨花客廳彙集眾多知名品牌入駐，包括南京首家高端養生主題酒店五季凱悅臻選、沃爾瑪山姆會員店、運動品牌迪卡儂、英皇健身俱樂部、洛克體育公園等。項目持續推動融入醫療、美容、保健、飲食、起居、運動、展覽、教育等以“健康”為主題的各項服務，傾力打造獨特的中式健康生活方式體驗基地，為消費者帶來更高品質的生活服務和獨特體驗。 </p>
+
+    <p>[/expand]</p>
   button:
     show: true
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/yuhua_salon/1.jpg'
+  image_url: "../images/business/property/wonder_city/7.jpg"
+
+spotlight-fragrant_house:
+  title: 香醍名邸
+  content: |
+    <p>香醍名邸位於天津靜海團泊新城西區，團泊大道西側、大明湖路北側，距天津市中心14公里。專案土地面積12.01萬平方米，用地規劃建築面積14.41萬平方米。專案規劃分為四期，包括別墅、小高層、洋房、業主會所等產品，自2014年起陸續交付。項目周邊醫療、教育、體育、康養、地鐵等配套資源完善，具備良好的宜居潛力。</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/9.jpg"
+
+spotlight-princes:
+  title: 诸諸公
+  content: |
+    <p>專案位於中國南京雨花臺風景區，建築面積約9.63萬方。長髮諸公別具匠心打造了民國風格的社區，引用西方古典形式與近代工業設計結合的思潮，加入了中國傳統“天人合一”等思想觀念。整個專案有著豐富的自然資源，在規劃中充分利用山高林密的自然條件，使建築與自然融為一體，給業主提供極強的居住私密性。</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/10.jpg"
+
+spotlight-prefecture:
+  title: 郡望府
+  content: |
+    <p>郡望府位於連雲港開發區新光路與神泉路交匯處，占地298畝，總建築面積30萬方，容積率僅為1.36，由56棟花園電梯洋房組成，高綠化率。樓盤採用五重園林綠化手法以及自然堆坡的三維空間佈局，著力營造綠意盎然的人居環境。專案榮膺江蘇省綠化工程品質最高獎“揚子杯”、連雲港開發企業信用考評最高等級A級、連雲港市優質工程、連雲港首家星級智慧安防社區等眾多榮譽。</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/11.jpg"
+
+spotlight-xicheng_yipin:
+  title: 西城逸品
+  content: |
+    <p>江蘇鹽城西城逸品項目總建築面積約40萬平方米，占地面積約20萬平方米，綠化率高達46%，由33幢風格簡約的景觀建築組成，約 2000餘戶，是一座大型水岸園林生活社區。建築立面採用大方簡約的設計思想，最簡潔的線條勾勒出完整的建築格調，給人們帶來視覺新享受。明快的建築立面造型強調層次感和節奏感，開闊的樓間距保證景觀視野，營造出優美的城市天際線。</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/12.jpg"
 
 spotlight-gsh_plaza:
   title: GSH PLAZA
@@ -53,16 +101,26 @@ spotlight-gsh_plaza:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/property/gsh_plaza/1.jpg'
+  image_url: "../images/business/property/gsh_plaza/1.jpg"
 
 lang: tc
 lang-ref: property.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
-{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='left' id='wonder_city' %}
 
-{% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='yuhua_salon' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='wonder_city' %}
 
+{% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
+
+{% include _spotlight.html key='spotlight-fragrant_house' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='fragrant_house' %}
+
+{% include _spotlight.html key='spotlight-princes' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='princes' %}
+
+{% include _spotlight.html key='spotlight-prefecture' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='prefecture' %}
+
+{% include _spotlight.html key='spotlight-xicheng_yipin' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='xicheng_yipin' %}
