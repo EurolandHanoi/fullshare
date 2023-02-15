@@ -123,7 +123,7 @@ items-contact:
 
 <!-- About Us -->
 
-{% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='right' id='aboutus' %}
+{% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='center' id='aboutus' %}
 
 <!-- Our Business -->
 
@@ -133,19 +133,19 @@ items-contact:
 
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' has_carousel='true' id='businesses' %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='right' has_carousel='true' id='businesses' %}
 
 <!-- Corporate Goverance -->
 
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='Center' img_pos='center' id='governance' %}
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
 <!-- Company News -->
 
-{% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='center' id='news' %}
+{% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' id='news' %}
 
 <!-- Investor Relations -->
 
-{% include _spotlight.html key='spotlight-ir' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='Center' img_pos='center' id='ir' %}
+{% include _spotlight.html key='spotlight-ir' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='ir' %}
 
 <!-- Contact Us -->
 
