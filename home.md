@@ -53,7 +53,7 @@ spotlight-business:
     text: Learn More
   image_url: "images/business/property/yuhua_salon/1.jpg"
   image_url_slide_1: "images/business/property/yuhua_salon/1-slide.jpg"
-  image_url_slide_2: "images/business/property/yuhua_salon/2-slide.jpg"
+  image_url_slide_2: "images/business/property/yuhua_salon/2-slide.png"
   image_url_slide_3: "images/business/property/yuhua_salon/3-slide.jpg"
   image_url_slide_4: "images/business/property/yuhua_salon/4-slide.jpg"
 
@@ -133,7 +133,7 @@ items-contact:
 
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='right' has_carousel='true' id='businesses' %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' has_carousel='true' id='businesses' %}
 
 <!-- Corporate Goverance -->
 
