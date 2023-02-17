@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#sparrow_early_learning"
     text: Continue
-  image_url: '../images/business/education/sparrow_early_learning/2.jpg'
+  image_url: "../images/business/education/sparrow_early_learning/7.jpg"
 
 spotlight-sparrow_early_learning:
   title: Sparrow Early Learning
@@ -23,15 +23,16 @@ spotlight-sparrow_early_learning:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/education/sparrow_early_learning/2.jpg'
+  image_url: "../images/business/education/sparrow_early_learning/2.jpg"
 
 lang: en
 lang-ref: education.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
 
 {% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
-
