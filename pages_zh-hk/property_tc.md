@@ -60,7 +60,7 @@ spotlight-fragrant_house:
 spotlight-princes:
   title: 诸諸公
   content: |
-    <p>專案位於中國南京雨花臺風景區，建築面積約9.63萬方。長髮諸公別具匠心打造了民國風格的社區，引用西方古典形式與近代工業設計結合的思潮，加入了中國傳統“天人合一”等思想觀念。整個專案有著豐富的自然資源，在規劃中充分利用山高林密的自然條件，使建築與自然融為一體，給業主提供極強的居住私密性。</p>
+    <p>曾開發南京諸公項目，位於中國南京雨花臺風景區，建築面積約9.63萬方。長髮諸公別具匠心打造了民國風格的社區，引用西方古典形式與近代工業設計結合的思潮，加入了中國傳統“天人合一”等思想觀念。整個專案有著豐富的自然資源，在規劃中充分利用山高林密的自然條件，使建築與自然融為一體，給業主提供極強的居住私密性。</p>
   button:
     show: true
     url: "#"
@@ -82,7 +82,7 @@ spotlight-prefecture:
 spotlight-xicheng_yipin:
   title: 西城逸品
   content: |
-    <p>江蘇鹽城西城逸品項目總建築面積約40萬平方米，占地面積約20萬平方米，綠化率高達46%，由33幢風格簡約的景觀建築組成，約 2000餘戶，是一座大型水岸園林生活社區。建築立面採用大方簡約的設計思想，最簡潔的線條勾勒出完整的建築格調，給人們帶來視覺新享受。明快的建築立面造型強調層次感和節奏感，開闊的樓間距保證景觀視野，營造出優美的城市天際線。</p>
+    <p>曾開發江蘇鹽城西城逸品專案，總建築面積約40萬平方米，占地面積約20萬平方米，綠化率高達46%，由33幢風格簡約的景觀建築組成，約 2000餘戶，是一座大型水岸園林生活社區。建築立面採用大方簡約的設計思想，最簡潔的線條勾勒出完整的建築格調，給人們帶來視覺新享受。明快的建築立面造型強調層次感和節奏感，開闊的樓間距保證景觀視野，營造出優美的城市天際線。 </p>
   button:
     show: true
     url: "#"
@@ -113,7 +113,7 @@ lang-ref: property.md
 
 <!-- Properties -->
 
-{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='wonder_city' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='center' id='wonder_city' %}
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
 
