@@ -23,7 +23,7 @@ spotlight-wonder_city:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: "../images/business/property/wonder_city/9.jpg"
+  image_url: "../images/business/property/wonder_city/8.jpg"
 
 spotlight-yuhua_salon:
   title: Yuhua Salon
