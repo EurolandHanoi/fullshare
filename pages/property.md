@@ -17,24 +17,27 @@ spotlight-wonder_city:
   content: |
     <p><b>Wonder City</b></p>
 
-    <p>Wonder City is a large scale shopping mall center, located in Nanjing, Jiangsu Province, the PRC. It has introduced high-quality tenants. Wonder City received approximately 55 thousand shoppers per day. Its total gross floor area is approximately 100 thousand sq.m. while the area available for sale reaches approximately 63 thousand sq.m. To attract shoppers’ eyeballs, the shopping mall holds 8-10 promotion activities per year and customizes its service of each floor based on its different target groups. &nbsp;</p>
+    <p>Wonder City is a large scale shopping mall center, located in Nanjing, Jiangsu Province, the PRC. It has introduced high-quality tenants. Wonder City received approximately 55 thousand shoppers per day. Its total gross floor area is approximately 100 thousand sq.m. while the area available for sale reaches approximately 63 thousand sq.m. </p>
     <p>[expand]</p>
-    <p>For instance, for the floor targeted to children, a small train to take children to see around the whole floor, photo studio for kids and baby swimming pool, and other interesting service are provided. For mothers’ convenience, the service offered to mom is also on the same floor.</p>
+    <p>To attract shoppers’ eyeballs, the shopping mall holds 8-10 promotion activities per year and customizes its service of each floor based on its different target groups.
+    For instance, for the floor targeted to children, a small train to take children to see around the whole floor, photo studio for kids and baby swimming pool, and other interesting service are provided. For mothers’ convenience, the service offered to mom is also on the same floor.</p>
     <p>[/expand]</p>
   button:
     show: true
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: "../images/business/property/wonder_city/8.jpg"
+  image_url: "../images/business/property/wonder_city/13.png"
 
 spotlight-yuhua_salon:
   title: Yuhua Salon
   content: |
     <p><b>Yuhua Salon</b></p>
 
-    <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties.</p>
+    <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing.</p>
     <p>[expand]</p>
+     <p>With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties.</p>
+
      <p>The geothermal heat pump system developed by the Group can keep constant temperature, humidity, and oxygen content within the property. Using loop groundwater source controlling temperature and humidity, it can well maintain the office environment at the most comfortable conditions for human being. In addition, it can reduce energy consumption by 30% to achieve low-carbon energy targets.</p>
 
     <p>Yuhua Salon has introduced many well-known brands, including Wal-Mart Sam’s Club, Decathlon, a sports brand originated from Europe, Royal Sport Club, Rucker Park, etc.</p>
@@ -71,6 +74,6 @@ lang-ref: property.md
 
 <!-- Properties -->
 
-{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='wonder_city' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='center' id='wonder_city' %}
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
