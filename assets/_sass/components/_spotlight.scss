@@ -1286,4 +1286,18 @@
 		}
 	}
 
+	#wonder_city,
+	#princes,
+	#xicheng_yipin {
+		.image img {
+			object-position: 40%;
+		}
+	}
+	
+	#fragrant_house {
+		.image img {
+			object-position: 70%;
+		}
+	}
+
 	@include color-spotlight;
