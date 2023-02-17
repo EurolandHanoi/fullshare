@@ -470,4 +470,15 @@
 		});
 	}
 
+	const queryString = window.location.href;
+	const strCN = "pages_zh-cn";
+	const strHK = "pages_zh-hk";
+	if (queryString.includes(strCN)) {
+		$('body').addClass('pages_zh-cn');
+	}
+
+	if (queryString.includes(strHK)) {
+		$('body').addClass('pages_zh-hk');
+	}
+
 })(jQuery);
