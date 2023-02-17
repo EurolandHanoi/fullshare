@@ -58,7 +58,7 @@ spotlight-fragrant_house:
   image_url: "../images/business/property/wonder_city/9.jpg"
 
 spotlight-princes:
-  title: 诸諸公
+  title: 諸公
   content: |
     <p>曾開發南京諸公項目，位於中國南京雨花臺風景區，建築面積約9.63萬方。長髮諸公別具匠心打造了民國風格的社區，引用西方古典形式與近代工業設計結合的思潮，加入了中國傳統“天人合一”等思想觀念。整個專案有著豐富的自然資源，在規劃中充分利用山高林密的自然條件，使建築與自然融為一體，給業主提供極強的居住私密性。</p>
   button:
