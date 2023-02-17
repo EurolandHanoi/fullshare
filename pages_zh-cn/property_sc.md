@@ -60,7 +60,7 @@ spotlight-fragrant_house:
 spotlight-princes:
   title: 诸公
   content: |
-    <p>项目位于中国南京雨花台风景区，建筑面积约9.63万方。长发诸公别具匠心打造了民国风格的小区，引用西方古典形式与近代工业设计结合的思潮，加入了中国传统“天人合一”等思想观念。整个项目有着丰富的自然资源，在规划中充分利用山高林密的自然条件，使建筑与自然融为一体，给业主提供极强的居住私密性。 </p>
+    <p>曾开发南京诸公项目，位于中国南京雨花台风景区，建筑面积约9.63万方。长发诸公别具匠心打造了民国风格的小区，引用西方古典形式与近代工业设计结合的思潮，加入了中国传统“天人合一”等思想观念。整个项目有着丰富的自然资源，在规划中充分利用山高林密的自然条件，使建筑与自然融为一体，给业主提供极强的居住私密性。 </p>
   button:
     show: true
     url: "#"
@@ -82,7 +82,7 @@ spotlight-prefecture:
 spotlight-xicheng_yipin:
   title: 西城逸品
   content: |
-    <p>江苏盐城西城逸品项目总建筑面积约40万平方米，占地面积约20万平方米，绿化率高达46%，由33幢风格简约的景观建筑组成，约 2000余户，是一座大型水岸园林生活社区。建筑立面采用大方简约的设计思想，最简洁的线条勾勒出完整的建筑格调，给人们带来视觉新享受。明快的建筑立面造型强调层次感和节奏感，开阔的楼间距保证景观视野，营造出优美的城市天际线。 </p>
+    <p>曾开发江苏盐城西城逸品项目，总建筑面积约40万平方米，占地面积约20万平方米，绿化率高达46%，由33幢风格简约的景观建筑组成，约 2000余户，是一座大型水岸园林生活社区。建筑立面采用大方简约的设计思想，最简洁的线条勾勒出完整的建筑格调，给人们带来视觉新享受。明快的建筑立面造型强调层次感和节奏感，开阔的楼间距保证景观视野，营造出优美的城市天际线。 </p>
   button:
     show: true
     url: "#"
@@ -113,7 +113,7 @@ lang-ref: property.md
 
 <!-- Properties -->
 
-{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='wonder_city' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='center' id='wonder_city' %}
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
 
