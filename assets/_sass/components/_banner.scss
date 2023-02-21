@@ -1033,4 +1033,10 @@
 		}
 	}
 
+	#banner-news {
+		.image img {
+			object-position: top;
+		}
+	}
+
 	@include color-banner;
