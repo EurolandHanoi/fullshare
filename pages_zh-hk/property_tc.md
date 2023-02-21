@@ -17,7 +17,7 @@ spotlight-wonder_city:
   content: |
     <p><b>虹悅城</b></p>
 
-    <p>虹悅城大型購物中心位於中國江蘇省南京市 。虹悅城擁有多個優質租戶。商場日均人流量約5.5萬人次；總建築面積為10萬平方米，可供出售面積6.3萬平方米。為了吸引人流，商場每年都會舉辨8-10個推廣活動。每一層樓，都會根據客戶需求提供服務。例如以兒童為對象的樓層，有小火車讓小客人乘坐遊歷商場，還有兒童拍照、BB游泳等特色玩意。為了讓母親等候方便，為母親提供的服務也是設在同一樓層。</p>
+    <p>虹悅城位於中國江蘇省南京市，日均人流量約5.5萬人次，總建築面積為10萬平方米，是南京地區最具影響力的商場之一。商場集購物、餐飲、休閒、娛樂等業態於一體，定位於國際化、年輕化、時尚化的品牌形象，突出家庭與親子消費，擁有多個優質租戶。商場關注並實施社會責任、客戶服務和社區關係建設，攜手社會公益機構、行業組織及政府部門舉辦各類公益活動；實施不同樓層個性化服務內容，如以兒童為物件的樓層，為家長提供等候、照料便利服務；在中心舞臺舉辦各類文化特色演出活動，給消費者更好的購物休閒體驗。 </p>
   button:
     show: true
     url: "#"
@@ -119,8 +119,8 @@ lang-ref: property.md
 
 {% include _spotlight.html key='spotlight-fragrant_house' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='fragrant_house' %}
 
-{% include _spotlight.html key='spotlight-princes' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='princes' %}
+{% include _spotlight.html key='spotlight-prefecture' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='prefecture' %}
 
-{% include _spotlight.html key='spotlight-prefecture' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='prefecture' %}
+{% include _spotlight.html key='spotlight-princes' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='princes' %}
 
 {% include _spotlight.html key='spotlight-xicheng_yipin' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='xicheng_yipin' %}
