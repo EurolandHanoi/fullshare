@@ -43,7 +43,7 @@ spotlight-risk_management:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: '../images/business/tourism/sheraton/6.jpg'
 
 table_color:
   bg_row_header: "#428bca"
