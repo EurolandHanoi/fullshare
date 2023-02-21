@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#sheraton"
     text: Continue
-  image_url: '../images/business/tourism/laguna/4.jpg'
+  image_url: "../images/business/tourism/laguna/4.jpg"
 
 spotlight-sheraton:
   title: Sheraton
@@ -26,7 +26,7 @@ spotlight-sheraton:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: "../images/business/tourism/sheraton/7.jpg"
 
 spotlight-laguna:
   title: Laguna
@@ -44,7 +44,7 @@ spotlight-laguna:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/laguna/2.jpg'
+  image_url: "../images/business/tourism/laguna/2.jpg"
 
 spotlight-ortopark:
   title: Orto Park
@@ -62,15 +62,18 @@ spotlight-ortopark:
     url: "#"
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/orto_park/1.jpg'
+  image_url: "../images/business/tourism/orto_park/1.jpg"
 
 lang: en
 lang-ref: tourism.md
 ---
+
 <!-- Welcome Banner -->
+
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
+
 {% include _spotlight.html key='spotlight-sheraton' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='sheraton' %}
 
 {% include _spotlight.html key='spotlight-laguna' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='laguna' %}
