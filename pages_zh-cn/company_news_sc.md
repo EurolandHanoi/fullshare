@@ -26,6 +26,6 @@ lang-ref: company_news.md
 
 <!-- Welcome Banner -->
 
-{% include _banner.html key='' style='style5' scheme='invert' color='' content_align='left' img_pos='left' %}
+{% include _banner.html key='' style='style5' scheme='invert' color='' content_align='left' img_pos='left' id='banner-news'%}
 
 {% include news_posts.html lang = page.lang %}
