@@ -112,9 +112,9 @@ tc:
                 <ul class="sub-memu child">                    
                     <li><a href="/pages_zh-hk/property_tc#wonder_city">虹悅城</a></li>
                     <li><a href="/pages_zh-hk/property_tc#yuhua_salon">雨花客廳</a></li>                    
-                    <li><a href="/pages_zh-cn/property_sc#fragrant_house">香醍名邸</a></li>                    
+                    <li><a href="/pages_zh-cn/property_sc#fragrant_house">香醍名邸</a></li>         
+                    <li><a href="/pages_zh-cn/property_sc#prefecture">郡望府</a></li>             
                     <li><a href="/pages_zh-cn/property_sc#princes">诸諸公</a></li>                    
-                    <li><a href="/pages_zh-cn/property_sc#prefecture">郡望府</a></li>                    
                     <li><a href="/pages_zh-cn/property_sc#xicheng_yipin">西城逸品</a></li>  
                 </ul>
             </li>
@@ -197,8 +197,8 @@ sc:
                     <li><a href="/pages_zh-cn/property_sc#wonder_city">虹悦城</a></li>
                     <li><a href="/pages_zh-cn/property_sc#yuhua_salon">雨花客厅</a></li>                    
                     <li><a href="/pages_zh-cn/property_sc#fragrant_house">香醍名邸</a></li>                    
+                    <li><a href="/pages_zh-cn/property_sc#prefecture">郡望府</a></li>    
                     <li><a href="/pages_zh-cn/property_sc#princes">诸公</a></li>                    
-                    <li><a href="/pages_zh-cn/property_sc#prefecture">郡望府</a></li>                    
                     <li><a href="/pages_zh-cn/property_sc#xicheng_yipin">西城逸品</a></li>                    
                 </ul>
             </li>
