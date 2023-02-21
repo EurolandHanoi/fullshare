@@ -1293,11 +1293,28 @@
 			object-position: 40%;
 		}
 	}
+
+	#prefecture {
+		.image img {
+			object-position: 40% 25%;
+		}
+	}
 	
 	#fragrant_house {
 		.image img {
 			object-position: 70%;
 		}
 	}
+
+	body.pages_zh-cn,
+	body.pages_zh-hk {
+		#sheraton .expand,
+		#laguna .expand,
+		#sections .expand,
+		#yunnan .expand,
+		#ortopark .expand {
+			text-align: justify;
+		}
+	} 
 
 	@include color-spotlight;
