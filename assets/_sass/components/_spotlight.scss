@@ -1334,8 +1334,12 @@
 		}
 
 		.btn-expand {
-			transform: translateX(-10px);
+			// transform: translateX(-10px);
 		}
+	}
+
+	.textNhuCC {
+		text-align: right !important;
 	}
 
 	@include color-spotlight;
