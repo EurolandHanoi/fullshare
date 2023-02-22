@@ -1342,4 +1342,10 @@
 		text-align: right !important;
 	}
 
+	.text-before-expand {
+		.btn-expand {
+			transform: none !important;
+		}
+	}
+
 	@include color-spotlight;
