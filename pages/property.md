@@ -17,7 +17,7 @@ spotlight-wonder_city:
   content: |
     <p><b>Wonder City</b></p>
 
-    <p>Located in Nanjing, Jiangsu Province, China, Wonder City is one of the most influential shopping malls in Nanjing covering a total floor area of 100,000 square meters to receive an average daily visit of about 55,000 times. The mall integrates shopping, catering, leisure, entertainment, etc. with many high-quality stores, positioning itself as an international, young and fashion brand, and highlighting family consumption. </p>
+    <p class="text-before-expand">Located in Nanjing, Jiangsu Province, China, Wonder City is one of the most influential shopping malls in Nanjing covering a total floor area of 100,000 square meters to receive an average daily visit of about 55,000 times. The mall integrates shopping, catering, leisure, entertainment, etc. with many high-quality stores, positioning itself as an international, young and fashion brand, and highlighting family consumption. </p>
     <p>[expand]</p>
     <p>It focuses and works on social responsibility, customer service and community relations, joining hands with social public welfare institutions, industrial organizations and government departments to organize various public welfare activities; provides personalized services on different floors, such as providing services for parents to wait and care for their children on the children-target floor; and holds featured cultural performances on the central stage to give consumers a better shopping and leisure experience. </p>
     <p>[/expand]</p>
@@ -33,7 +33,7 @@ spotlight-yuhua_salon:
   content: |
     <p class="textNhuCC"><b>Yuhua Salon</b></p>
 
-    <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing.</p>
+    <p class="text-before-expand">Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. </p>
     <p>[expand]</p>
      <p>With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties.</p>
 
