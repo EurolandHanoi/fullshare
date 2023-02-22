@@ -1317,4 +1317,25 @@
 		}
 	} 
 
+	#sparrow_early_learning,
+	#spotlight-nanjing,
+	#spotlight-fengsheng,
+	#spotlight-medicine,
+	#wonder_city,
+	#yuhua_salon,
+	#fragrant_house,
+	#prefecture,
+	#princes,
+	#xicheng_yipin,
+	#chs {
+		.expand,
+		p {
+			text-align: justify;
+		}
+
+		.btn-expand {
+			transform: translateX(-10px);
+		}
+	}
+
 	@include color-spotlight;
