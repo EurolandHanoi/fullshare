@@ -17,10 +17,9 @@ spotlight-wonder_city:
   content: |
     <p><b>Wonder City</b></p>
 
-    <p>Wonder City is a large scale shopping mall center, located in Nanjing, Jiangsu Province, the PRC. It has introduced high-quality tenants. Wonder City received approximately 55 thousand shoppers per day. Its total gross floor area is approximately 100 thousand sq.m. while the area available for sale reaches approximately 63 thousand sq.m. </p>
+    <p>Located in Nanjing, Jiangsu Province, China, Wonder City is one of the most influential shopping malls in Nanjing covering a total floor area of 100,000 square meters to receive an average daily visit of about 55,000 times. The mall integrates shopping, catering, leisure, entertainment, etc. with many high-quality stores, positioning itself as an international, young and fashion brand, and highlighting family consumption. </p>
     <p>[expand]</p>
-    <p>To attract shoppers’ eyeballs, the shopping mall holds 8-10 promotion activities per year and customizes its service of each floor based on its different target groups.
-    For instance, for the floor targeted to children, a small train to take children to see around the whole floor, photo studio for kids and baby swimming pool, and other interesting service are provided. For mothers’ convenience, the service offered to mom is also on the same floor.</p>
+    <p>It focuses and works on social responsibility, customer service and community relations, joining hands with social public welfare institutions, industrial organizations and government departments to organize various public welfare activities; provides personalized services on different floors, such as providing services for parents to wait and care for their children on the children-target floor; and holds featured cultural performances on the central stage to give consumers a better shopping and leisure experience. </p>
     <p>[/expand]</p>
   button:
     show: true
@@ -32,7 +31,7 @@ spotlight-wonder_city:
 spotlight-yuhua_salon:
   title: Yuhua Salon
   content: |
-    <p><b>Yuhua Salon</b></p>
+    <p class="textNhuCC"><b>Yuhua Salon</b></p>
 
     <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing.</p>
     <p>[expand]</p>
