@@ -5,7 +5,7 @@ author: ""
 comments: false
 button: ""
 date: 2018-10-09 00:00:00 +0800
-excerpt:
+excerpt: ""
 title: FS Holdings Awarded “2018 China Top 100 Innovative Enterprises”
 categories: ""
 image: "/files/forestry_uploads/2018-10-08-01-1080x727.jpg"
@@ -17,7 +17,7 @@ nav_name: nav_news
 
 ![](/files/forestry_uploads/2018-10-08-01-1080x727.jpg)
 
-![](/files/forestry_uploads/2018-10-08-01-1080x742.jpg)
+![](/files/forestry_uploads/2018-10-08-02742.jpg)
 
 With the theme of "Innovation Example, China Power", the conference held a series of activities, including China innovation, economic integration and development conference, matching meeting between innovation achievements and financiers, international production capacity cooperation fair, etc., interacting with renowned experts and entrepreneurs in the fields of government, industry, academia, research and media. They also serve for the deep integration of dual innovation and economy, innovation for achieving successful transformation and upgrading services for enterprises. During the event, the organizer released the 2018 China Innovation and Economic Integration Development Results of Public Opinion Monitoring and Evaluation Report, which showed that China's scientific and technological innovation has stepped into the stage of tracking and running alongside and leading, and China's economy is working to achieve high-quality development, while the innovative development of enterprises will strongly improve the level of economic and social development.
 

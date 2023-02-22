@@ -6,7 +6,7 @@ comments: false
 button: ""
 date: 2019-03-22 00:00:00 +0800
 excerpt: ""
-title: FOLIDAY, Fullshare Holdings and other Internet+travel low-lying stocks have promising prospects
+title: FOLIDAY, Fullshare Holdings and other "Internet+travel" low-lying stocks have promising prospects
 categories: ""
 image: "/files/forestry_uploads/20190321-709x416.jpg"
 lang-ref: news_20190321
@@ -15,13 +15,13 @@ nav_name: nav_news
 
 (21 March 2019, Nan Jing) Benefiting from the policy development opportunities of domestic tourism industry, the US-listed Tuniu (TOUR) and Ctrip (CTRP) both announced their dazzling 2018 financial results, and the share prices of the two companies also rose sharply in line with the trend. However, also benefited from the domestic tourism market policy favorable, shares of Fullshare Holdings (0607.HK), FOLIDAY (1992.HK) and other companies who have listed in Hong Kong shares of the Internet travel sector have not yet started soaring, so a number of research institutions have given a "buy" rating.
 
-Tuniu and Ctrip surges after earnings debut
+**Tuniu and Ctrip surges after earnings debut**
 
 On 28 February, US-listed Tuniu released its annual results for the 2018 financial year, showing a non-US GAAP net profit of RMB10.9 million (US$1.6 million) for 2018, compared to a non-US GAAP net loss of RMB531.1 million in 2017. The financial results also showed that Tuniu stemmed from growth in group tour revenue, with all-inclusive tour product revenue of RMB1.8 billion (US$266.3 million) in 2018, up 15.2% year-on-year. Meanwhile, Tuniu's costs also continued to shrink, with operating expenses of RMB1.5 billion (US$221.7 million) in 2018, which decreases 25.7% year-on-year. On the secondary market, Tuniu's US share price has risen by 9% since February this year.
 
 On Tuniu’s heel, Ctrip also released its 2018 financial results on 4 March, with the company's full-year 2018 net operating income at RMB31 billion. Net operating income for the fourth quarter of 2018 was RMB7.6 billion, an increase of 22% year-on-year. On the revenue side, excluding equity compensation expenses and gains and losses from changes in fair value of equity-type available-for-sale financial assets, net profit attributable to Ctrip shareholders was RMB5.5 billion, an increase of nearly 40% year-on-year. Benefiting from the growth in earnings, Ctrip's share price has increased significantly by more than 20% since March this year.
 
-"Internet + tourism" frequently encouraged by favorable policies
+**"Internet + tourism" frequently encouraged by favorable policies**
 
 In terms of policy, on March 5, China's government work report emphasized tax cuts and revenue increases, accelerating the supply of quality products and services, and developing and growing the tourism industry. According to the Ministry of Tourism and Culture, the number of domestic tourists reached 5.539 billion in 2018, an increase of 10.8% year-on-year. Domestic tourism revenue was RMB5.13 trillion, up 12.3 per cent year-on-year. Overall, the growth rate of domestic tourism numbers remained high in 2018. 2019 Spring Festival holiday tourism data showed that the country took 415 million visitors, 7.6% higher than a year before; achieving tourism revenue of 513.9 billion yuan, which 8.2% higher than that of the 2018, a positive growth.
 
@@ -33,7 +33,7 @@ The China Tourism Research Institute and Ctrip also jointly released the 2018 Ch
 
 According to an analysis by Dai Bin, president of the China Tourism Research Institute, China's outbound market has continued to grow at a rate of more than 20% over the past 10 years, becoming the world's largest source country for outbound tourism and tourism consumption expenditure. Outbound travel has become part of our daily life. Customized travel will become mature future, and personalized demand will be further accentuated. It is expected that China's outbound tourism market will maintain double-digit growth in 2019 and the period ahead.
 
-The value of "Internet+travel" stocks is highlighted
+**The value of "Internet+travel" stocks is highlighted**
 
 In contrast, the shares of FOLIDAY and Fullshare Holdings, which are also benefiting from favourable domestic industry policies, have not yet been launched in the Hong Kong stock market.
 
