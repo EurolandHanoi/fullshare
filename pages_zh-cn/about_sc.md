@@ -16,7 +16,7 @@ banner:
     show: true
     url: "#team"
     text: 了解更多
-  image_url: '../images/background.jpg'
+  image_url: "../images/background.jpg"
 
 banner-office:
   title: 全球办公室
@@ -37,13 +37,15 @@ banner-office:
     url: "#"
     text:
     custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/office_map.png'
+  image_url: "../images/office_map.png"
 
 lang: sc
 lang-ref: about.md
 ---
+
 <!-- Welcome Banner -->
-{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
+
+{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' id='about'%}
 
 <!-- Management Team -->
 <!-- Wrapper -->
@@ -75,7 +77,9 @@ lang-ref: about.md
       <img src="../images/spotlight01.jpg" alt="" />
     </div>
     -->
+
 </section>
 
 <!-- Global Office -->
+
 {% include _banner.html key='banner-office' style='style2' scheme='invert' color='orient-left' size='fullscreen' content_align='left' img_pos='left' id='office' %}
