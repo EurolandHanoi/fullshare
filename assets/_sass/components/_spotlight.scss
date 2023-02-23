@@ -1349,8 +1349,16 @@
 	}
 
 	@media (max-width: 600px) {
+		.banner.style5.fullscreen,
 		.banner.style5.fullscreen {
 			min-height: 35vh !important;
+		}
+
+		#home,
+		#about {
+			&.banner.style5.fullscreen {
+				min-height: 60vh !important;
+			}
 		}
 	}
 
