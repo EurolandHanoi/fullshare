@@ -1039,17 +1039,19 @@
 		}
 	}
 
-	.news_20220618,
-	.news_20161205,
-	.news_20161121,
-	.news_20170619 {
-		section.banner h2 {
-			overflow: hidden;
-   text-overflow: ellipsis;
-   display: -webkit-box;
-   -webkit-line-clamp: 4; /* number of lines to show */
-           line-clamp: 4; 
-   -webkit-box-orient: vertical;
+	@media (max-width: 600px) {
+		.news_20220618,
+		.news_20161205,
+		.news_20161121,
+		.news_20170619 {
+			section.banner h2 {
+				overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 4; /* number of lines to show */
+						line-clamp: 4; 
+		-webkit-box-orient: vertical;
+			}
 		}
 	}
 
