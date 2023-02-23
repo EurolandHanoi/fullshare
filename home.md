@@ -119,7 +119,7 @@ items-contact:
 
 <!-- Welcome Banner -->
 
-{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' id='home'%}
 
 <!-- About Us -->
 
