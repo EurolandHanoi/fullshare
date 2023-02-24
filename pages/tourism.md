@@ -64,6 +64,36 @@ spotlight-ortopark:
     custom_class: icon style2 fas fa-chevron-up
   image_url: "../images/business/tourism/orto_park/1.jpg"
 
+spotlight-sections:
+  title: Grand WUJI Hotel, the Unbound Collection by Hyatt
+  content: |
+    <p>At the junction of Andemen Street and Software Avenue, the Grand WUJI Hotel, the Unbound Collection by Hyatt, is situated in the center of China's (Nanjing) Software Valley. It is the first high-end hotel in Nanjing that features the inheritance of traditional Chinese health culture and practices the concept of a healthy lifestyle. </p>
+    <p>[expand]</p>
+    <p>Four enclosed structures make up the hotel's main structure, which cleverly combines the traditional Chinese conception of health and wellness with the natural ecology. The main building, which shockingly gives the illusion of floating in the air, houses  272 sets of varied guest rooms and suites, in addition to 4 high-end restaurants. The hotel restaurants follow the slogan "tasting five flavors in five seasons, serving only seasonal food," with the goal of serving guests food that can heal their bodies and souls. A 3,000 square meter banquet area, which is made up of banquet rooms and an inner court lawn, can be flexibly divided and combined to meet the needs of meetings and wedding banquets of various sizes and styles. </p>
+
+    <p>Located in Nanjing, the ancient capital, the hotel is run on the principle of fostering a healthy lifestyle by drawing inspiration from traditional Chinese culture and according to the natural laws and health preservation concepts of the five seasons, which go as follows: "growing in spring, blossoming in summer, harvesting in autumn, and relaxing in winter." The goal of the hotel is to provide guests with " a habitat for their body and soul, heaven for their self-cultivation”. </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/tourism/laguna/5.jpg"
+
+spotlight-yunnan:
+  title: Songtsam boutique tours
+  content: |
+    <p>2017 saw the beginning of Songtsam's partnership with Fullshare Holdings. Since then, the two parties have worked together to offer customers around the world a deep cultural experience as well as top-notch health care and vacation services.</p>
+    <p>[expand]</p>
+    <p>The Songtsam Group, dubbed the "No. 1 brand of Tibetan travel" in China, has won numerous awards both domestically and internationally for its distinctive location choices, availability of boutique hotels with a museum-like feel, capacity to provide clients with value-for-money travel experiences, and the sincere and thoughtful services. Through more than 20 years of effort, Songtsam has developed a product that combines sightseeing along the new Yunnan-Tibet transit route, which extends along the Ancient Tea-Horse Road, and the experiences of living in boutique mountain hotels. It has a special travel route that links the World Natural Heritage "Three Rivers" region, the legendary National Highways 214 and 318, the Ancient Tea-Horse Road, and the "Third Pole" Qinghai-Tibet Plateau, with the goal of providing visitors the opportunities to deeply explore the hinterland of China's Three Rivers and the mysterious lands of Yunnan and Tibet. </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/tourism/laguna/6.jpg"
+
 lang: en
 lang-ref: tourism.md
 ---
@@ -79,3 +109,7 @@ lang-ref: tourism.md
 {% include _spotlight.html key='spotlight-laguna' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='laguna' %}
 
 {% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
+
+{% include _spotlight.html key='spotlight-sections' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='center' id='sections' %}
+
+{% include _spotlight.html key='spotlight-yunnan' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='yunnan' %}
