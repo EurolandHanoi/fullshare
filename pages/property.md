@@ -63,12 +63,12 @@ spotlight-fragrant_house:
   image_url: "../images/business/property/wonder_city/9.jpg"
 
 spotlight-princes:
-  title: Junwang Mansion
+  title: Zhugong
   content: |
-    <p class="text-before-expand">Junwang Mansion is located at the intersection of Xinguang Road and Shenquan Road in Lianyungang Development Zone. It covers an area of 298 mu, with a total construction area of 300,000 square meters and a plot ratio of only 1.36. It consists of 56 garden-style elevator-equipped houses and has a high greening rate. </p>
-    <p>[expand]</p>
-    <p>The construction of buildings adopts the five-layer landscaping method and the three-dimensional space layout of natural slopes, aiming to create a green living environment for residents. The project has won many honors such as the "Yangtze Cup", The Highest Award for Greening Engineering Quality in Jiangsu Province, the Grade A in the Credit Evaluation of Lianyungang Development Enterprises, High-Quality Projects in Lianyungang City, and the First Star-Rated Smart Security Community in Lianyungang. </p>
-    <p>[/expand]</p>
+    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters. As a residential community known for its ingenious style of the Republic of China, </p>
+     <p>[expand]</p>
+     <p>the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
+     <p>[/expand]</p>
   button:
     show: true
     url: "#"
@@ -77,12 +77,12 @@ spotlight-princes:
   image_url: "../images/business/property/wonder_city/10.jpg"
 
 spotlight-prefecture:
-  title: Zhugong
+  title: Junwang Mansion
   content: |
-    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters. As a residential community known for its ingenious style of the Republic of China, </p>
-    <p>[expand]</p>
-    <p>the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
-    <p>[/expand]</p>
+    <p class="text-before-expand">Junwang Mansion is located at the intersection of Xinguang Road and Shenquan Road in Lianyungang Development Zone. It covers an area of 298 mu, with a total construction area of 300,000 square meters and a plot ratio of only 1.36. It consists of 56 garden-style elevator-equipped houses and has a high greening rate. </p>
+     <p>[expand]</p>
+     <p>The construction of buildings adopts the five-layer landscaping method and the three-dimensional space layout of natural slopes, aiming to create a green living environment for residents. The project has won many honors such as the "Yangtze Cup", The Highest Award for Greening Engineering Quality in Jiangsu Province, the Grade A in the Credit Evaluation of Lianyungang Development Enterprises, High-Quality Projects in Lianyungang City, and the First Star-Rated Smart Security Community in Lianyungang. </p>
+     <p>[/expand]</p>
   button:
     show: true
     url: "#"
