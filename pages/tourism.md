@@ -15,7 +15,7 @@ banner:
 spotlight-sheraton:
   title: Sheraton
   content: |
-    <p><b>Sheraton Mirage Hotel</b></p>
+    <p class="text-before-expand"><b>Sheraton Mirage Hotel</b></p>
     <p>[expand]</p>
     <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
 
@@ -31,7 +31,7 @@ spotlight-sheraton:
 spotlight-laguna:
   title: Laguna
   content: |
-    <p><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
+    <p class="text-before-expand"><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
     <p>[expand]</p>
     <p>Around 25 kilometers from the south of Proserpine Airport, Laguna Whitsundays covering approximately 2,800 square kilometers located in the Whitsunday Islands which is consisted by 74 scenic islands and adjacent to the World Heritage Great Barrier Reef. With the beautiful and pleasant scenery, it will definitely become the world-wide tourist resort landmarks in the twenty-first century.</p>
 
@@ -49,7 +49,7 @@ spotlight-laguna:
 spotlight-ortopark:
   title: Orto Park
   content: |
-    <p><b>ORTO Park Singapore</b></p>
+    <p class="text-before-expand"><b>ORTO Park Singapore</b></p>
     <p>[expand]</p>
     <p>Differentiated from the high-end tourist resort brand “Mirage”, ORTO Park emphasizes on suburbanized family vacation style with natural and original mission.</p>
 
