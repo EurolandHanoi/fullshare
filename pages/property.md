@@ -33,15 +33,13 @@ spotlight-yuhua_salon:
   content: |
     <p class="textNhuCC"><b>Yuhua Salon</b></p>
 
-    <p class="text-before-expand">Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. </p>
-    <p>[expand]</p>
-     <p>With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties.</p>
+    <p class="text-before-expand">Yuhua Salon is located in the center of China (Nanjing) Software Valley. It is the first headquarters-style park in Nanjing that integrates double subway station transportation advantages, low-carbon, green, and environment-friendly consumption environment, and urban pastoral shopping experience.</p>
+    <p>[expand]</p> 
+    <p>In addition, it is also an important carrier for Fullshare’s exploration of TCM-oriented lifestyle, implementation of TCM talent training, and incubation of TCM health technology and project. </p>
 
-     <p>The geothermal heat pump system developed by the Group can keep constant temperature, humidity, and oxygen content within the property. Using loop groundwater source controlling temperature and humidity, it can well maintain the office environment at the most comfortable conditions for human being. In addition, it can reduce energy consumption by 30% to achieve low-carbon energy targets.</p>
+     <p>The project, occupying a total construction area of 500,000 square meters, is a comprehensive commercial complex that covers function areas of offices, commerce, hotels, and serviced apartments. The construction of the Yuhua Salon area adopts a number of low-carbon energy-saving technologies such as a ground source heat pump, fresh air replacement, and PM2.5 air purification to ensure constant indoor temperature, humidity, and oxygen in all seasons, with the goal to provide an office environment that can best promote the human body’s comfort, while significantly reducing energy consumption by 30%. </p>
 
-    <p>Yuhua Salon has introduced many well-known brands, including Wal-Mart Sam’s Club, Decathlon, a sports brand originated from Europe, Royal Sport Club, Rucker Park, etc.</p>
-
-    <p>China (Nanjing) Software Valley is located in the southwest of Nanjing, with total planning area reaches 73 square kilometers. It is the largest R&D base of information technology & software industry in China that its comprehensive strength has been ranked as one of the top three software parks in China. It is also well known as the information technology services outsourcing demonstration base, the national information technology and software industry base, as well as the national digital publishing base. There were over 660 software companies operating and more than 150 thousand software practitioners working in the Valley.</p>
+     <p>Many well-known brands have settled in Yuhua Salon, including Nanjing's first high-end health-themed hotel Grand WUJI Hotel, the Unbound Collection by Hyatt, Wal-Mart Sam's Club, sports brand Decathlon, Emperor Fitness Club, Rock Sports Park, etc. The park aims to build itself as a “fitness” themed base that provides comprehensive fitness-related services, such as medical treatment, beauty, health care, diet, daily life, sports, exhibitions, and education. In addition, it strives to create a unique Chinese-style healthy lifestyle experience base, bringing consumers higher quality life service and unique experience.  </p>
     <p>[/expand]</p>
   button:
     show: true
@@ -49,6 +47,62 @@ spotlight-yuhua_salon:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: "../images/business/property/wonder_city/7.jpg"
+
+spotlight-fragrant_house:
+  title: Xiangti Villa
+  content: |
+    <p class="text-before-expand">Xiangti Villa(香醍名邸) is located in the west area of Tuanbo New Town, Jinghai, Tianjin, on the west side of Tuanbo Avenue and north side of Daminghu Road, 14 kilometers away from the center of Tianjin. The project covers an area of 120,100 square meters, with the planned construction area reaching 144,100 square meters.</p>
+    <p>[expand]</p>
+    <p>The project, which is divided into four phases and includes areas of villas, small high-rises, bungalows, clubs, and so on, has been delivered in phases since 2014. With complete supporting facilities around such as medical care, education, sports, health care, and the subway, the project shows potential to be a community with great “livability” </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/9.jpg"
+
+spotlight-princes:
+  title: Junwang Mansion
+  content: |
+    <p class="text-before-expand">Junwang Mansion is located at the intersection of Xinguang Road and Shenquan Road in Lianyungang Development Zone. It covers an area of 298 mu, with a total construction area of 300,000 square meters and a plot ratio of only 1.36. It consists of 56 garden-style elevator-equipped houses and has a high greening rate. </p>
+    <p>[expand]</p>
+    <p>The construction of buildings adopts the five-layer landscaping method and the three-dimensional space layout of natural slopes, aiming to create a green living environment for residents. The project has won many honors such as the "Yangtze Cup", The Highest Award for Greening Engineering Quality in Jiangsu Province, the Grade A in the Credit Evaluation of Lianyungang Development Enterprises, High-Quality Projects in Lianyungang City, and the First Star-Rated Smart Security Community in Lianyungang. </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/10.jpg"
+
+spotlight-prefecture:
+  title: Zhugong
+  content: |
+    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters. As a residential community known for its ingenious style of the Republic of China, </p>
+    <p>[expand]</p>
+    <p>the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/11.jpg"
+
+spotlight-xicheng_yipin:
+  title: WEST CITY GARDEN
+  content: |
+    <p class="text-before-expand">It is the developer of WEST CITY GARDEN（西城逸品）, in Yancheng, Jiangsu Province. The project has a total construction area of about 400,000 square meters, a floor area of about 200,000 square meters, and a greening rate of 46%. The project, known as a large waterfront garden living community, consists of 33 simple-style landscape buildings and accommodates 2,000 households. </p>
+    <p>[expand]</p>
+    <p>The design of the building’s facade shows the influence of generous and simple design ideas, with the architectural structure outlined with the most concise lines, bringing a visual feast to the eyes. The rows of buildings have bright-colored building facade shapes showing a sense of depth and rhythm, and are separated by the wide space enabling a wide and nice view, becoming a unique landscape in the remote horizon of the city.  </p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: "../images/business/property/wonder_city/12.jpg"
 
 spotlight-gsh_plaza:
   title: GSH Plaza
@@ -76,3 +130,11 @@ lang-ref: property.md
 {% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='center' id='wonder_city' %}
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='yuhua_salon' %}
+
+{% include _spotlight.html key='spotlight-fragrant_house' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='fragrant_house' %}
+
+{% include _spotlight.html key='spotlight-prefecture' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='prefecture' %}
+
+{% include _spotlight.html key='spotlight-princes' style='style1' orient='right' scheme='invert' color='' size='fifty' content_align='left' img_pos='left' id='princes' %}
+
+{% include _spotlight.html key='spotlight-xicheng_yipin' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='xicheng_yipin' %}
