@@ -22,8 +22,11 @@ en:
                 </ul>
             </li>
             <li><a href="/pages/education">Education & Healthcare</a>
-                <ul class="sub-memu child">                    
-                    <li><a href="/pages/education#sparrow_early_learning">Sparrow Early Learning</a></li>                    
+                <ul class="sub-memu child custom-menu-w">                    
+                    <li><a href="/pages/education#sparrow_early_learning">Sparrow Early Learning</a></li>    
+                    <li><a href="/pages/education#nanjing">NJUTCM Fullshare Health College</a></li>                    
+                    <li><a href="/pages/education#fengsheng">NJUTCM Fullshare Healthcare City</a></li>                    
+                    <li><a href="/pages/education#medicine">NJUTCM Traditional Chinese Medicine Hall</a></li>                   
                 </ul>
             </li>            
             <li><a href="/pages/renewable">Renewable Energy</a>
@@ -35,10 +38,10 @@ en:
                 <ul class="sub-memu child">                    
                     <li><a href="/pages/property#wonder_city">Wonder City</a></li>
                     <li><a href="/pages/property#yuhua_salon">Yuhua Salon</a></li>  
-                    <li><a href="/pages_zh-cn/property#fragrant_house">Xiangti Villa </a></li>         
-                    <li><a href="/pages_zh-cn/property#prefecture">Junwang Mansion </a></li>             
-                    <li><a href="/pages_zh-cn/property#princes">Zhugong</a></li>                    
-                    <li><a href="/pages_zh-cn/property#xicheng_yipin">WEST CITY GARDEN</a></li>                    
+                    <li><a href="/pages/property#fragrant_house">Xiangti Villa </a></li>         
+                    <li><a href="/pages/property#prefecture">Junwang Mansion </a></li>             
+                    <li><a href="/pages/property#princes">Zhugong</a></li>                    
+                    <li><a href="/pages/property#xicheng_yipin">WEST CITY GARDEN</a></li>                    
                 </ul>
             </li>
         </ul>
