@@ -15,7 +15,7 @@ banner:
 spotlight-chs:
   title: China High Speed Transmission Equipment Group Co., Ltd
   content: |
-    <p>China High Speed Transmission Equipment Group Co., Ltd. (“CHS”; SEHK stock code: 658.HK), a subsidiary of the group, is a large enterprise group that specialized in the production of high-speed and heavy-load transmission equipment. Founded in 1969, CHS was listed on the Hong Kong stock exchange in 2007. CHS has developed itself into the global transmission industry leader in wind power generation, industrial equipment, machine tools and other business industries.</p>
+    <p class="text-before-expand">China High Speed Transmission Equipment Group Co., Ltd. (“CHS”; SEHK stock code: 658.HK), a subsidiary of the group, is a large enterprise group that specialized in the production of high-speed and heavy-load transmission equipment. Founded in 1969, CHS was listed on the Hong Kong stock exchange in 2007. CHS has developed itself into the global transmission industry leader in wind power generation, industrial equipment, machine tools and other business industries.</p>
 
     <p>[expand]</p>
     <ul>
