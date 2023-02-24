@@ -1334,17 +1334,13 @@
 	#laguna,
 	#ortopark {
 		.expand,
-		p:not(.text-before-expand) {
+		p:not(.text-not-j) {
 			text-align: justify;
 		}
 
 		.btn-expand {
 			transform: translateX(-10px);
 		}
-	}
-
-	.textNhuCC {
-		text-align: right !important;
 	}
 
 	.text-before-expand {
