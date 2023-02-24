@@ -15,7 +15,7 @@ banner:
 spotlight-sheraton:
   title: 喜來登
   content: |
-    <p><b>蜃景喜來登度假村</b></p>
+    <p class="text-before-expand text-not-j"><b>蜃景喜來登度假村</b></p>
     <p>[expand]</p>
     <p>喜來登蜃景酒店於1987年正式開業，令恬靜怡人的昆士蘭州道格拉斯港，從此變成了全球熱捧之熱帶度假旅遊樂園，各國政要巨星包括中國前國家主席江澤民、美國前總統克林頓、美國著名影星湯姆漢克斯及約翰．特拉沃爾塔、英國著名歌手米克．賈格爾、德國名模克勞迪亞．希弗等均曾經造訪該酒店，在四英里的沙灘上留下璀璨光影。</p>
 
@@ -31,7 +31,7 @@ spotlight-sheraton:
 spotlight-laguna:
   title: 亞拉古拉
   content: |
-    <p><b>澳大利亞拉古拉旅遊綜合城鎮</b></p>
+    <p class="text-before-expand text-not-j"><b>澳大利亞拉古拉旅遊綜合城鎮</b></p>
     <p>[expand]</p>
     <p>澳大利亞拉古拉旅遊綜合城鎮項目佔地2,800公頃，鄰近世界遺產大堡礁，位於普羅瑟派恩機場以南25公里，距離Bruce高速公路8公里，毗鄰Midge Point小鎮。項目座落於聖靈群島地區，聖靈群島由74座景色秀麗的小島組成，毗鄰大堡礁，成就當地成為二十一世紀綜合旅遊度假聖地的理想地標。</p>
 
@@ -49,7 +49,7 @@ spotlight-laguna:
 spotlight-ortopark:
   title: ORTO Park
   content: |
-    <p><b>ORTO Park 新加坡</b></p>
+    <p class="text-before-expand text-not-j"><b>ORTO Park 新加坡</b></p>
     <p>[expand]</p>
     <p>有別「Mirage蜃景」之高端旅遊度假主題，新加坡ORTO Park講求城市近郊，家庭式休閒度假，強調自然，原始生態的理念。</p>
 
@@ -67,7 +67,7 @@ spotlight-ortopark:
 spotlight-sections:
   title: 五季凱悅臻選
   content: |
-    <p><b>五季凱悅臻選</b></p>
+    <p class="text-before-expand text-not-j"><b>五季凱悅臻選</b></p>
     <p>[expand]</p>
     <p>南京五季凱悅臻選酒店位於中國（南京）軟體穀之核心位置，處於安德門大街與軟體大道交匯口，是南京首家傳承中華傳統養生文化、踐行健康生活方式的高端酒店。  </p>
 
@@ -85,7 +85,7 @@ spotlight-sections:
 spotlight-yunnan:
   title: 滇藏松贊文旅
   content: |
-    <p><b>滇藏松贊文旅</b></p>
+    <p class="text-before-expand text-not-j"><b>滇藏松贊文旅</b></p>
     <p>[expand]</p>
     <p>自2017年起，松贊文旅與豐盛控股開展深度合作，為全球用戶帶來深度文化體驗及高端康養度假服務。  </p>
 
@@ -114,6 +114,6 @@ lang-ref: tourism.md
 
 {% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
 
-{% include _spotlight.html key='spotlight-sections' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='center' id='sections' %}
+{% include _spotlight.html key='spotlight-sections' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='center' id='sections' %}
 
 {% include _spotlight.html key='spotlight-yunnan' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='yunnan' %}
