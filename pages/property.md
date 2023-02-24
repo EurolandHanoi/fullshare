@@ -15,7 +15,7 @@ banner:
 spotlight-wonder_city:
   title: Wonder City
   content: |
-    <p><b>Wonder City</b></p>
+    <p class="text-not-j"><b>Wonder City</b></p>
 
     <p class="text-before-expand">Located in Nanjing, Jiangsu Province, China, Wonder City is one of the most influential shopping malls in Nanjing covering a total floor area of 100,000 square meters to receive an average daily visit of about 55,000 times. </p>
     <p>[expand]</p>
@@ -31,7 +31,7 @@ spotlight-wonder_city:
 spotlight-yuhua_salon:
   title: Yuhua Salon
   content: |
-    <p class="textNhuCC"><b>Yuhua Salon</b></p>
+    <p class="text-before-expand text-not-j"><b>Yuhua Salon</b></p>
 
     <p class="text-before-expand">Yuhua Salon is located in the center of China (Nanjing) Software Valley. It is the first headquarters-style park in Nanjing that integrates double subway station transportation advantages, low-carbon, green, and environment-friendly consumption environment, and urban pastoral shopping experience.</p>
     <p>[expand]</p> 

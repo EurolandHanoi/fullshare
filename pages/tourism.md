@@ -15,7 +15,7 @@ banner:
 spotlight-sheraton:
   title: Sheraton
   content: |
-    <p class="text-before-expand"><b>Sheraton Mirage Hotel</b></p>
+    <p class="text-before-expand text-not-j"><b>Sheraton Mirage Hotel</b></p>
     <p>[expand]</p>
     <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
 
@@ -31,7 +31,7 @@ spotlight-sheraton:
 spotlight-laguna:
   title: Laguna
   content: |
-    <p class="text-before-expand"><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
+    <p class="text-before-expand text-not-j"><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
     <p>[expand]</p>
     <p>Around 25 kilometers from the south of Proserpine Airport, Laguna Whitsundays covering approximately 2,800 square kilometers located in the Whitsunday Islands which is consisted by 74 scenic islands and adjacent to the World Heritage Great Barrier Reef. With the beautiful and pleasant scenery, it will definitely become the world-wide tourist resort landmarks in the twenty-first century.</p>
 
@@ -49,7 +49,7 @@ spotlight-laguna:
 spotlight-ortopark:
   title: Orto Park
   content: |
-    <p class="text-before-expand"><b>ORTO Park Singapore</b></p>
+    <p class="text-before-expand text-not-j"><b>ORTO Park Singapore</b></p>
     <p>[expand]</p>
     <p>Differentiated from the high-end tourist resort brand “Mirage”, ORTO Park emphasizes on suburbanized family vacation style with natural and original mission.</p>
 
@@ -67,8 +67,8 @@ spotlight-ortopark:
 spotlight-sections:
   title: Grand WUJI Hotel, the Unbound Collection by Hyatt
   content: |
-    <p class="text-before-expand"><b>Grand WUJI Hotel, the Unbound Collection by Hyatt</b></p>
-    <p class="text-before-expand">[expand]</p>
+    <p class="text-before-expand text-not-j"><b>Grand WUJI Hotel, the Unbound Collection by Hyatt</b></p>
+    <p>[expand]</p>
     <p>At the junction of Andemen Street and Software Avenue, the Grand WUJI Hotel, the Unbound Collection by Hyatt, is situated in the center of China's (Nanjing) Software Valley. It is the first high-end hotel in Nanjing that features the inheritance of traditional Chinese health culture and practices the concept of a healthy lifestyle. </p>
     <p>Four enclosed structures make up the hotel's main structure, which cleverly combines the traditional Chinese conception of health and wellness with the natural ecology. The main building, which shockingly gives the illusion of floating in the air, houses  272 sets of varied guest rooms and suites, in addition to 4 high-end restaurants. The hotel restaurants follow the slogan "tasting five flavors in five seasons, serving only seasonal food," with the goal of serving guests food that can heal their bodies and souls. A 3,000 square meter banquet area, which is made up of banquet rooms and an inner court lawn, can be flexibly divided and combined to meet the needs of meetings and wedding banquets of various sizes and styles. </p>
 
@@ -84,8 +84,8 @@ spotlight-sections:
 spotlight-yunnan:
   title: Songtsam boutique tours
   content: |
-    <p class="text-before-expand"><b>Songtsam boutique tours</b></p>
-    <p class="text-before-expand">[expand]</p>
+    <p class="text-before-expand text-not-j"><b>Songtsam boutique tours</b></p>
+    <p>[expand]</p>
     <p>2017 saw the beginning of Songtsam's partnership with Fullshare Holdings. Since then, the two parties have worked together to offer customers around the world a deep cultural experience as well as top-notch health care and vacation services.</p>
     <p>The Songtsam Group, dubbed the "No. 1 brand of Tibetan travel" in China, has won numerous awards both domestically and internationally for its distinctive location choices, availability of boutique hotels with a museum-like feel, capacity to provide clients with value-for-money travel experiences, and the sincere and thoughtful services. Through more than 20 years of effort, Songtsam has developed a product that combines sightseeing along the new Yunnan-Tibet transit route, which extends along the Ancient Tea-Horse Road, and the experiences of living in boutique mountain hotels. It has a special travel route that links the World Natural Heritage "Three Rivers" region, the legendary National Highways 214 and 318, the Ancient Tea-Horse Road, and the "Third Pole" Qinghai-Tibet Plateau, with the goal of providing visitors the opportunities to deeply explore the hinterland of China's Three Rivers and the mysterious lands of Yunnan and Tibet. </p>
     <p>[/expand]</p>
