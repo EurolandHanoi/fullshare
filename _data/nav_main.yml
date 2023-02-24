@@ -35,10 +35,10 @@ en:
                 <ul class="sub-memu child">                    
                     <li><a href="/pages/property#wonder_city">Wonder City</a></li>
                     <li><a href="/pages/property#yuhua_salon">Yuhua Salon</a></li>  
-                    <li><a href="/pages_zh-cn/property_sc#fragrant_house">Xiangti Villa </a></li>         
-                    <li><a href="/pages_zh-cn/property_sc#prefecture">Junwang Mansion </a></li>             
-                    <li><a href="/pages_zh-cn/property_sc#princes">Zhugong</a></li>                    
-                    <li><a href="/pages_zh-cn/property_sc#xicheng_yipin">WEST CITY GARDEN</a></li>                    
+                    <li><a href="/pages_zh-cn/property#fragrant_house">Xiangti Villa </a></li>         
+                    <li><a href="/pages_zh-cn/property#prefecture">Junwang Mansion </a></li>             
+                    <li><a href="/pages_zh-cn/property#princes">Zhugong</a></li>                    
+                    <li><a href="/pages_zh-cn/property#xicheng_yipin">WEST CITY GARDEN</a></li>                    
                 </ul>
             </li>
         </ul>
