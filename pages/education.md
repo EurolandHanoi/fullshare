@@ -26,7 +26,7 @@ spotlight-sparrow_early_learning:
   image_url: "../images/business/education/sparrow_early_learning/2.jpg"
 
 spotlight-nanjing:
-  title: Nanjing University of Chinese Medicine Fullshare Health College
+  title: Nanjing University of Chinese Medicine, Fullshare Health College
   content: |
     <p class="text-before-expand">Fullshare and Nanjing University of Chinese Medicine collaborated to establish Nanjing University of Chinese Medicine, Fullshare Health College in June 2010. The college is based on the university's Acupuncture, Massage, and Health Rehabilitation Academy, which features one of the most conventional forms of Chinese healthcare. </p>
     <p class="text-before-expand">[expand]</p>
@@ -45,9 +45,9 @@ spotlight-nanjing:
 spotlight-fengsheng:
   title: Nanjing University of Chinese Medicine, Fullshare Healthcare City
   content: |
-    <p class="text-before-expand">In October 2014, Nanjing University of Chinese Medicine, Fullshare Health City was established at the Hanzhongmen Campus, upon the joint efforts of Fullshare and Nanjing University of Chinese Medicine. The goal of the health city is to create a health management system of "preventive treatment of diseases with traditional Chinese medicine", innovate the development model of the healthcare industry, lead in the development of the public healthcare culture, provide high-quality health services, and improve the health of the people.</p>
+    <p class="text-before-expand">In October 2014, Nanjing University of Chinese Medicine, Fullshare Healthcare City was established at the Hanzhongmen Campus, upon the joint efforts of Fullshare and Nanjing University of Chinese Medicine. The goal of the health city is to create a health management system of "preventive treatment of diseases with traditional Chinese medicine", innovate the development model of the healthcare industry, lead in the development of the public healthcare culture, provide high-quality health services, and improve the health of the people.</p>
     <p class="text-before-expand">[expand]</p>
-    <p>Fullshare Health City adopts traditional Chinese medicine diagnosis and treatment technology in the area of health management and healthcare services. It has also conducted a number of health-related projects involving a variety of traditional Chinese medicine health services, including meridian conditioning, traditional Chinese medicine cosmetology, traditional Chinese medicine hyperthermia, pediatric massage, vision protection and maintenance, health care knowledge training, health management, health catering, and health hotel. The city runs Guorentang, Guoruitang, and Guocuitang, as well as hotel apartments and restaurants that feature healthcare culture that has been designated as intangible cultural heritage, achieving the perfect combination of “medicine and health care". </p>
+    <p>Fullshare Healthcare City adopts traditional Chinese medicine diagnosis and treatment technology in the area of health management and healthcare services. It has also conducted a number of health-related projects involving a variety of traditional Chinese medicine health services, including meridian conditioning, traditional Chinese medicine cosmetology, traditional Chinese medicine hyperthermia, pediatric massage, vision protection and maintenance, health care knowledge training, health management, health catering, and health hotel. The city runs Guorentang, Guoruitang, and Guocuitang, as well as hotel apartments and restaurants that feature healthcare culture that has been designated as intangible cultural heritage, achieving the perfect combination of “medicine and health care". </p>
     <p>[/expand]</p>
   button:
     show: true
