@@ -43,7 +43,7 @@ spotlight-nanjing:
   image_url: "../images/business/education/sparrow_early_learning/8.jpg"
 
 spotlight-fengsheng:
-  title: Nanjing University of Chinese Medicine, Fullshare Health City
+  title: Nanjing University of Chinese Medicine, Fullshare Healthcare City
   content: |
     <p class="text-before-expand">In October 2014, Nanjing University of Chinese Medicine, Fullshare Health City was established at the Hanzhongmen Campus, upon the joint efforts of Fullshare and Nanjing University of Chinese Medicine. The goal of the health city is to create a health management system of "preventive treatment of diseases with traditional Chinese medicine", innovate the development model of the healthcare industry, lead in the development of the public healthcare culture, provide high-quality health services, and improve the health of the people.</p>
     <p class="text-before-expand">[expand]</p>
