@@ -28,7 +28,7 @@ spotlight-sparrow_early_learning:
 spotlight-nanjing:
   title: 南京中医药大学丰盛健康学院
   content: |
-    <p>2010年6月，丰盛携手南京中医药大学，依托南京中医药大学最具传统养生保健特色的针灸推拿•养生康复学院，合作成立“南京中医药大学丰盛健康学院” ，捐建丰盛健康楼用于学院教学、人才培养、科研与办公，并在国家卫生部领导的主持下正式挂牌“南京中医药大学丰盛健康学院”。 </p>
+    <p>2010年6月，丰盛携手南京中医药大学，依托南京中医药大学最具传统养生保健特色的针灸推拿•养生康复学院，合作成立“南京中医药大学丰盛健康学院” ，捐建丰盛健康楼用于学院教学、人才培养、科研与办公，并在国家卫生部领导的主持下正式挂牌“南京中医药大学丰盛健康学院”。</p>
     <p>[expand]</p>
     <p>南京中医药大学丰盛健康学院是迄今为止中国首家、也是唯一一家以传统医学和非药物保健疗法为基础的人才培养、技术研发、项目孵化、产学研一体的特色健康学院。 </p>
 
@@ -81,8 +81,8 @@ lang-ref: education.md
 
 {% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
 
-{% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='spotlight-nanjing' %}
+{% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='nanjing' %}
 
-{% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='spotlight-fengsheng' %}
+{% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='fengsheng' %}
 
-{% include _spotlight.html key='spotlight-medicine' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='spotlight-medicine' %}
+{% include _spotlight.html key='spotlight-medicine' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='medicine' %}
