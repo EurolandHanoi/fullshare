@@ -1334,7 +1334,7 @@
 	#laguna,
 	#ortopark {
 		.expand,
-		p {
+		p:not(.text-before-expand) {
 			text-align: justify;
 		}
 
