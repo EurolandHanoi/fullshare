@@ -15,7 +15,7 @@ banner:
 spotlight-sparrow_early_learning:
   title: Sparrow儿童教育集团
   content: |
-    <p>本集团旗下Sparrow儿童教育集团总部位于澳洲布里斯班市，目前在澳洲的昆士兰州和维多利亚州管理运营约30个儿童托管中心，为0-6岁儿童提供日间托管及教育服务。Sparrow在澳洲当地拥有良好的声誉及丰富经验的管理团队。</p>
+    <p>本集团联营公司Sparrow儿童教育集团总部位于澳洲布里斯班市，目前在澳洲的昆士兰州和维多利亚州管理运营约30个儿童托管中心，为0-6岁儿童提供日间托管及教育服务。Sparrow在澳洲当地拥有良好的声誉及丰富经验的管理团队。</p>
 
     <p><a href="http://www.sparrowearlylearning.com.au" class="button">前往网站</a></p>
   button:
