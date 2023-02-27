@@ -1363,8 +1363,11 @@
 		}
 	}
 
-        #en-img img {
-		object-position: 59% 20%;
+        body:not(.pages_zh-cn),
+	body:not(.pages_zh-hk) { 
+		#medicine img {
+			object-position: 59% 20% !important;
+		}
 	}
 
 	@include color-spotlight;
