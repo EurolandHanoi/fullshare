@@ -23,15 +23,15 @@ en:
             </li>
             <li><a href="/pages/education">Education & Healthcare</a>
                 <ul class="sub-memu child custom-menu-w">                    
-                    <li><a href="/pages/education#sparrow_early_learning">Sparrow Early Learning</a></li>    
                     <li><a href="/pages/education#nanjing">NJUTCM Fullshare Health College</a></li>                    
                     <li><a href="/pages/education#fengsheng">NJUTCM Fullshare Healthcare City</a></li>                    
-                    <li><a href="/pages/education#medicine">NJUTCM Traditional Chinese Medicine Hall</a></li>                   
+                    <li><a href="/pages/education#medicine">NJUTCM Traditional Chinese Medicine Hall</a></li>              
+                    <li><a href="/pages/education#sparrow_early_learning">Sparrow Early Learning</a></li>      
                 </ul>
             </li>            
             <li><a href="/pages/renewable">Renewable Energy</a>
                 <ul class="sub-memu child">                    
-                    <li><a href="/pages/renewable#chs">CHS</a></li>
+                    <li><a href="/pages/renewable#chs">China Transmission</a></li>
                 </ul>
             </li>
             <li><a href="/pages/property">Property</a>
@@ -99,7 +99,7 @@ tc:
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-hk/tourism_tc#sheraton">喜來登</a></li>
                     <li><a href="/pages_zh-hk/tourism_tc#laguna">亞拉古拉</a></li>
-                    <li><a href="/pages_zh-hk/tourism_tc#ortopark">奧爾托公園</a></li>
+                    <li><a href="/pages_zh-hk/tourism_tc#ortopark">ORTO Park</a></li>
                     <li><a href="/pages_zh-cn/tourism_sc#sections">五季凱悅臻選</a></li>
                     <li><a href="/pages_zh-cn/tourism_sc#yunnan">滇藏松贊文旅</a></li>
                 </ul>
@@ -183,7 +183,7 @@ sc:
                 <ul class="sub-memu child">
                     <li><a href="/pages_zh-cn/tourism_sc#sheraton">喜来登</a></li>
                     <li><a href="/pages_zh-cn/tourism_sc#laguna">亚拉古拉</a></li>
-                    <li><a href="/pages_zh-cn/tourism_sc#ortopark">奥尔托公园</a></li>
+                    <li><a href="/pages_zh-cn/tourism_sc#ortopark">ORTO Park</a></li>
                     <li><a href="/pages_zh-cn/tourism_sc#sections">五季凯悦臻选</a></li>
                     <li><a href="/pages_zh-cn/tourism_sc#yunnan">滇藏松赞文旅</a></li>
                 </ul>
