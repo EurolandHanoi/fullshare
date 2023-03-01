@@ -237,6 +237,7 @@ nav ul li:hover > ul {
     &.child {
         left: 100%;
         top: 0;
+        background: rgba(10, 34, 50, 0.8);
         min-width: 185px; //we give more width for the child dropdown
         @media screen and (min-width: 1681px) {
             min-width: 280px;
