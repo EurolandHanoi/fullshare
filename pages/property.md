@@ -53,7 +53,7 @@ spotlight-fragrant_house:
   content: |
     <p class="text-before-expand">Xiangti Villa(香醍名邸) is located in the west area of Tuanbo New Town, Jinghai, Tianjin, on the west side of Tuanbo Avenue and north side of Daminghu Road, 14 kilometers away from the center of Tianjin. The project covers an area of 120,100 square meters, with the planned construction area reaching 144,100 square meters.</p>
     <p>[expand]</p>
-    <p>The project, which is divided into four phases and includes areas of villas, small high-rises, bungalows, clubs, and so on, has been delivered in phases since 2014. With complete supporting facilities around such as medical care, education, sports, health care, and the subway, the project shows potential to be a community with great “livability” </p>
+    <p>The project, which is divided into four phases and includes areas of villas, small high-rises, bungalows, clubs, and so on, has been delivered in phases since 2014. With complete supporting facilities around such as medical care, education, sports, health care, and the subway, the project shows potential to be a community with great “livability”. </p>
     <p>[/expand]</p>
   button:
     show: true
@@ -65,10 +65,10 @@ spotlight-fragrant_house:
 spotlight-princes:
   title: Zhugong
   content: |
-    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters. As a residential community known for its ingenious style of the Republic of China, </p>
-     <p>[expand]</p>
-     <p>the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
-     <p>[/expand]</p>
+    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters.</p>
+    <p>[expand]</p>
+    <p>As a residential community known for its ingenious style of the Republic of China, the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
+    <p>[/expand]</p>
   button:
     show: true
     url: "#"

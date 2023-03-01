@@ -19,8 +19,8 @@ spotlight-chs:
 
     <p>[expand]</p>
     <ul>
-      <li>A Wind Power Transmission Equipment Comprehensive Service Provider With the Fastest Growth Rate, the Most Stable Product Quality and the Most Complete Services </li>
-      <li>The Champion in the Manufacturing Industry, Awarded by the Ministry of Industry and Information Technology and the China Federation of Industrial Economics·  </li>
+      <li>A Wind Power Transmission Equipment Comprehensive Service Provider With the Fastest Growth Rate, the Most Stable Product Quality and the Most Complete Services</li>
+      <li>The Champion in the Manufacturing Industry, Awarded by the Ministry of Industry and Information Technology and the China Federation of Industrial Economics</li>
       <li>The World No.1 in Market Share of Wind Power Gearboxes for 9 Consecutive Years </li>
       <li>Global Top 500 New Energy Enterprises </li>
       <li>China Machinery Industry Top 100 </li>
