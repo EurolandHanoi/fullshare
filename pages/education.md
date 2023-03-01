@@ -60,7 +60,9 @@ spotlight-medicine:
   title: Nanjing University of Chinese Medicine, Traditional Chinese Medicine Hall
   content: |
     <p class="text-before-expand">Founded in 1985, the Nanjing University of Chinese Medicine, the Traditional Chinese Medicine Hall is an important medical, clinical teaching, and scientific research base of the Nanjing University of Chinese Medicine. It is also an important window for the university to promote traditional Chinese medicine culture and popularize healthcare knowledge.</p>
+
     <p class="text-before-expand">[expand]</p>
+
     <p>The Traditional Chinese Medicine Hall houses a large number of TCM specialists, including not only veteran TCM practitioners, masters of Chinese medicine, and well-known TCM experts, but also a large number of young and middle-aged practitioners who are inheritors of traditional Chinese medicine and who are knowledgeable, diligent, and completely committed to the study of traditional Chinese medicine.  By adhering to the philosophy of "diagnose disease through four ways of look, listen, question, and feel the pulse, save lives with compassion and great medical skills," Hall's medical team, which is made up of hundreds of Chinese medicine specialists, makes every attempt to protect the health of the people. As a result, they have gained the respect and praise of patients both at home and abroad. The Hall has a number of departments, including TCM Gynecology, Andrology, Pediatrics, Dermatology, Otolaryngology, Acupuncture, and Massage. It has made significant contributions to the use of TCM skills in the treatment of tumors, difficult diseases, and the conditioning of chronic diseases. </p>
     <p>[/expand]</p>
   button:
@@ -80,10 +82,10 @@ lang-ref: education.md
 
 <!-- Properties -->
 
-{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
-
 {% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='nanjing' %}
 
 {% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='fengsheng' %}
 
 {% include _spotlight.html key='spotlight-medicine' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='medicine' %}
+
+{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
