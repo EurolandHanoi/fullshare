@@ -79,10 +79,10 @@ lang-ref: education.md
 
 <!-- Properties -->
 
-{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
-
 {% include _spotlight.html key='spotlight-nanjing' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='nanjing' %}
 
 {% include _spotlight.html key='spotlight-fengsheng' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='fengsheng' %}
 
 {% include _spotlight.html key='spotlight-medicine' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='right' id='medicine' %}
+
+{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
