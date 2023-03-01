@@ -106,10 +106,10 @@ tc:
             </li>
             <li><a href="/pages_zh-hk/education_tc">教育醫療</a>
                 <ul class="sub-memu child">
-                    <li><a href="/pages_zh-hk/education_tc#sparrow_early_learning">Sparrow兒童教育集團</a></li>                    
                     <li><a href="/pages_zh-cn/education_sc#nanjing">南京中醫藥大學豐盛健康學院</a></li>                    
                     <li><a href="/pages_zh-cn/education_sc#fengsheng">南京中醫藥大學豐盛健康城</a</li>                     
                     <li><a href="/pages_zh-cn/education_sc#medicine">南京中醫藥大學國醫堂</a></li>
+                    <li><a href="/pages_zh-hk/education_tc#sparrow_early_learning">Sparrow兒童教育集團</a></li>        
                 </ul>
             </li>            
             <li><a href="/pages_zh-hk/renewable_tc">再生能源</a>
@@ -190,10 +190,10 @@ sc:
             </li>
             <li><a href="/pages_zh-cn/education_sc">教育医疗</a>
                 <ul class="sub-memu child">                    
-                    <li><a href="/pages_zh-cn/education_sc#sparrow_early_learning">Sparrow儿童教育集团</a></li>                    
                     <li><a href="/pages_zh-cn/education_sc#nanjing">南京中医药大学丰盛健康学院</a></li>                    
                     <li><a href="/pages_zh-cn/education_sc#fengsheng">南京中医药大学丰盛健康城</a></li>                    
                     <li><a href="/pages_zh-cn/education_sc#medicine">南京中医药大学国医堂</a></li>                    
+                    <li><a href="/pages_zh-cn/education_sc#sparrow_early_learning">Sparrow儿童教育集团</a></li>                    
                 </ul>
             </li>            
             <li><a href="/pages_zh-cn/renewable_sc">再生能源</a>
