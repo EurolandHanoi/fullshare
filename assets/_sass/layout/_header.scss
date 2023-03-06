@@ -235,6 +235,7 @@ nav ul li:hover > ul {
     }
 
     &.child {
+	display: none !important;
         left: 100%;
         top: 0;
         background: rgba(10, 34, 50, 0.8);
