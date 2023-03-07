@@ -65,7 +65,7 @@ spotlight-fragrant_house:
 spotlight-princes:
   title: Zhugong
   content: |
-    <p class="text-before-expand">The company is the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters.</p>
+    <p class="text-before-expand">The company was the developer of Nanjing Zhugong Project. The project, located in Yuhuatai Scenic Area in Nanjing, China, covers a construction area of about 96,300 square meters.</p>
     <p>[expand]</p>
     <p>As a residential community known for its ingenious style of the Republic of China, the construction combines Western classical forms and modern industrial design and uses traditional Chinese ideas such as "the unity of man and nature" to upgrade the design. The project takes full advantage of local natural resources and has houses built on high mountains surrounded by dense forests. The buildings are harmonious with the surrounding environment, providing sufficient privacy for residents. </p>
     <p>[/expand]</p>
@@ -93,7 +93,7 @@ spotlight-prefecture:
 spotlight-xicheng_yipin:
   title: WEST CITY GARDEN
   content: |
-    <p class="text-before-expand">It is the developer of WEST CITY GARDEN（西城逸品）, in Yancheng, Jiangsu Province. The project has a total construction area of about 400,000 square meters, a floor area of about 200,000 square meters, and a greening rate of 46%. The project, known as a large waterfront garden living community, consists of 33 simple-style landscape buildings and accommodates 2,000 households. </p>
+    <p class="text-before-expand">It was the developer of WEST CITY GARDEN（西城逸品）, in Yancheng, Jiangsu Province. The project has a total construction area of about 400,000 square meters, a floor area of about 200,000 square meters, and a greening rate of 46%. The project, known as a large waterfront garden living community, consists of 33 simple-style landscape buildings and accommodates 2,000 households. </p>
     <p>[expand]</p>
     <p>The design of the building’s facade shows the influence of generous and simple design ideas, with the architectural structure outlined with the most concise lines, bringing a visual feast to the eyes. The rows of buildings have bright-colored building facade shapes showing a sense of depth and rhythm, and are separated by the wide space enabling a wide and nice view, becoming a unique landscape in the remote horizon of the city.  </p>
     <p>[/expand]</p>
