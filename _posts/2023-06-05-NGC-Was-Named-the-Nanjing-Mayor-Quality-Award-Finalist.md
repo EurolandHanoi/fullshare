@@ -4,7 +4,7 @@ lang: en
 author: ""
 comments: false
 button: ""
-date: 2023-06-06 00:00:00 +0800
+date: 2023-06-05 00:00:00 +0800
 excerpt: ""
 title: NGC Was Named the Nanjing Mayor Quality Award Finalist
 categories: ""
