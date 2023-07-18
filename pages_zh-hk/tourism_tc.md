@@ -29,7 +29,7 @@ spotlight-sheraton:
   image_url: "../images/business/tourism/sheraton/7.jpg"
 
 spotlight-laguna:
-  title: 亞拉古拉
+  title: 拉古拉
   content: |
     <p class="text-before-expand text-not-j"><b>澳大利亞拉古拉旅遊綜合城鎮</b></p>
     <p>[expand]</p>
