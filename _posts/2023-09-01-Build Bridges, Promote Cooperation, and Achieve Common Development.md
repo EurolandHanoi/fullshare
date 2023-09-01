@@ -4,7 +4,7 @@ lang: en
 author: ""
 comments: false
 button: ""
-date: 2023-09-01 00:00:00 +0800
+date: 2023-09-01 00:00:00 +0000
 excerpt: "Singapore College of Traditional Chinese Medicine Visits Nanjing University of Chinese Medicine and Nanjing University of Chinese Medicine Fengsheng Health College"
 title: Build Bridges, Promote Cooperation, and Achieve Common Development
 categories: ""
