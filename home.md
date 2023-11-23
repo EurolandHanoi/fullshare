@@ -104,10 +104,10 @@ items-contact:
   content: Media & Investor Enquiries
   list:
     - title: Telephone
-      content: <a href="tel:+852 3618 8462">+852 3618 8462</a>
+      content: <a href="tel:+852 3665 7188">+852 3665 7188</a>
       fa_class: fas fa-phone
     - title: Fax
-      content: +852 3460 4237
+      content: +852  3665 7100
       fa_class: fas fa-fax
     - title: Email
       content: <a href="mailto:info@fullshare.com">info@fullshare.com</a>

@@ -104,10 +104,10 @@ items-contact:
   content: 媒体及投资者查询
   list:
     - title: 电话
-      content: <a href="tel:+852 3618 8462">+852 3618 8462</a>
+      content: <a href="tel:+852 3665 7188">+852 3665 7188</a>
       fa_class: fas fa-phone
     - title: 传真
-      content: +852 3460 4237
+      content: +852  3665 7100
       fa_class: fas fa-fax
     - title: 电邮
       content: <a href="mailto:info@fullshare.com">info@fullshare.com</a>
