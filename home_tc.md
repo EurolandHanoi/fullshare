@@ -110,7 +110,7 @@ items-contact:
       content: +852 3460 4237
       fa_class: fas fa-fax
     - title: 電郵
-      content: <a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a>
+      content: <a href="mailto:info@fullshare.com">info@fullshare.com</a>
       fa_class: far fa-envelope
     - title: 公司地址
       content: <a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">香港金鐘夏愨道18號海富中心1座28樓2805室</a>
