@@ -447,10 +447,10 @@
 
 	});
 
-	var paragraphs = $('p.major');
+	var $paragraphs = $('p.major');
 
 	// Loop through each selected element
-	paragraphs.each(function() {
+	$paragraphs.each(function() {
 		// Check if the HTML content matches "Dec 14, 2023"
 		if ($(this).html().trim() === 'Dec 14, 2023') {
 			// Update the HTML content to "Dec 15, 2023"
