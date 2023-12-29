@@ -4,13 +4,13 @@ lang: en
 author: ""
 comments: false
 button: ""
-date: 2023-12-15 00:00:00 +0800
+date: 2023-12-16 00:00:00 +0800
 excerpt: ""
 title: The First Health-Preserving Culture Festival Launched in Nanjing – Citizens Full of Vigor in EPARK
 subtitle: ""
 categories: ""
 image: ""
-lang-ref: news_20231215
+lang-ref: news_20231216
 nav_name: nav_news
 ---
 
