@@ -224,7 +224,7 @@ nav ul li:hover > ul {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     width: auto;
     // max-width: 327px;
-    max-width: unset;	
+    max-width: unset;
 
     li {
         padding-left: 0;
@@ -281,4 +281,10 @@ nav ul li:hover > ul {
 .custom-menu-w {
     max-width: none !important;
     width: max-content !important;
+}
+
+ul.menu-lang-en .menu-lang-en,
+ul.menu-lang-sc .menu-lang-sc,
+ul.menu-lang-tc .menu-lang-tc {
+  display: none !important;
 }
