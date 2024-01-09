@@ -77,7 +77,7 @@ spotlight-news:
 
 spotlight-ir:
   title: 投资者关系
-  content:
+  content: |
     <!--
     <ul class="alt">
     <li><a href="pages/ir" class="button">Share Information</a></li>
