@@ -59,15 +59,6 @@
         {% if posts.size == 0 %}
             {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% endif %}
-
-      {% if page.layout == 'index' %}
-          <li class="menu-lang-en"><a href="{% if page.permalink %}{{ page.permalink | prepend: site.url }}{% else %}{{ site.url }}{% endif %}/home" class="button small fit special" title="View in English">
-          EN</a></li>
-          <li class="menu-lang-sc"><a href="{% if page.permalink %}{{ page.permalink | prepend: site.url }}{% else %}{{ site.url }}{% endif %}/home_sc" class="button small fit special" title="View in Simplified Chinese - 简体">
-            简</a></li>
-          <li class="menu-lang-tc"><a href="{% if page.permalink %}{{ page.permalink | prepend: site.url }}{% else %}{{ site.url }}{% endif %}/home_tc" class="button small fit special" title="View in Simplified Chinese - 简体">
-              繁</a></li>
-        {% endif %}
       
         {% if posts.size > 1 %}
             <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
