@@ -288,3 +288,27 @@ ul.menu-lang-sc .menu-lang-sc,
 ul.menu-lang-tc .menu-lang-tc {
   display: none !important;
 }
+
+li.hassub {
+    position: relative;
+
+    ul {
+        position: absolute;
+        top: 0;
+        left: 100%;
+        width: 100%;
+        height: auto;
+        background-color: #0a2232;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
+        transition: all 0.5s ease-in-out;
+    }
+    &:hover {
+        ul {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+    }
+}
