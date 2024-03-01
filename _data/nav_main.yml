@@ -79,7 +79,7 @@ en:
             <li><a href="/pages/ir_reports">Financial and ESG Reports</a></li>
             <li><a href="/pages/ir_factsheet">Fact Sheet</a></li>
             <li><a href="/pages/ir_interactive">Interactive Analysis</a></li>
-            <li class="hassub"><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">New Dissemination Arrangement</a>
+            <li class="hassub"><a href="javascripts:avoid(0)">New Dissemination Arrangement</a>
                 <ul class="sub-menu-lv2">
                     <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">REGISTERED HOLDER</a>
                     <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">NON-REGISTERED HOLDER</a>
@@ -169,10 +169,10 @@ tc:
             <li><a href="/pages_zh-hk/ir_reports_tc">財務及ESG報告</a></li>
             <li><a href="/pages_zh-hk/ir_factsheet_tc">公司一覽表</a></li>
             <li><a href="/pages_zh-hk/ir_interactive_tc">互動財務分析</a></li> 
-            <li class="hassub"><a href="../files/new-dissemination-arrangement-tc.pdf" target="_blank">發佈新安排</a>
+            <li class="hassub"><a href="javascripts:avoid(0)">發佈新安排</a>
                 <ul class="sub-menu-lv2">
-                    <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">登記股東</a>
-                    <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">非登記持有人</a>
+                    <li><a href="../files/new-dissemination-arrangement-tc.pdf" target="_blank">登記股東</a>
+                    <li><a href="../files/new-dissemination-arrangement-tc.pdf" target="_blank">非登記持有人</a>
                 </ul></li>
             <li><a href="/pages_zh-hk/ir_tc#Subscription">電郵訂閱中心</a></li> 
         </ul>
@@ -258,10 +258,10 @@ sc:
             <li><a href="/pages_zh-cn/ir_reports_sc">财务及ESG报告</a></li>
             <li><a href="/pages_zh-cn/ir_factsheet_sc">公司一览表</a></li>
             <li><a href="/pages_zh-cn/ir_interactive_sc">互动财务分析</a></li>
-            <li class="hassub"><a href="../files/new-dissemination-arrangement-sc.pdf" target="_blank">发布新安排</a>
+            <li class="hassub"><a href="javascripts:avoid(0)">发布新安排</a>
                 <ul class="sub-menu-lv2">
-                    <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">登记股东</a>
-                    <li><a href="../files/new-dissemination-arrangement-en.pdf" target="_blank">非登记持有人</a>
+                    <li><a href="../files/new-dissemination-arrangement-sc.pdf" target="_blank">登记股东</a>
+                    <li><a href="../files/new-dissemination-arrangement-sc.pdf" target="_blank">非登记持有人</a>
                 </ul>
             </li>
             <li><a href="/pages_zh-cn/ir_sc#Subscription">电邮订阅中心</a></li>                 
