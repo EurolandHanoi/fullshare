@@ -91,7 +91,8 @@ spotlight-ir:
     <a href="pages_zh-hk/ir_reports_tc" class="button">財務及ESG報告</a>
     <a href="pages_zh-hk/ir_factsheet_tc" class="button">公司一覽表</a>
     <a href="pages_zh-hk/ir_interactive_tc" class="button">互動分析</a>
-    <a href="../files/new-dissemination-arrangement-tc.pdf" class="button" target="_blank">發佈新安排</a>
+    <a class="button btn-ncc" href="../files/new-dissemination-arrangement-tc.pdf" target="_blank">發佈新安排（登記股東）</a>
+    <a class="button btn-ncc" href="../files/C_607-NRH-Letter.pdf" target="_blank">發佈新安排（非登記持有人）</a>
     <a href="pages_zh-hk/ir_tc#Subscription" class="button">電郵訂閱中心</a>	
     </p>
   button:

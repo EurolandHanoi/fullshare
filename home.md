@@ -91,7 +91,8 @@ spotlight-ir:
     <a href="pages/ir_reports" class="button">Financial and ESG Reports</a>
     <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
     <a href="pages/ir_interactive" class="button">Interactive Analysis</a>
-    <a href="../files/new-dissemination-arrangement-en.pdf" class="button" target="_blank">New Dissemination Arrangement</a>
+    <a href="../files/new-dissemination-arrangement-en.pdf" class="button btn-ncc" target="_blank">NEW DISSEMINATION ARRANGEMENT (RH)</a>
+    <a class="button btn-ncc" href="../files/E_607-NRH-Letter.pdf" target="_blank">NEW DISSEMINATION ARRANGEMENT (NRH)</a>
     <a href="pages/ir#Subscription" class="button">Subscription Centre</a>
 
   button:
