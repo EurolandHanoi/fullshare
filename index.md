@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Welcome to Fullshare
+title: Welcome to Fullshare | 丰盛控股
 banner:
   title:
   desc:
