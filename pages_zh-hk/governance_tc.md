@@ -75,7 +75,7 @@ lang-ref: governance.md
           </thead>
           <tbody>
             <tr>
-              <td>《上市規則附錄十四》</td>
+              <td>《上市規則附錄C1》</td>
             </tr>
             <tr>
               <td>《標準守則》</td>
