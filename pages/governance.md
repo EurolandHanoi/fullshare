@@ -76,7 +76,7 @@ lang-ref: governance.md
           </thead>
           <tbody>
             <tr>
-              <td>&lt;&lt;Appendix 14 of Listing Rules&gt;&gt;</td>
+              <td>&lt;&lt;Appendix C1 of Listing Rules&gt;&gt;</td>
             </tr>
             <tr>
               <td>&lt;&lt;Model Code&gt;&gt;</td>
