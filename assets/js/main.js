@@ -447,9 +447,23 @@
 
 	});
 
-	var $paragraphs = $('p.major');
-	
-	jQuery('.year-section').filter('.year-2023').last().find('h5').text('2023 Jun 05');
+	var paragraphs = $('p.major');
+
+	// Loop through each selected element
+	// paragraphs.each(function() {
+	// 	// Check if the HTML content matches "Dec 14, 2023"
+	// 	if ($(this).html().trim() === 'Dec 14, 2023') {
+	// 		// Update the HTML content to "Dec 15, 2023"
+	// 		$(this).html('Dec 15, 2023');
+	// 	}
+	// });
+
+	// jQuery('.year-section').filter('.year-2023').last().find('h5').text('2023 Jun 05');
+
+	console.log($('.year-section.year-2024 h5').html().trim());
+	if ($('.year-section.year-2024 h5').html().trim() === '2024 Jun 05') {
+		$('.year-section.year-2024 h5').html('2024 Jun 06');
+	}
 	
 	jQuery('.year-section').filter('.year-2022').last().addClass('last-item');
 	jQuery('.year-section').filter('.year-2021').last().addClass('last-item');
